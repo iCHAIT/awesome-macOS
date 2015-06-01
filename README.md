@@ -35,6 +35,13 @@ A beginners guide for Macbook.
 - Other Useful things
 - XtraFinder
 - LightShot
+- Applescripts
+- OS X Mirror
+- Xcode
+- Zsh
+- CodeBlocks
+- TextMate
+- Clementine
 
 ## System preferences
 
