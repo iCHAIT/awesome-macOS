@@ -27,11 +27,14 @@ A beginners guide for Macbook.
 - wget
 - dropbox
 - R
+- Go
 - Mercurial
 - fish
 - virtualbox
 - Useful shortcuts
 - Other Useful things
+- XtraFinder
+- LightShot
 
 ## System preferences
 
@@ -584,3 +587,8 @@ The [Heroku Dev Center](https://devcenter.heroku.com/) is full of great resource
 
 ## Apps
 
+
+## GO
+$ brew install go
+Setup GOPATH to $HOME/Projects/go
+Include $GOPATH/bin in PATH
