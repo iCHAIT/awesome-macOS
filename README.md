@@ -42,6 +42,8 @@ A beginners guide for Macbook.
 - CodeBlocks
 - TextMate
 - Clementine
+- Github Client
+
 
 ## System preferences
 
@@ -599,3 +601,13 @@ The [Heroku Dev Center](https://devcenter.heroku.com/) is full of great resource
 $ brew install go
 Setup GOPATH to $HOME/Projects/go
 Include $GOPATH/bin in PATH
+
+
+## Useful Shortcuts
+
+Shortcuts
+Window Maximize
+Enter opens Keyboard. Rename?
+Access Application Menu and Dock using keyboard
+Show Desktop
+Bring All to front
