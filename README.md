@@ -43,6 +43,8 @@ A beginners guide for Macbook.
 - TextMate
 - Clementine
 - Github Client
+- Pelican
+- pyQT
 
 
 ## System preferences
@@ -611,3 +613,8 @@ Enter opens Keyboard. Rename?
 Access Application Menu and Dock using keyboard
 Show Desktop
 Bring All to front
+
+
+#### pyQT
+
+http://nikolak.com/pyqt-qt-designer-getting-started/
