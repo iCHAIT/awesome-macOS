@@ -1,17 +1,24 @@
 # HelloMac
 
-A beginners guide for Macbook.
+A curated list of awesome applications and developer tools that you should have to get you going to start your developemnt work.
+
+
+
+## Why??
+
+Having used windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime. So I though of compiling together all the things that I have learned in my process of using and learning what my mac can do.
 
 
 - [System preferences](#system-preferences)
+
+
+
+
+Applications
+============
+
 - [iTerm2](#iterm2)
-- [Homebrew](#homebrew)
-- [Git](#git)
-- [Sublime Text 3](#sublime-text)
-- [Python](#python)
-- [Virtualenv](#virtualenv)
-- [MySQL](#mysql)
-- [sass](#sass)
+- [Sublime Text 3](#sublime)
 - [Alfred](#alfred)
 - [Quicksilver](#quicksilver)
 - [Cloudapp](#cloudapp)
@@ -23,28 +30,56 @@ A beginners guide for Macbook.
 - [TheUnarchiver](#theunarchiver)
 - [Google Chrome](#googlechrome)
 - [Pocket](#pocket)
-- utorrent
-- wget
-- dropbox
-- R
-- Go
-- Mercurial
-- fish
-- virtualbox
+- [fish](#fish)
+- [XtraFinder](#xtrafinder)
+- [dropbox](#dropbox)
+- [virtualbox](#virtualbox)
+- [Xcode](#xcode)
+- [Zsh](#zsh)
+- [CodeBlocks](#codeblocks)
+- [TextMate](#textmate)
+- [Clementine](#clementine)
+- [Github](#github)
+- [utorrent](#utorrent)
+- [LightShot](#lightshot)
+
+
+
+Developement Tools
+==================
+
+- [Homebrew](#homebrew)
+- [Git](#git)
+- [Python](#python)
+- [Virtualenv](#virtualenv)
+- [pip](#pip)
+- [MySQL](#mysql)
+- [sass](#sass)
+- [wget](#wget)
+- [R](#r)
+- [Go](#go)
+- [Mercurial](#mercurial)
+- [Pelican](#pelican)
+- [pyQT](#pyqt)
+- [Heroku](#heroku)
+
+
+
+Useful Shortcuts
+================
+
+
 - Useful shortcuts
 - Other Useful things
-- XtraFinder
-- LightShot
+
+
+
+Useful Stuff
+=========
+
+
 - Applescripts
 - OS X Mirror
-- Xcode
-- Zsh
-- CodeBlocks
-- TextMate
-- Clementine
-- Github Client
-- Pelican
-- pyQT
 
 
 ## System preferences
@@ -54,9 +89,8 @@ If this is a new computer, there are a couple tweaks I like to make to the Syste
 In **Apple Icon > System Preferences**:
 
 - Trackpad > Tap to click
-- Keyboard > Key Repeat > Fast (all the way to the right)
-- Keyboard > Delay Until Repeat > Short (all the way to the right)
 - Dock > Automatically hide and show the Dock
+- Security & Privacy > Allow apps downloaded from > Anywhere
 
 
 ## iTerm2
@@ -618,3 +652,15 @@ Bring All to front
 #### pyQT
 
 http://nikolak.com/pyqt-qt-designer-getting-started/
+
+
+
+
+#### Basic keys & symbols
+
+| Symbol    | Key         | 
+|:---------:|:-----------:|
+|  &#8984;  | Command Key |
+|  &#8963;  | Control Key |
+|  &#8997;  | Option Key  |
+|  &#8679;  | Shift Key   |
