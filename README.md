@@ -1,17 +1,14 @@
 # HelloMac
 
-A curated list of awesome applications and developer tools that you should have to get you going to start your developemnt work.
-
+A curated list of awesome applications and developer tools for your mac.
 
 
 ## Why??
 
-Having used windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime. So I though of compiling together all the things that I have learned in my process of using and learning what my mac can do.
+Having used windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime no matter how big or small the issue was. So I thought of compiling together all the stuff that I have learned in my process of using my mac. Hopefully it would help someone.
 
 
 - [System preferences](#system-preferences)
-
-
 
 
 Applications
@@ -24,6 +21,7 @@ Applications
 - [Cloudapp](#cloudapp)
 - [Mac2Imgur](#mac2imgur)
 - [Adium](#adium)
+- [Caffeine](#caffeine)
 - [RazorSQL](#razorsql)
 - [PSequel](#psql)
 - [Dash](#dash)
@@ -37,10 +35,10 @@ Applications
 - [Xcode](#xcode)
 - [Zsh](#zsh)
 - [CodeBlocks](#codeblocks)
+- [ClipMenu](#clipmenu)
 - [TextMate](#textmate)
 - [Clementine](#clementine)
 - [Github](#github)
-- [utorrent](#utorrent)
 - [LightShot](#lightshot)
 
 
