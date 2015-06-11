@@ -42,20 +42,26 @@ Applications
 - [LightShot](#lightshot)
 
 
+Programmming Languages
+======================
+
+- [Python](#python)
+- [MySQL](#mysql)
+- [R](#r)
+- [Go](#go)
+
+
+
 
 Developement Tools
 ==================
 
 - [Homebrew](#homebrew)
 - [Git](#git)
-- [Python](#python)
 - [Virtualenv](#virtualenv)
 - [pip](#pip)
-- [MySQL](#mysql)
 - [sass](#sass)
 - [wget](#wget)
-- [R](#r)
-- [Go](#go)
 - [Mercurial](#mercurial)
 - [Pelican](#pelican)
 - [pyQT](#pyqt)
