@@ -15,6 +15,7 @@ Applications
 ============
 
 - [iTerm2](#iterm2)
+- [TextExpander](#textexpander)
 - [Sublime Text 3](#sublime)
 - [Alfred](#alfred)
 - [Quicksilver](#quicksilver)
@@ -69,12 +70,15 @@ Developement Tools
 
 
 
+
+
 Useful Shortcuts
 ================
 
-
 - Useful shortcuts
 - Other Useful things
+
+
 
 
 
@@ -84,6 +88,8 @@ Useful Stuff
 
 - Applescripts
 - OS X Mirror
+
+
 
 
 ## System preferences
@@ -668,3 +674,10 @@ http://nikolak.com/pyqt-qt-designer-getting-started/
 |  &#8963;  | Control Key |
 |  &#8997;  | Option Key  |
 |  &#8679;  | Shift Key   |
+
+
+
+TODO
+====
+
+Write a blog post about the same.
