@@ -1,0 +1,1127 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lati",
+				"latitude"
+			],
+			[
+				"lo",
+				"locationName"
+			],
+			[
+				"location",
+				"locationNameInput"
+			],
+			[
+				"address",
+				"us3-address"
+			],
+			[
+				"street",
+				"streetName"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"post",
+				"postalCode"
+			],
+			[
+				"org",
+				"orgs_sorted	statement"
+			],
+			[
+				"orgs",
+				"orgs_sorted	statement"
+			],
+			[
+				"pr",
+				"projc	statement"
+			],
+			[
+				"or",
+				"orglist	statement"
+			],
+			[
+				"us",
+				"us3-address"
+			],
+			[
+				"longitude",
+				"longitudeInput"
+			],
+			[
+				"latitude",
+				"latitudeInput"
+			],
+			[
+				"coo",
+				"coordinates_from_address"
+			],
+			[
+				"po",
+				"post_data	statement"
+			],
+			[
+				"longi",
+				"longitudeInput"
+			],
+			[
+				"la",
+				"latitudeInput"
+			],
+			[
+				"add",
+				"addressComponents"
+			],
+			[
+				"loca",
+				"locationNameInput"
+			],
+			[
+				"ve",
+				"vendors	statement"
+			],
+			[
+				"sea",
+				"search_term	statement"
+			],
+			[
+				"se",
+				"search_term	statement"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"a",
+				"articles	statement"
+			],
+			[
+				"S",
+				"SearchQuerySet	class"
+			],
+			[
+				"mod",
+				"model_attr"
+			],
+			[
+				"C",
+				"CharField	class"
+			],
+			[
+				"B",
+				"BASE_DIR	statement"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"in",
+				"indexes	module"
+			],
+			[
+				"I",
+				"Indexable	class"
+			],
+			[
+				"Se",
+				"SearchIndex	class"
+			],
+			[
+				"re",
+				"request	param"
+			],
+			[
+				"Post",
+				"PostBase"
+			],
+			[
+				"Messa",
+				"MessageFeed"
+			],
+			[
+				"Pos",
+				"PostBase"
+			],
+			[
+				"Ne",
+				"NewPost"
+			],
+			[
+				"tag_set",
+				"tag_set"
+			],
+			[
+				"valid",
+				"valid_content"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"list",
+				"list_tag"
+			],
+			[
+				"tag",
+				"tag_list"
+			],
+			[
+				"POS",
+				"POST_CHOICES"
+			],
+			[
+				"valid_",
+				"valid_tag"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"short",
+				"short_validate"
+			],
+			[
+				"long",
+				"long_validate"
+			],
+			[
+				"vali",
+				"validators"
+			],
+			[
+				"sho",
+				"short_validate"
+			],
+			[
+				"char",
+				"CharField"
+			],
+			[
+				"L",
+				"LongForm"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"lt",
+				"lt"
+			],
+			[
+				"valida",
+				"validators"
+			],
+			[
+				"py",
+				"PyQuery"
+			],
+			[
+				"c",
+				"characters"
+			],
+			[
+				"Va",
+				"ValidationError"
+			],
+			[
+				"s",
+				"strip"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"ra",
+				"random_word"
+			],
+			[
+				"fil",
+				"filenames"
+			],
+			[
+				"ne",
+				"new_node"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"p",
+				"procedure"
+			],
+			[
+				"n",
+				"node"
+			],
+			[
+				"read",
+				"read_graph"
+			],
+			[
+				"pl",
+				"plug"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"term",
+				"Open in terminal"
+			],
+			[
+				"ss ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"emm",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"REPL",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"repl",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"sublimerepl",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pprev",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"a",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"auto",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"aut",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"au",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"pretty ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pe",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"git diff",
+				"git: diff"
+			],
+			[
+				"ss C++",
+				"Set Syntax: C++"
+			],
+			[
+				"ss c++",
+				"Set Syntax: C++"
+			],
+			[
+				"git:",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"log cu",
+				"git: log current file"
+			],
+			[
+				"ss h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python"
+			],
+			[
+				"ss p",
+				"Set Syntax: Python"
+			],
+			[
+				"sav",
+				"GitSavvy: view recorded log"
+			],
+			[
+				"git s",
+				"git: quick stage current file and commit"
+			],
+			[
+				"",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Package Control: Install Package"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ss m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss P",
+				"Set Syntax: Python"
+			],
+			[
+				"ss",
+				"Set Syntax: Python"
+			],
+			[
+				"ss ",
+				"Set Syntax: Python"
+			],
+			[
+				"ss c",
+				"Set Syntax: C"
+			],
+			[
+				"ss sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss a",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"ss ap",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"ss app",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"ss appl",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"ss gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word (flip syntax sensitivity)"
+			],
+			[
+				"ss plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chaitanyagupta/Desktop/HelloMac/README.md",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/README.md",
+		"/Users/chaitanyagupta/.config/fish/config.fish",
+		"/Users/chaitanyagupta/dotfish",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/forms.py",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/The Sorting Hat/README.md",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/tests/views/entry/test_edit_vendor.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/tests/views/entry/test_new_vendor.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/views/entry/vendors.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/vendor.html",
+		"/Users/chaitanyagupta/fish-conf",
+		"/Users/chaitanyagupta/.fish",
+		"/Users/chaitanyagupta/Desktop/test/ran.pdf",
+		"/Users/chaitanyagupta/Desktop/test/ama.pdf",
+		"/Users/chaitanyagupta/Desktop/test/idk.js",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/kok.dmg",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/functions.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/models.py",
+		"/Users/chaitanyagupta/Desktop/soccer/stats/student-count.py",
+		"/Users/chaitanyagupta/Desktop/soccer/stats/org-count.py",
+		"/Users/chaitanyagupta/Desktop/soccer/stats/year-stat.py",
+		"/Users/chaitanyagupta/Desktop/soccer/data/fetch-details.py",
+		"/Users/chaitanyagupta/Desktop/ran.py",
+		"/Users/chaitanyagupta/Desktop/soccer/stats/README.md",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/static/css/style.css",
+		"/Users/chaitanyagupta/Desktop/soccer/stats/seniors.py",
+		"/Users/chaitanyagupta/Desktop/soccer/data/projects/2014.json",
+		"/Users/chaitanyagupta/Desktop/soccer/stats/big_players.py",
+		"/Users/chaitanyagupta/Desktop/soccer/data/projects/2009.json",
+		"/Users/chaitanyagupta/Desktop/soccer/data/org/2009.json",
+		"/Users/chaitanyagupta/Desktop/GSoC2015.md",
+		"/Users/chaitanyagupta/Documents/gsoc-orgs/GSoC1.md",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/views/vendor.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/.gitignore",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/static/js/script.js",
+		"/Users/chaitanyagupta/Desktop/newmap.html",
+		"/Users/chaitanyagupta/Desktop/soccer/README.md",
+		"/Users/chaitanyagupta/Desktop/map.html",
+		"/Users/chaitanyagupta/Desktop/mapnew.html",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/static/css/style.scss",
+		"/Users/chaitanyagupta/Desktop/soccer/data/purify-lists.py",
+		"/Users/chaitanyagupta/Desktop/soccer/data/Readme.md",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/location.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/base.py",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/agecalulator/agecalculator2.py",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/agecalulator/agecalculator1.py",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/pdf_dwnldr.py",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/googleSearch.py",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/sort_dwnlds.py",
+		"/Users/chaitanyagupta/Desktop/Python-scripts/todo_manager.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/entry.html",
+		"/Users/chaitanyagupta/.fish_config",
+		"/usr/local/bin/easy_install",
+		"/Users/chaitanyagupta/.bash_profile",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/mpibcast.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/average_reduce.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/matrixMult.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/onsort.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/array_prod.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/pieCalculation.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/mpi_hello_world.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/longsum.c",
+		"/Users/chaitanyagupta/Desktop/Assignment/MPI/SimpleSendRcv.c",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/tests/views/entry/test_list_vendors.py",
+		"/Users/chaitanyagupta/Desktop/Assignment/OMP/MatrixMul.c",
+		"/Users/chaitanyagupta/Desktop/dz.py",
+		"/Users/chaitanyagupta/Desktop/q13.cpp",
+		"/Users/chaitanyagupta/Desktop/q14.cpp",
+		"/Users/chaitanyagupta/Desktop/q15.cpp",
+		"/Users/chaitanyagupta/Desktop/q16.cpp",
+		"/Users/chaitanyagupta/Desktop/qs1.cpp",
+		"/Users/chaitanyagupta/Desktop/qs2.cpp",
+		"/Users/chaitanyagupta/Desktop/q17.cpp",
+		"/Users/chaitanyagupta/Desktop/a.py",
+		"/Users/chaitanyagupta/Desktop/Python-Scripts/sort_dwnlds.py",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q12.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q6.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q11.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q10.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q9.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q8.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q13.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q7.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q5.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q4.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q3.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q2.cpp",
+		"/Users/chaitanyagupta/Documents/OOPS ASSIGN/OOPS/q1.cpp",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/setup.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh.egg-info/requires.txt",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/list.html",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/search_indexes.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/urls.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/ajax_search.html",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/search/indexes/whats_fresh_api/vendor_text.txt",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/requirements.txt",
+		"/Users/chaitanyagupta/Desktop/complete.pretty.json",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/search/search.html",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/search_sites.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/search/indexes/whats_fresh_api/whats_fresh_api_text.txt",
+		"/Users/chaitanyagupta/Desktop/ECC/README.md",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/whats_fresh_api/templates/serch_indexes.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/whats_fresh/settings.py",
+		"/Users/chaitanyagupta/Desktop/whats-fresh-api/README.rst",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/models.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/views.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps/posts/models.pyc",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps/posts/tests.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/feeds.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps/util/html.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/rss_info.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/urls.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps/users/views.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps/posts/views.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/settings/base.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps/users/models.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/moderate.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps/posts/models.py",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/messages/post_created_short.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/post_edit.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/post_details.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/server_tags/post_actions.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/server_tags/post_user_box.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/server_tags/post_count_box.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/server_tags/post_body.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/starbase.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/post_list.html",
+		"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/server/templates/post_moderation_form.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/chaitanyagupta/Desktop/incf/biostar-central/",
+			"/Users/chaitanyagupta/Desktop/incf/biostar-central/biostar/apps"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"            '",
+			"errors",
+			"vend",
+			"longitude",
+			"street",
+			"latitude",
+			"save",
+			"assertGreater",
+			"onClick",
+			"submit",
+			"preparation_ids",
+			"setPreparationField()",
+			"preparation_ids",
+			"preparation_id",
+			"onclick",
+			"setPreparationField()",
+			"setPreparationFields",
+			"preparation",
+			"setPreparationField()",
+			"onClick",
+			"requests",
+			"title",
+			"\"organization\": \"strace\"",
+			"apache",
+			"\"organization\": \"Native Client\"",
+			"Native Client",
+			".)\n",
+			"h3",
+			"longitude",
+			"latitude",
+			"form",
+			"vendor_form",
+			"coordinates_from_address",
+			"BadAddressException",
+			"BadAddress",
+			"error",
+			"invalid",
+			"hours",
+			"location",
+			"script",
+			"($('#",
+			"console",
+			"sans",
+			"form",
+			"input",
+			"px",
+			"form",
+			"style",
+			"class",
+			"classfield",
+			"field",
+			"class",
+			"parent",
+			"class",
+			"light",
+			"class",
+			"id",
+			"footer",
+			"document",
+			"footer",
+			"body",
+			"jquery",
+			"body",
+			"key",
+			"location",
+			": ",
+			"body",
+			"fixtures",
+			"three",
+			"two",
+			"one",
+			"afile",
+			"dthree",
+			"dtwo",
+			"vendors",
+			"paginator",
+			"search",
+			"search_term",
+			"get",
+			",p",
+			"RE",
+			"internal",
+			"recieved",
+			"object",
+			"user-messages",
+			"message",
+			"messages",
+			"wrote on",
+			"length",
+			"2",
+			"short_validate",
+			"MAX_POSTS_TRUSTED_USER`",
+			"user_exceeds_limits",
+			"data",
+			"TOP_LEVEL",
+			"top_level",
+			"Forum",
+			"class Post",
+			")\n",
+			"print",
+			"pk",
+			"Forum",
+			"post.tag_val",
+			"post",
+			"ALLOWED_TAGS",
+			"type",
+			"POST",
+			"forms",
+			"        \n",
+			"tag",
+			"validators",
+			"valid_title",
+			"label",
+			"longform",
+			"body",
+			"Ensure",
+			"post",
+			"execute",
+			"nano",
+			"vim",
+			"VACCUM",
+			"default:",
+			"default: .",
+			"default: Cleaning up...",
+			"default: successfully installed django rawes xlrd",
+			"succesfully installed django rawes",
+			"downloading/unpacking django",
+			"downloading unpacking django"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "mac.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"form",
+				"whats_fresh/whats_fresh_api/forms.py"
+			],
+			[
+				"test_new",
+				"whats_fresh/whats_fresh_api/tests/views/entry/test_new_vendor.py"
+			],
+			[
+				"vendor.py",
+				"whats_fresh/whats_fresh_api/views/entry/vendors.py"
+			],
+			[
+				"ven",
+				"whats_fresh/whats_fresh_api/templates/vendor.html"
+			],
+			[
+				"test_ne",
+				"whats_fresh/whats_fresh_api/tests/views/entry/test_new_vendor.py"
+			],
+			[
+				"test_edit",
+				"whats_fresh/whats_fresh_api/tests/views/entry/test_edit_vendor.py"
+			],
+			[
+				"vendor",
+				"whats_fresh/whats_fresh_api/views/entry/vendors.py"
+			],
+			[
+				"vend",
+				"whats_fresh/whats_fresh_api/templates/vendor.html"
+			],
+			[
+				"funct",
+				"whats_fresh/whats_fresh_api/functions.py"
+			],
+			[
+				"models",
+				"whats_fresh/whats_fresh_api/models.py"
+			],
+			[
+				"froms.py",
+				"whats_fresh/whats_fresh_api/forms.py"
+			],
+			[
+				"mod",
+				"whats_fresh/whats_fresh_api/models.py"
+			],
+			[
+				"mode",
+				"whats_fresh/whats_fresh_api/models.py"
+			],
+			[
+				"css",
+				"whats_fresh/whats_fresh_api/static/css/style.css"
+			],
+			[
+				"functi",
+				"whats_fresh/whats_fresh_api/functions.py"
+			],
+			[
+				"forms",
+				"whats_fresh/whats_fresh_api/forms.py"
+			],
+			[
+				"vendo",
+				"whats_fresh/whats_fresh_api/views/entry/vendors.py"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"vendr",
+				"whats_fresh/whats_fresh_api/templates/vendor.html"
+			],
+			[
+				"style.s",
+				"whats_fresh/whats_fresh_api/static/css/style.scss"
+			],
+			[
+				"sty",
+				"whats_fresh/whats_fresh_api/static/css/style.css"
+			],
+			[
+				"vendor.h",
+				"whats_fresh/whats_fresh_api/templates/vendor.html"
+			],
+			[
+				"base",
+				"whats_fresh/base.py"
+			],
+			[
+				"entry",
+				"whats_fresh/whats_fresh_api/templates/entry.html"
+			],
+			[
+				"vendors.py",
+				"whats_fresh/whats_fresh_api/views/entry/vendors.py"
+			],
+			[
+				"listven",
+				"whats_fresh/whats_fresh_api/tests/views/entry/test_list_vendors.py"
+			],
+			[
+				"listvendor",
+				"whats_fresh/whats_fresh_api/tests/views/entry/test_list_vendors.py"
+			],
+			[
+				"bas",
+				"whats_fresh/base.py"
+			],
+			[
+				"re",
+				"whats_fresh.egg-info/requires.txt"
+			],
+			[
+				"se",
+				"setup.py"
+			],
+			[
+				"ba",
+				"whats_fresh/base.py"
+			],
+			[
+				"r",
+				"whats_fresh.egg-info/requires.txt"
+			],
+			[
+				".",
+				".gitignore"
+			],
+			[
+				"urls",
+				"whats_fresh/whats_fresh_api/urls.py"
+			],
+			[
+				"requi",
+				"whats_fresh.egg-info/requires.txt"
+			],
+			[
+				"text",
+				"whats_fresh/whats_fresh_api/templates/search/indexes/whats_fresh_api/vendor_text.txt"
+			],
+			[
+				"lis",
+				"whats_fresh/whats_fresh_api/templates/list.html"
+			],
+			[
+				"mo",
+				"whats_fresh/whats_fresh_api/models.py"
+			],
+			[
+				"vendors",
+				"whats_fresh/whats_fresh_api/views/entry/vendors.py"
+			],
+			[
+				"vendor_",
+				"whats_fresh/whats_fresh_api/templates/search/indexes/whats_fresh_api/vendor_text.txt"
+			],
+			[
+				"sea",
+				"whats_fresh/whats_fresh_api/search_indexes.py"
+			],
+			[
+				"setu",
+				"setup.py"
+			],
+			[
+				"views",
+				"whats_fresh/whats_fresh_api/views/entry/vendors.py"
+			],
+			[
+				"ur",
+				"whats_fresh/whats_fresh_api/urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/test/py.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,9 +1,9 @@
-# HelloMac
+# Awesome-Mac
 
 A curated list of awesome applications and developer tools for your mac.
 
 
-## Why??
+## Why?
 
 Having used windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime no matter how big or small the issue was. So I thought of compiling together all the stuff that I have learned in my process of using my mac. Hopefully it would help someone.
 
@@ -52,8 +52,6 @@ Programmming Languages
 - [Go](#go)
 
 
-
-
 Developement Tools
 ==================
 
@@ -69,9 +67,6 @@ Developement Tools
 - [Heroku](#heroku)
 
 
-
-
-
 Useful Shortcuts
 ================
 
@@ -79,17 +74,11 @@ Useful Shortcuts
 - Other Useful things
 
 
-
-
-
 Useful Stuff
-=========
-
+============
 
 - Applescripts
 - OS X Mirror
-
-
 
 
 ## System preferences
