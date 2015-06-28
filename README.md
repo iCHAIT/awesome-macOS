@@ -1,4 +1,4 @@
-# Awesome-Mac
+# awesome-mac
 
 A curated list of awesome applications and developer tools for your mac.
 
