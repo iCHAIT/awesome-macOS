@@ -41,6 +41,7 @@ Applications
 - [Clementine](#clementine)
 - [Github](#github)
 - [LightShot](#lightshot)
+- [CloudClip](#cloudclip)
 
 
 Programmming Languages
@@ -651,6 +652,10 @@ Bring All to front
 #### pyQT
 
 http://nikolak.com/pyqt-qt-designer-getting-started/
+
+#### CloudClip
+
+For sharing various data from your ios device to your mac and vice versa
 
 
 
