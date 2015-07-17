@@ -8,6 +8,16 @@ A curated list of awesome applications and developer tools for your mac.
 Having used windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime no matter how big or small the issue was. So I thought of compiling together all the stuff that I have learned in my process of using my mac. Hopefully it would help someone.
 
 
+#### Basic keys & symbols
+
+| Symbol    | Key         | 
+|:---------:|:-----------:|
+|  &#8984;  | Command Key |
+|  &#8963;  | Control Key |
+|  &#8997;  | Option Key  |
+|  &#8679;  | Shift Key   |
+
+
 - [System preferences](#system-preferences)
 
 
@@ -49,6 +59,7 @@ Programmming Languages
 
 - [Python](#python)
 - [MySQL](#mysql)
+- [MySQL WorkBench](#mysqlworkbench)
 - [R](#r)
 - [Go](#go)
 
@@ -84,13 +95,13 @@ Useful Stuff
 
 ## System preferences
 
-If this is a new computer, there are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+There are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
 
 In **Apple Icon > System Preferences**:
 
 - Trackpad > Tap to click
 - Dock > Automatically hide and show the Dock
-- Security & Privacy > Allow apps downloaded from > Anywhere
+- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
 
 
 ## iTerm2
@@ -106,6 +117,7 @@ Let's just quickly change some preferences. In **iTerm > Preferences...**, under
 In the tab **Profiles**, create a new one with the "+" icon, and rename it to your first name for example. Then, select **Other Actions... > Set as Default**. Finally, under the section **Window**, change the size to something better, like **Columns: 125** and **Rows: 35**.
 
 When done, hit the red "X" in the upper left (saving is automatic in OS X preference panes). Close the window and open a new one to see the size change.
+
 
 ## Homebrew
 
@@ -198,6 +210,7 @@ To push code to your GitHub repositories, we're going to use the recommended HTT
     
 **Note**: On a Mac, it is important to remember to add `.DS_Store` (a hidden OS X system file that's put in folders) to your `.gitignore` files. You can take a look at this repository's [.gitignore](https://github.com/nicolashery/mac-dev-setup/blob/master/.gitignore) file for inspiration.
     
+
 ## Sublime Text 3
 
 With the terminal, the text editor is a developer's most important tool. Everyone has their preferences, but unless you're a hardcore [Vim](http://en.wikipedia.org/wiki/Vim_(text_editor)) user, a lot of people are going to tell you that [Sublime Text](http://www.sublimetext.com/) is currently the best one out there.
@@ -358,6 +371,7 @@ It will get installed in the `venv` folder, and not conflict with other projects
 
 As mentioned earlier, I like to install big packages (like Numpy), or packages I always use (like IPython) globally. All the rest I install in a virtualenv.
 
+
 ## IPython
 
 [IPython](http://ipython.org/) is an awesome project which provides a much better Python shell than the one you get from running `$ python` in the command-line. It has many cool functions (running Unix commands from the Python shell, easy copy & paste, creating Matplotlib charts in-line, etc.) and I'll let you refer to the [documentation](http://ipython.org/ipython-doc/stable/index.html) to discover them.
@@ -395,6 +409,7 @@ alias ipy='ipython qtconsole --ConsoleWidget.font_family="Consolas" --ConsoleWid
 Open a fresh terminal. Now when you run `$ ipy`, it will launch the QT Console with your configured options.
 
 To use the in-line Matplotlib functionality (nice for scientific computing), run `$ ipy --pylab=inline`.
+
 
 ## MySQL
 
@@ -435,11 +450,13 @@ To connect with the command-line client, run:
 
 **Note**: By default, the MySQL user `root` has no password. It doesn't really matter for a local development database. If you wish to change it though, you can use `$ mysqladmin -u root password 'new-password'`.
 
+
 ### MySQL Workbench
 
 In terms of a GUI client for MySQL, I'm used to the official and free [MySQL Workbench](http://www.mysql.com/products/workbench/). But feel free to use whichever you prefer.
 
 You can find the MySQL Workbench download [here](http://www.mysql.com/downloads/workbench/). (**Note**: It will ask you to sign in, you don't need to, just click on "No thanks, just start my download!" at the bottom.)
+
 
 ## Node.js
 
@@ -629,25 +646,13 @@ Once the key business is done, you're ready to deploy apps! Heroku has a great [
 The [Heroku Dev Center](https://devcenter.heroku.com/) is full of great resources, so be sure to check it out!
 
 
-
-## Apps
-
-
 ## GO
 $ brew install go
 Setup GOPATH to $HOME/Projects/go
 Include $GOPATH/bin in PATH
 
 
-## Useful Shortcuts
-
-Shortcuts
-Window Maximize
-Enter opens Keyboard. Rename?
-Access Application Menu and Dock using keyboard
-Show Desktop
-Bring All to front
-
+## Apps
 
 #### pyQT
 
@@ -658,17 +663,14 @@ http://nikolak.com/pyqt-qt-designer-getting-started/
 For sharing various data from your ios device to your mac and vice versa
 
 
+## Useful Shortcuts
 
-
-#### Basic keys & symbols
-
-| Symbol    | Key         | 
-|:---------:|:-----------:|
-|  &#8984;  | Command Key |
-|  &#8963;  | Control Key |
-|  &#8997;  | Option Key  |
-|  &#8679;  | Shift Key   |
-
+Shortcuts
+Window Maximize
+Enter opens Keyboard. Rename?
+Access Application Menu and Dock using keyboard
+Show Desktop
+Bring All to front
 
 
 TODO
