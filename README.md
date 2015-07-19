@@ -100,7 +100,6 @@ There are a couple tweaks I like to make to the System Preferences. Feel free to
 In **Apple Icon > System Preferences**:
 
 - Trackpad > Tap to click
-- Dock > Automatically hide and show the Dock
 - Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
 
 
