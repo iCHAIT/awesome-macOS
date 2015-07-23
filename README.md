@@ -651,15 +651,96 @@ Setup GOPATH to $HOME/Projects/go
 Include $GOPATH/bin in PATH
 
 
-## Apps
+## Applications
+
+#### iTerm2
+
+
+#### TextExpander
+
+
+#### Sublime Text 3
+
+
+#### Alfred
+
+
+#### Quicksilver
+
+
+#### Cloudapp
+
+
+#### Mac2Imgur
+
+
+#### Adium
+
+
+#### Caffeine
+
+
+#### RazorSQL
+
+
+#### PSequel
+
+
+#### Dash
+
+
+#### TheUnarchiver
+
+
+#### Google Chrome
+
+
+#### Pocket
+
+
+#### fish
+
+
+#### XtraFinder
+
+
+#### dropbox
+
+
+#### virtualbox
+
+
+#### Xcode
+
+
+#### Zsh
+
+
+#### CodeBlocks
+
+
+#### ClipMenu
+
+
+#### TextMate
+
+
+#### Clementine
+
+
+#### Github
+
+
+#### LightShot
+
+
+#### CloudClip
+
+
 
 #### pyQT
 
 http://nikolak.com/pyqt-qt-designer-getting-started/
-
-#### CloudClip
-
-For sharing various data from your ios device to your mac and vice versa
 
 
 ## Useful Shortcuts
