@@ -1,6 +1,17 @@
 # awesome-mac
 
-A curated list of awesome applications and developer tools for your mac.
+
+<h1 align="center">
+    <br>
+    <img width="400" src="https://rawgit.com/iCHAIT/awesome-mac/master/media/logo.png" alt="awesome">
+    <br>
+    <br>
+    <br>
+</h1>
+
+> A curated list of awesome applications and developer tools for your mac.
+
+
 
 
 ## Why?
@@ -24,59 +35,59 @@ Having used windows all my life, when I bought my first mac it was a bit difficu
 Applications
 ============
 
-- [iTerm2](#iterm2)
-- [TextExpander](#textexpander)
-- [Sublime Text 3](#sublime)
-- [Alfred](#alfred)
-- [Quicksilver](#quicksilver)
-- [Cloudapp](#cloudapp)
-- [Mac2Imgur](#mac2imgur)
 - [Adium](#adium)
+- [Alfred](#alfred)
 - [Caffeine](#caffeine)
-- [RazorSQL](#razorsql)
-- [PSequel](#psql)
+- [Clementine](#clementine)
+- [ClipMenu](#clipmenu)
+- [Cloudapp](#cloudapp)
+- [CloudClip](#cloudclip)
+- [CodeBlocks](#codeblocks)
 - [Dash](#dash)
-- [TheUnarchiver](#theunarchiver)
-- [Google Chrome](#googlechrome)
-- [Pocket](#pocket)
-- [fish](#fish)
-- [XtraFinder](#xtrafinder)
 - [dropbox](#dropbox)
+- [fish](#fish)
+- [Github](#github)
+- [Google Chrome](#googlechrome)
+- [iTerm2](#iterm2)
+- [LightShot](#lightshot)
+- [Mac2Imgur](#mac2imgur)
+- [Pocket](#pocket)
+- [PSequel](#psql)
+- [Quicksilver](#quicksilver)
+- [RazorSQL](#razorsql)
+- [Sublime Text 3](#sublime)
+- [TextExpander](#textexpander)
+- [TextMate](#textmate)
+- [TheUnarchiver](#theunarchiver)
 - [virtualbox](#virtualbox)
 - [Xcode](#xcode)
+- [XtraFinder](#xtrafinder)
 - [Zsh](#zsh)
-- [CodeBlocks](#codeblocks)
-- [ClipMenu](#clipmenu)
-- [TextMate](#textmate)
-- [Clementine](#clementine)
-- [Github](#github)
-- [LightShot](#lightshot)
-- [CloudClip](#cloudclip)
 
 
 Programmming Languages
 ======================
 
-- [Python](#python)
-- [MySQL](#mysql)
-- [MySQL WorkBench](#mysqlworkbench)
-- [R](#r)
 - [Go](#go)
+- [MySQL WorkBench](#mysqlworkbench)
+- [MySQL](#mysql)
+- [Python](#python)
+- [R](#r)
 
 
 Developement Tools
 ==================
 
-- [Homebrew](#homebrew)
 - [Git](#git)
-- [Virtualenv](#virtualenv)
-- [pip](#pip)
-- [sass](#sass)
-- [wget](#wget)
+- [Heroku](#heroku)
+- [Homebrew](#homebrew)
 - [Mercurial](#mercurial)
 - [Pelican](#pelican)
+- [pip](#pip)
 - [pyQT](#pyqt)
-- [Heroku](#heroku)
+- [sass](#sass)
+- [Virtualenv](#virtualenv)
+- [wget](#wget)
 
 
 Useful Shortcuts
@@ -84,6 +95,12 @@ Useful Shortcuts
 
 - Useful shortcuts
 - Other Useful things
+Shortcuts
+Window Maximize
+Enter opens Keyboard. Rename?
+Access Application Menu and Dock using keyboard
+Show Desktop
+Bring All to front
 
 
 Useful Stuff
@@ -651,109 +668,17 @@ Setup GOPATH to $HOME/Projects/go
 Include $GOPATH/bin in PATH
 
 
-## Applications
-
-#### iTerm2
-
-
-#### TextExpander
-
-
-#### Sublime Text 3
-
-
-#### Alfred
-
-
-#### Quicksilver
-
-
-#### Cloudapp
-
-
-#### Mac2Imgur
-
-
-#### Adium
-
-
-#### Caffeine
-
-
-#### RazorSQL
-
-
-#### PSequel
-
-
-#### Dash
-
-
-#### TheUnarchiver
-
-
-#### Google Chrome
-
-
-#### Pocket
-
-
-#### fish
-
-
-#### XtraFinder
-
-
-#### dropbox
-
-
-#### virtualbox
-
-
-#### Xcode
-
-
-#### Zsh
-
-
-#### CodeBlocks
-
-
-#### ClipMenu
-
-
-#### TextMate
-
-
-#### Clementine
-
-
-#### Github
-
-
-#### LightShot
-
-
-#### CloudClip
-
-
-
 #### pyQT
 
 http://nikolak.com/pyqt-qt-designer-getting-started/
 
-
-## Useful Shortcuts
-
-Shortcuts
-Window Maximize
-Enter opens Keyboard. Rename?
-Access Application Menu and Dock using keyboard
-Show Desktop
-Bring All to front
 
 
 TODO
 ====
 
 Write a blog post about the same.
+
+Have a better title in Readme
+
+Attach an awesome image
