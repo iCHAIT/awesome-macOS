@@ -35,20 +35,18 @@ Having used windows all my life, when I bought my first mac it was a bit difficu
 Applications
 ============
 
-- [Adium](#adium)
-- [Alfred](#alfred)
-- [Caffeine](#caffeine)
-- [Clementine](#clementine)
-- [ClipMenu](#clipmenu)
-- [Cloudapp](#cloudapp)
-- [CloudClip](#cloudclip)
-- [CodeBlocks](#codeblocks)
-- [Dash](#dash)
-- [dropbox](#dropbox)
-- [fish](#fish)
-- [Github](#github)
-- [Google Chrome](#googlechrome)
-- [iTerm2](#iterm2)
+- [Adium](https://adium.im/) - Instant messaging application
+- [Alfred](http://www.alfredapp.com/) - Productivity Application
+- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep
+- [Clementine](https://www.clementine-player.org/) - Music Player
+- [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager
+- [Cloudapp](https://www.getcloudapp.com/) - Capture and share files, scrrenshots etc
+- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Share Clipboard history between your apple devices
+- [CodeBlocks](http://www.codeblocks.org/) - C, C++ IDE
+- [Dash](https://kapeli.com/dash) - An alternative of [Zeal](http://zealdocs.org/) for mac
+- [Fish-shell](http://fishshell.com/) - A smart command line shell.
+- [Github-client](https://mac.github.com/) - A GUI for Github.
+- [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X
 - [LightShot](#lightshot)
 - [Mac2Imgur](#mac2imgur)
 - [Pocket](#pocket)
@@ -132,3 +130,5 @@ Write a blog post about the same.
 Have a better title in Readme
 
 Attach an awesome image
+
+Add shout-outs
