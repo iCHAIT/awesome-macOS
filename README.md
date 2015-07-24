@@ -6,7 +6,6 @@
     <img width="400" src="https://rawgit.com/iCHAIT/awesome-mac/master/media/logo.png" alt="awesome">
     <br>
     <br>
-    <br>
 </h1>
 
 > A curated list of awesome applications and developer tools for your mac.
@@ -19,6 +18,23 @@
 Having used windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime no matter how big or small the issue was. So I thought of compiling together all the stuff that I have learned in my process of using my mac. Hopefully it would help someone.
 
 
+
+Contents
+========
+
+- [Applications]()
+- [Basic Keys & Symbols]()
+- [Developement Tools]()
+- [Miscellaneous]()
+- [Programming Languages]()
+- [System preferences](#system-preferences)
+- [Usefull]()
+- [Contribute]()
+- [Shout-outs]()
+- [Applescripts]()
+
+
+
 #### Basic keys & symbols
 
 | Symbol    | Key         | 
@@ -29,7 +45,17 @@ Having used windows all my life, when I bought my first mac it was a bit difficu
 |  &#8679;  | Shift Key   |
 
 
-- [System preferences](#system-preferences)
+
+
+## System preferences
+
+There are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+
+In **Apple Icon > System Preferences**:
+
+- Trackpad > Tap to click
+- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
+
 
 
 Applications
@@ -89,6 +115,7 @@ Programmming Languages
 - [Node.js](http://nodejs.org/)
 - [npm](https://npmjs.org/)
 - [Ruby](http://www.ruby-lang.org/)
+- [AppleScript]
 
 
 Useful Shortcuts
@@ -109,16 +136,6 @@ Useful Stuff
 
 - Applescripts
 - OS X Mirror
-
-
-## System preferences
-
-There are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
-
-In **Apple Icon > System Preferences**:
-
-- Trackpad > Tap to click
-- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
 
 
 
