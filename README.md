@@ -88,6 +88,10 @@ Applications
 - [XtraFinder](#xtrafinder)
 - [Zsh](#zsh)
 - [MySQL WorkBench](http://www.mysql.com/products/workbench/) - A GUI client for MySQL
+- [Atom](https://atom.io/)
+- [TextMate]()
+- [MatLab](http://in.mathworks.com/products/matlab/)
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - A cross-platform music tagger written in Python.
 
 Developement Tools
 ==================
@@ -104,6 +108,9 @@ Developement Tools
 - [sass](#sass)
 - [Virtualenv](http://www.virtualenv.org/)
 - [wget](#wget)
+- [MongoDB]() - A popular NoSQL database.
+- [ElasticSearch](https://www.elastic.co/) - A real-time search and analytics engine
+- [HayStack]()
 
 
 Programmming Languages
@@ -115,7 +122,9 @@ Programmming Languages
 - [Node.js](http://nodejs.org/)
 - [npm](https://npmjs.org/)
 - [Ruby](http://www.ruby-lang.org/)
-- [AppleScript]
+- [AppleScript]()
+- [LESS]()
+
 
 
 Useful Shortcuts
@@ -136,6 +145,12 @@ Useful Stuff
 
 - Applescripts
 - OS X Mirror
+
+
+Shout-outs
+==========
+
+
 
 
 
