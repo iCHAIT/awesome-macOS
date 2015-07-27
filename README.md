@@ -31,30 +31,6 @@ Contents
 - [Usefull]()
 - [Contribute]()
 - [Shout-outs]()
-- [Applescripts]()
-
-
-
-#### Basic keys & symbols
-
-| Symbol    | Key         | 
-|:---------:|:-----------:|
-|  &#8984;  | Command Key |
-|  &#8963;  | Control Key |
-|  &#8997;  | Option Key  |
-|  &#8679;  | Shift Key   |
-
-
-
-
-## System preferences
-
-There are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
-
-In **Apple Icon > System Preferences**:
-
-- Trackpad > Tap to click
-- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
 
 
 
@@ -93,6 +69,19 @@ Applications
 - [MatLab](http://in.mathworks.com/products/matlab/)
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - A cross-platform music tagger written in Python.
 
+
+
+#### Basic keys & symbols
+
+| Symbol    | Key         | 
+|:---------:|:-----------:|
+|  &#8984;  | Command Key |
+|  &#8963;  | Control Key |
+|  &#8997;  | Option Key  |
+|  &#8679;  | Shift Key   |
+
+
+
 Developement Tools
 ==================
 
@@ -113,6 +102,7 @@ Developement Tools
 - [HayStack]()
 
 
+
 Programmming Languages
 ======================
 
@@ -124,6 +114,18 @@ Programmming Languages
 - [Ruby](http://www.ruby-lang.org/)
 - [AppleScript]()
 - [LESS]()
+
+
+
+
+## System preferences
+
+There are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+
+In **Apple Icon > System Preferences**:
+
+- Trackpad > Tap to click
+- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
 
 
 
@@ -143,12 +145,19 @@ Bring All to front
 Useful Stuff
 ============
 
-- Applescripts
-- OS X Mirror
+- [Applescripts]()
+- [OS X Mirror]()
 
 
 Shout-outs
 ==========
+
+
+
+
+
+Contributing
+============
 
 
 
