@@ -22,15 +22,14 @@ Having used windows all my life, when I bought my first mac it was a bit difficu
 Contents
 ========
 
-- [Applications]()
-- [Basic Keys & Symbols]()
-- [Developement Tools]()
-- [Miscellaneous]()
-- [Programming Languages]()
+- [Applications](applications)
+- [Basic Keys & Symbols](keys)
+- [Developement Tools](dev-tools)
+- [Miscellaneous](misc)
+- [Programming Languages](programming-languages)
 - [System preferences](#system-preferences)
-- [Usefull]()
-- [Contribute]()
-- [Shout-outs]()
+- [Usefull](useful)
+- [Contribute](contribute)
 
 
 
@@ -149,10 +148,6 @@ Useful Stuff
 - [OS X Mirror]()
 
 
-Shout-outs
-==========
-
-
 
 
 
@@ -171,5 +166,3 @@ Write a blog post about the same.
 Have a better title in Readme
 
 Attach an awesome image
-
-Add shout-outs
