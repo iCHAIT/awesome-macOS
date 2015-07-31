@@ -49,10 +49,10 @@ Applications
 - [Github-client](https://mac.github.com/) - A GUI for Github.
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X
 - [LightShot](#lightshot)
-- [Mac2Imgur](#mac2imgur)
-- [Pocket](#pocket)
+- [Mac2Imgur](https://github.com/mileswd/mac2imgur)
+- [Pocket](https://getpocket.com/)
 - [PSequel](#psql)
-- [Quicksilver](#quicksilver)
+- [Quicksilver](http://qsapp.com/)
 - [RazorSQL](#razorsql)
 - [Sublime Text 3](http://www.sublimetext.com/)
 - [TextExpander](#textexpander)
@@ -146,8 +146,6 @@ Useful Stuff
 
 - [Applescripts]()
 - [OS X Mirror]()
-
-
 
 
 
