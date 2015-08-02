@@ -55,8 +55,10 @@ Applications
 - [Quicksilver](http://qsapp.com/)
 - [RazorSQL](#razorsql)
 - [Sublime Text 3](http://www.sublimetext.com/)
+- [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse.
 - [TextExpander](#textexpander)
 - [TextMate](#textmate)
+- [TotalFinder](http://totalfinder.binaryage.com/)
 - [TheUnarchiver](#theunarchiver)
 - [virtualbox](#virtualbox)
 - [Xcode](#xcode)
@@ -105,12 +107,12 @@ Developement Tools
 Programmming Languages
 ======================
 
-- [Go](#go)
-- [Python](http://python.org/)
-- [R](#r)
-- [Node.js](http://nodejs.org/)
-- [npm](https://npmjs.org/)
-- [Ruby](http://www.ruby-lang.org/)
+- [Go]()
+- [Python]()
+- [R]()
+- [Node.js]()
+- [npm]()
+- [Ruby]()
 - [AppleScript]()
 - [LESS]()
 
