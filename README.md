@@ -38,6 +38,7 @@ Applications
 
 - [Adium](https://adium.im/) - Instant messaging application
 - [Alfred](http://www.alfredapp.com/) - Productivity Application
+- [Atom](https://atom.io/)
 - [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep
 - [Clementine](https://www.clementine-player.org/) - Music Player
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager
@@ -50,25 +51,24 @@ Applications
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X
 - [LightShot](#lightshot)
 - [Mac2Imgur](https://github.com/mileswd/mac2imgur)
+- [MatLab](http://in.mathworks.com/products/matlab/)
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - A cross-platform music tagger written in Python.
+- [MySQL WorkBench](http://www.mysql.com/products/workbench/) - A GUI client for MySQL
 - [Pocket](https://getpocket.com/)
 - [PSequel](#psql)
 - [Quicksilver](http://qsapp.com/)
 - [RazorSQL](#razorsql)
-- [Sublime Text 3](http://www.sublimetext.com/)
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse.
+- [Sublime Text 3](http://www.sublimetext.com/)
 - [TextExpander](#textexpander)
 - [TextMate](#textmate)
-- [TotalFinder](http://totalfinder.binaryage.com/)
+- [TextMate]()
 - [TheUnarchiver](#theunarchiver)
+- [TotalFinder](http://totalfinder.binaryage.com/)
 - [virtualbox](#virtualbox)
 - [Xcode](#xcode)
-- [XtraFinder](#xtrafinder)
-- [Zsh](#zsh)
-- [MySQL WorkBench](http://www.mysql.com/products/workbench/) - A GUI client for MySQL
-- [Atom](https://atom.io/)
-- [TextMate]()
-- [MatLab](http://in.mathworks.com/products/matlab/)
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) - A cross-platform music tagger written in Python.
+- [XtraFinder](https://www.trankynam.com/xtrafinder/)
+- [Zsh](http://www.zsh.org/)
 
 
 
