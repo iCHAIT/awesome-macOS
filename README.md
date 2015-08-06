@@ -166,3 +166,10 @@ Write a blog post about the same.
 Have a better title in Readme
 
 Attach an awesome image
+
+Useful Gists
+============
+
+- [Sublime](https://gist.github.com/brajeshwar/1886227)
+- [Shortcuts](https://gist.github.com/nuxlli/1207014)
+- https://gist.github.com/lucasfais/1207002
