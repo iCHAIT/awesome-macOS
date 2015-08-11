@@ -1,5 +1,4 @@
-# awesome-mac
-
+# Awesome Mac [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
     <br>
@@ -19,22 +18,40 @@ Having used windows all my life, when I bought my first mac it was a bit difficu
 
 
 
-Contents
-========
+## Table of Contents
 
-- [Applications](applications)
 - [Basic Keys & Symbols](keys)
-- [Developement Tools](dev-tools)
-- [Miscellaneous](misc)
-- [Programming Languages](programming-languages)
 - [System preferences](#system-preferences)
-- [Usefull](useful)
+- [Applications](applications)
+- [Developement Tools](dev-tools)
+- [Programming Languages](programming-languages)
+- [Useful](useful)
+- [Miscellaneous](misc)
 - [Contribute](contribute)
 
 
 
-Applications
-============
+## Basic keys & symbols
+
+| Symbol    | Key         | 
+|:---------:|:-----------:|
+|  &#8984;  | Command Key |
+|  &#8963;  | Control Key |
+|  &#8997;  | Option Key  |
+|  &#8679;  | Shift Key   |
+
+
+## System preferences
+
+There are a couple tweaks you would want to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+
+In **Apple Icon > System Preferences**:
+
+- Trackpad > Tap to click
+- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
+
+
+## Applications
 
 - [Adium](https://adium.im/) - Instant messaging application
 - [Alfred](http://www.alfredapp.com/) - Productivity Application
@@ -71,20 +88,12 @@ Applications
 - [Zsh](http://www.zsh.org/)
 
 
-
-#### Basic keys & symbols
-
-| Symbol    | Key         | 
-|:---------:|:-----------:|
-|  &#8984;  | Command Key |
-|  &#8963;  | Control Key |
-|  &#8997;  | Option Key  |
-|  &#8679;  | Shift Key   |
+**[⬆ back to top](#Contents)**
 
 
 
-Developement Tools
-==================
+
+## Developement Tools
 
 - [Git](http://git-scm.com/) - What's a developer without git
 - [Heroku](http://www.heroku.com/) -  A [Platform-as-a-Service](http://en.wikipedia.org/wiki/Platform_as_a_service) (PaaS) that makes it really easy to deploy your apps online
@@ -103,9 +112,11 @@ Developement Tools
 - [HayStack]()
 
 
+**[⬆ back to top](#Contents)**
 
-Programmming Languages
-======================
+
+
+## Programmming Languages
 
 - [Go]()
 - [Python]()
@@ -117,21 +128,10 @@ Programmming Languages
 - [LESS]()
 
 
+**[⬆ back to top](#Contents)**
 
 
-## System preferences
-
-There are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
-
-In **Apple Icon > System Preferences**:
-
-- Trackpad > Tap to click
-- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
-
-
-
-Useful Shortcuts
-================
+## Useful Shortcuts
 
 - Useful shortcuts
 - Other Useful things
@@ -143,26 +143,22 @@ Show Desktop
 Bring All to front
 
 
-Useful Stuff
-============
+**[⬆ back to top](#Contents)**
+
+
+## Useful Stuff
 
 - [Applescripts]()
 - [OS X Mirror]()
 
 
-
-Contributing
-============
+**[⬆ back to top](#Contents)**
 
 
 
+## Contributing
+
+If you want to contribute, please read the [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md).
 
 
-TODO
-====
-
-Write a blog post about the same.
-
-Have a better title in Readme
-
-Attach an awesome image
+**[⬆ back to top](#Contents)**
