@@ -14,7 +14,7 @@
 
 ## Why?
 
-Having used windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime no matter how big or small the issue was. So I thought of compiling together all the stuff that I have learned in my process of using my mac. Hopefully it would help someone.
+Having used Windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime no matter how big or small the issue was. So I thought of compiling together all the stuff that I have learned in my process of using my mac. Hopefully it would help someone.
 
 
 
@@ -90,7 +90,7 @@ In **Apple Icon > System Preferences**:
 
 **[⬆ back to top](#Contents)**
 
-
+ 
 
 
 ## Developement Tools
@@ -161,4 +161,14 @@ Bring All to front
 If you want to contribute, please read the [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md).
 
 
+
 **[⬆ back to top](#Contents)**
+=======
+Attach an awesome image
+
+Useful Gists
+============
+
+- [Sublime](https://gist.github.com/brajeshwar/1886227)
+- [Shortcuts](https://gist.github.com/nuxlli/1207014)
+- https://gist.github.com/lucasfais/1207002
