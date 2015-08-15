@@ -24,7 +24,6 @@ Having used Windows all my life, when I bought my first mac it was a bit difficu
 - [System preferences](#system-preferences)
 - [Applications](applications)
 - [Developement Tools](dev-tools)
-- [Programming Languages](programming-languages)
 - [Useful](useful)
 - [Miscellaneous](misc)
 - [Contribute](contribute)
@@ -53,33 +52,30 @@ In **Apple Icon > System Preferences**:
 
 ## Applications
 
-- [Adium](https://adium.im/) - Instant messaging application
-- [Alfred](http://www.alfredapp.com/) - Productivity Application
+- [Adium](https://adium.im/) - Instant messaging application.
+- [Alfred](http://www.alfredapp.com/) - Productivity Application.
 - [Atom](https://atom.io/)
-- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep
-- [Clementine](https://www.clementine-player.org/) - Music Player
-- [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager
-- [Cloudapp](https://www.getcloudapp.com/) - Capture and share files, scrrenshots etc
-- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Share Clipboard history between your apple devices
+- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep.
+- [Clementine](https://www.clementine-player.org/) - Music Player.
+- [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
+- [Cloudapp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Share Clipboard history between your apple devices.
 - [CodeBlocks](http://www.codeblocks.org/) - C, C++ IDE
-- [Dash](https://kapeli.com/dash) - An alternative of [Zeal](http://zealdocs.org/) for mac
+- [Dash](https://kapeli.com/dash) - An API Documentation Browser.
 - [Fish-shell](http://fishshell.com/) - A smart command line shell.
-- [Github-client](https://mac.github.com/) - A GUI for Github.
-- [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X
+- [Github-client](https://mac.github.com/) - A GUI client for Github.
+- [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X.
 - [LightShot](#lightshot)
 - [Mac2Imgur](https://github.com/mileswd/mac2imgur)
 - [MatLab](http://in.mathworks.com/products/matlab/)
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - A cross-platform music tagger written in Python.
-- [MySQL WorkBench](http://www.mysql.com/products/workbench/) - A GUI client for MySQL
+- [MySQL WorkBench](http://www.mysql.com/products/workbench/) - A GUI client for MySQL.
 - [Pocket](https://getpocket.com/)
 - [PSequel](#psql)
 - [Quicksilver](http://qsapp.com/)
-- [RazorSQL](#razorsql)
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse.
 - [Sublime Text 3](http://www.sublimetext.com/)
 - [TextExpander](#textexpander)
-- [TextMate](#textmate)
-- [TextMate]()
 - [TheUnarchiver](#theunarchiver)
 - [TotalFinder](http://totalfinder.binaryage.com/)
 - [virtualbox](#virtualbox)
@@ -95,10 +91,10 @@ In **Apple Icon > System Preferences**:
 
 ## Developement Tools
 
-- [Git](http://git-scm.com/) - What's a developer without git
-- [Heroku](http://www.heroku.com/) -  A [Platform-as-a-Service](http://en.wikipedia.org/wiki/Platform_as_a_service) (PaaS) that makes it really easy to deploy your apps online
-- [Homebrew](http://brew.sh/) - Package manager for OS X
-- [IPython](http://ipython.org/) - A much better Python shell 
+- [Homebrew](http://brew.sh/)
+- [Git](http://git-scm.com/)
+- [Heroku](http://www.heroku.com/)
+- [IPython](http://ipython.org/)
 - [Mercurial](#mercurial)
 - [MySql](http://www.mysql.com/)
 - [Pelican](#pelican)
@@ -107,28 +103,13 @@ In **Apple Icon > System Preferences**:
 - [sass](#sass)
 - [Virtualenv](http://www.virtualenv.org/)
 - [wget](#wget)
-- [MongoDB]() - A popular NoSQL database.
-- [ElasticSearch](https://www.elastic.co/) - A real-time search and analytics engine
+- [MongoDB]()
+- [ElasticSearch](https://www.elastic.co/)
 - [HayStack]()
 
 
 **[⬆ back to top](#Contents)**
 
-
-
-## Programmming Languages
-
-- [Go]()
-- [Python]()
-- [R]()
-- [Node.js]()
-- [npm]()
-- [Ruby]()
-- [AppleScript]()
-- [LESS]()
-
-
-**[⬆ back to top](#Contents)**
 
 
 ## Useful Shortcuts
@@ -146,25 +127,12 @@ Bring All to front
 **[⬆ back to top](#Contents)**
 
 
-## Useful Stuff
-
-- [Applescripts]()
-- [OS X Mirror]()
-
-
-**[⬆ back to top](#Contents)**
-
-
 
 ## Contributing
 
-If you want to contribute, please read the [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md).
-
-
+Contribute by opening Issues and Pull Requests, try to adhere to the contributing guidelines [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
 
 **[⬆ back to top](#Contents)**
-=======
-Attach an awesome image
 
 Useful Gists
 ============
