@@ -7,15 +7,7 @@
     <br>
 </h1>
 
-> A curated list of awesome applications and developer tools for your mac.
-
-
-
-
-## Why?
-
-Having used Windows all my life, when I bought my first mac it was a bit difficult for me to get used to the OS and the different keys. Whenever I got stuck up with something I had to google it everytime no matter how big or small the issue was. So I thought of compiling together all the stuff that I have learned in my process of using my mac. Hopefully it would help someone.
-
+> A curated list of awesome applications, tools and more for Mac.
 
 
 ## Table of Contents
@@ -23,10 +15,8 @@ Having used Windows all my life, when I bought my first mac it was a bit difficu
 - [Basic Keys & Symbols](keys)
 - [System preferences](#system-preferences)
 - [Applications](applications)
-- [Developement Tools](dev-tools)
-- [Useful](useful)
-- [Miscellaneous](misc)
 - [Contribute](contribute)
+- [License](license)
 
 
 
@@ -52,6 +42,7 @@ In **Apple Icon > System Preferences**:
 
 ## Applications
 
+- [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
 - [Adium](https://adium.im/) - Instant messaging application.
 - [Alfred](http://www.alfredapp.com/) - Productivity Application.
 - [Atom](https://atom.io/)
@@ -82,41 +73,30 @@ In **Apple Icon > System Preferences**:
 - [Xcode](#xcode)
 - [XtraFinder](https://www.trankynam.com/xtrafinder/)
 - [Zsh](http://www.zsh.org/)
-
-
-**[⬆ back to top](#Contents)**
-
- 
-
-
-## Developement Tools
-
-- [Homebrew](http://brew.sh/)
-- [Git](http://git-scm.com/)
-- [Heroku](http://www.heroku.com/)
-- [IPython](http://ipython.org/)
-- [Mercurial](#mercurial)
-- [MySql](http://www.mysql.com/)
-- [Pelican](#pelican)
-- [pip](#pip)
-- [pyQT](#pyqt)
-- [sass](#sass)
-- [Virtualenv](http://www.virtualenv.org/)
-- [wget](#wget)
-- [MongoDB]()
-- [ElasticSearch](https://www.elastic.co/)
-- [HayStack]()
+- [ChitChar](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
+- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger.
+- [Helium](https://github.com/JadenGeller/Helium) - A floating browser window.
+- [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources.
 
 
 **[⬆ back to top](#Contents)**
 
 
 
-## Useful Shortcuts
+Useful Links
+============
 
-- Useful shortcuts
-- Other Useful things
-Shortcuts
+### Sublime
+
+- [Sublime](https://gist.github.com/brajeshwar/1886227)
+- [Shortcuts](https://gist.github.com/nuxlli/1207014)
+- https://gist.github.com/lucasfais/1207002
+
+### Applescripts
+
+
+### shortcuts
+
 Window Maximize
 Enter opens Keyboard. Rename?
 Access Application Menu and Dock using keyboard
@@ -128,15 +108,12 @@ Bring All to front
 
 
 
+
 ## Contributing
 
 Contribute by opening Issues and Pull Requests, try to adhere to the contributing guidelines [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
 
 **[⬆ back to top](#Contents)**
 
-Useful Gists
-============
 
-- [Sublime](https://gist.github.com/brajeshwar/1886227)
-- [Shortcuts](https://gist.github.com/nuxlli/1207014)
-- https://gist.github.com/lucasfais/1207002
+## License
