@@ -77,6 +77,7 @@ In **Apple Icon > System Preferences**:
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger.
 - [Helium](https://github.com/JadenGeller/Helium) - A floating browser window.
 - [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources.
+- [Finicky](https://johnste.github.io/finicky/)
 
 
 **[⬆ back to top](#Contents)**
