@@ -12,15 +12,14 @@
 
 ## Table of Contents
 
-- [Basic Keys & Symbols](keys)
-- [System preferences](#system-preferences)
-- [Applications](applications)
-- [Contribute](contribute)
-- [License](license)
+- [Basic Keys & Symbols](#basic-keys-&-symbols)
+- [System Preferences](#system-preferences)
+- [Applications](#applications)
+- [Contribute](#contribute)
 
 
 
-## Basic keys & symbols
+## Basic Keys & Symbols
 
 | Symbol    | Key         | 
 |:---------:|:-----------:|
@@ -30,7 +29,8 @@
 |  &#8679;  | Shift Key   |
 
 
-## System preferences
+
+## System Preferences
 
 There are a couple tweaks you would want to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
 
@@ -41,6 +41,7 @@ In **Apple Icon > System Preferences**:
 
 
 ## Applications
+
 
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
 - [Adium](https://adium.im/) - Instant messaging application.
@@ -110,7 +111,7 @@ Bring All to front
 
 
 
-## Contributing
+## Contribute
 
 Contribute by opening Issues and Pull Requests, try to adhere to the contributing guidelines [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
 
@@ -118,3 +119,7 @@ Contribute by opening Issues and Pull Requests, try to adhere to the contributin
 
 
 ## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
