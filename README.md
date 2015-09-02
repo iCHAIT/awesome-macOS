@@ -15,6 +15,9 @@
 - [Basic Keys & Symbols](#basic-keys-&-symbols)
 - [System Preferences](#system-preferences)
 - [Applications](#applications)
+- [Setup](#setup)
+- [Security](#security)
+- [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
 
@@ -43,62 +46,148 @@ In **Apple Icon > System Preferences**:
 ## Applications
 
 
-- [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
+### Chat Clients
 - [Adium](https://adium.im/) - Instant messaging application.
-- [Alfred](http://www.alfredapp.com/) - Productivity Application.
-- [Atom](https://atom.io/)
-- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep.
-- [Clementine](https://www.clementine-player.org/) - Music Player.
-- [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
-- [Cloudapp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
-- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Share Clipboard history between your apple devices.
-- [CodeBlocks](http://www.codeblocks.org/) - C, C++ IDE
-- [Dash](https://kapeli.com/dash) - An API Documentation Browser.
-- [Fish-shell](http://fishshell.com/) - A smart command line shell.
+- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
+- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger.
+
+
+### Clients & GUI's
+
+- [Base](http://menial.co.uk/base/)
 - [Github-client](https://mac.github.com/) - A GUI client for Github.
-- [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X.
-- [LightShot](#lightshot)
-- [Mac2Imgur](https://github.com/mileswd/mac2imgur)
-- [MatLab](http://in.mathworks.com/products/matlab/)
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) - A cross-platform music tagger written in Python.
-- [MySQL WorkBench](http://www.mysql.com/products/workbench/) - A GUI client for MySQL.
-- [Pocket](https://getpocket.com/)
 - [PSequel](#psql)
+- [Sequel Pro](http://www.sequelpro.com/)
+
+
+### Developers
+
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style
+- [Dash](https://kapeli.com/dash) - An API Documentation Browser.
+- [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app.
+- [Paw](https://luckymarmot.com/paw)
+- [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources.
+
+
+### Editors
+
+- [Atom](https://atom.io/)
+- [Sublime Text 3](http://www.sublimetext.com/)
+- [Macvim](https://github.com/b4winckler/macvim) - Vim - the text editor - for Mac OS X
+
+
+### Finder
+
+- [TotalFinder](http://totalfinder.binaryage.com/)
+- [XtraFinder](https://www.trankynam.com/xtrafinder/)
+
+
+### Games
+
+- [Screentendo](https://github.com/AaronRandall/Screentendo)
+- [stockfish-mac](https://github.com/daylen/stockfish-mac)
+
+
+### Productivity
+
+- [Alfred](http://www.alfredapp.com/) - Productivity Application.
+- [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
+- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Share Clipboard history between your apple devices.
 - [Quicksilver](http://qsapp.com/)
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse.
-- [Sublime Text 3](http://www.sublimetext.com/)
 - [TextExpander](#textexpander)
-- [TheUnarchiver](#theunarchiver)
-- [TotalFinder](http://totalfinder.binaryage.com/)
-- [virtualbox](#virtualbox)
-- [Xcode](#xcode)
-- [XtraFinder](https://www.trankynam.com/xtrafinder/)
+- [HyperDock](https://bahoom.com/hyperdock/)
+
+
+### Share files/screesnshots
+
+- [Cloudapp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [LightShot](#lightshot)
+- [Mac2Imgur](https://github.com/mileswd/mac2imgur)
+
+
+### Shell
+
+- [Fish](http://fishshell.com/) - A smart command line shell.
+- [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X.
 - [Zsh](http://www.zsh.org/)
-- [ChitChar](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
-- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger.
-- [Helium](https://github.com/JadenGeller/Helium) - A floating browser window.
-- [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources.
+
+
+### Utilities
+
+- [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
+- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep.
 - [Finicky](https://johnste.github.io/finicky/)
+- [Helium](https://github.com/JadenGeller/Helium) - A floating browser window.
+- [Monordraw](http://monodraw.helftone.com/)
+- [Pocket](https://getpocket.com/)
+- [TheUnarchiver](#theunarchiver)
+- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
+- [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet
 
 
-**[⬆ back to top](#Contents)**
+### Others
+
+- [catch](https://github.com/mipstian/catch)
+- [color-picker-pro](https://github.com/oscardelben/Color-Picker-Pro)
+- [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail.
+- [Hacky](https://github.com/eliaskg/Hacky)
+- [mpv](https://github.com/mpv-player/mpv)
+- [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A super simple plugin manager for Sketch.app.
+- [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player for the Mac.
+- [soundcleod](https://github.com/salomvary/soundcleod)
+- [Transmit](https://panic.com/transmit/)
+- [vienna-rss](https://github.com/ViennaRSS/vienna-rss)
+- [Wallpapers](https://github.com/orta/Wallpapers)
+- [WWDC](https://github.com/insidegui/WWDC)
 
 
+**[⬆ back to top](#table-of-contents)**
 
-Useful Links
+
+## Setup
+
+### Mac OS X 10.9 Mavericks Setup
+
+https://gist.github.com/kevinelliott/3135044
+
+https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
+
+### Mac OS X 10.10 Yosemite Setup
+
+https://gist.github.com/kevinelliott/0726211d17020a6abc1f
+
+
+Miscellaneous
 ============
 
-### Sublime
 
 - [Sublime](https://gist.github.com/brajeshwar/1886227)
 - [Shortcuts](https://gist.github.com/nuxlli/1207014)
 - https://gist.github.com/lucasfais/1207002
+- [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
+- [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
+
+### Reddit
+
+https://www.reddit.com/r/osx/
+https://www.reddit.com/r/macapps
+https://www.reddit.com/r/Mac
+https://www.reddit.com/r/MacSetups
 
 ### Applescripts
+
+https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred
+https://github.com/unforswearing/applescript
 
 
 ### shortcuts
 
+http://mac.appstorm.net/roundups/utilities-roundups/5-alternatives-to-the-os-x-finder/
+
+https://support.apple.com/en-us/HT204895
+
+http://www.slant.co/topics/523/~what-are-the-best-power-user-tools-for-mac-osx
 Window Maximize
 Enter opens Keyboard. Rename?
 Access Application Menu and Dock using keyboard
@@ -106,16 +195,19 @@ Show Desktop
 Bring All to front
 
 
-**[⬆ back to top](#Contents)**
+**[⬆ back to top](#table-of-contents)**
 
 
+## Security
+
+[OS-X-Yosemite-Security-and-Privacy-Guide](OS-X-Yosemite-Security-and-Privacy-Guide)
 
 
 ## Contribute
 
 Contribute by opening Issues and Pull Requests, try to adhere to the contributing guidelines [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
 
-**[⬆ back to top](#Contents)**
+**[⬆ back to top](#table-of-contents)**
 
 
 ## License
