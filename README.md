@@ -47,9 +47,11 @@ In **Apple Icon > System Preferences**:
 
 
 ### Chat Clients
-- [Adium](https://adium.im/) - Instant messaging application.
+
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
+- [LimeChat](http://limechat.net/mac/) - Instant messaging application (Free).
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger.
+- [Textual](https://www.codeux.com/textual/) - Instant messaging application (Paid).
 
 
 ### Clients & GUI's
@@ -168,20 +170,22 @@ Miscellaneous
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
 
-### Reddit
 
-https://www.reddit.com/r/osx/
-https://www.reddit.com/r/macapps
-https://www.reddit.com/r/Mac
-https://www.reddit.com/r/MacSetups
+### Discussion Forums
 
-### Applescripts
+[/r/osx](https://www.reddit.com/r/osx/)
+[/r/macapps](https://www.reddit.com/r/macapps)
+[/r/mac](https://www.reddit.com/r/Mac)
+[/r/macsetups](https://www.reddit.com/r/MacSetups)
+
+
+### Useful Applescripts
 
 https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred
 https://github.com/unforswearing/applescript
 
 
-### shortcuts
+### Useful Shortcuts
 
 http://mac.appstorm.net/roundups/utilities-roundups/5-alternatives-to-the-os-x-finder/
 
