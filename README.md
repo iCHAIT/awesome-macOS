@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <br>
-    <img width="400" src="https://rawgit.com/iCHAIT/awesome-mac/master/media/logo.png" alt="awesome">
+    <img width="400" src="https://rawgit.com/iCHAIT/awesome-osx/master/media/Finder_5122x.png" alt="awesome">
     <br>
     <br>
 </h1>
@@ -15,9 +15,9 @@
 - [Basic Keys & Symbols](#basic-keys--symbols)
 - [System Preferences](#system-preferences)
 - [Applications](#applications)
+- [OSX Utilities](#osx-utilities)
 - [Setup](#setup)
 - [Security](#security)
-- [OSX Utilities](#osx-utilities)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
 - [Contribute](#contribute)
@@ -50,103 +50,101 @@ In **Apple Icon > System Preferences**:
 
 ### Chat Clients
 
+
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
-- [LimeChat](http://limechat.net/mac/) - Instant messaging application (Free).
+- [LimeChat](http://limechat.net/mac/) - Instant messaging application.
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger.
-- [Textual](https://www.codeux.com/textual/) - Instant messaging application (Paid).
-
-
-### Clients & GUI's
-
-- [Base](http://menial.co.uk/base/)
-- [Github-client](https://mac.github.com/) - A GUI client for Github.
-- [PSequel](#psql)
-- [Sequel Pro](http://www.sequelpro.com/)
 
 
 ### Developers
 
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style
-- [Dash](https://kapeli.com/dash) - An API Documentation Browser.
+- [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App for OS X.
+- [Color-Picker-Pro](https://github.com/oscardelben/Color-Picker-Pro) - A Color Detection Tool.
+- [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
+- [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app.
-- [Paw](https://luckymarmot.com/paw)
+- [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
+- [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X.
+- [Sequel Pro](http://www.sequelpro.com/) - MySQL database manager for OSX.
 - [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources.
+- [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell.
 
 
 ### Editors
 
-- [Atom](https://atom.io/)
-- [Sublime Text 3](http://www.sublimetext.com/)
-- [Macvim](https://github.com/b4winckler/macvim) - Vim - the text editor - for Mac OS X
+- [Atom](https://atom.io/) - The hackable text editor.
+- [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor for Mac OS X.
+- [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 
 
 ### Finder
 
-- [TotalFinder](http://totalfinder.binaryage.com/)
-- [XtraFinder](https://www.trankynam.com/xtrafinder/)
+- [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to finder.
+- [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to the mac finder.
 
 
 ### Games
 
-- [Screentendo](https://github.com/AaronRandall/Screentendo)
-- [stockfish-mac](https://github.com/daylen/stockfish-mac)
+- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.
+- [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac
 
 
 ### Productivity
 
-- [Alfred](http://www.alfredapp.com/) - Productivity Application.
+- [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
-- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Share Clipboard history between your apple devices.
-- [Quicksilver](http://qsapp.com/)
+- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Sync your clipboard between your Mac and your iOS devices.
+- [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
+- [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly.
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse.
-- [TextExpander](#textexpander)
-- [HyperDock](https://bahoom.com/hyperdock/)
+- [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
 
 
-### Share files/screesnshots
+### Sharing files
 
 - [Cloudapp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
-- [LightShot](#lightshot)
-- [Mac2Imgur](https://github.com/mileswd/mac2imgur)
+- [Mac2Imgur](https://github.com/mileswd/mac2imgur) - Open source Mac app for uploading images and screenshots to Imgur.
 
 
-### Shell
+### Terminal
 
-- [Fish](http://fishshell.com/) - A smart command line shell.
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X.
-- [Zsh](http://www.zsh.org/)
 
 
 ### Utilities
 
+- [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
 - [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep.
-- [Finicky](https://johnste.github.io/finicky/)
-- [Helium](https://github.com/JadenGeller/Helium) - A floating browser window.
-- [Monordraw](http://monodraw.helftone.com/)
-- [Pocket](https://getpocket.com/)
-- [TheUnarchiver](#theunarchiver)
+- [Finicky](https://johnste.github.io/finicky/) - An app that allows you to set up rules that decide which browser is opened for every link.
+- [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
-- [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet
+- [Monordraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [TheUnarchiver](https://itunes.apple.com/en/app/the-unarchiver/id425424353?mt=12) - An app that unarchive many different kinds of archive files.
 
 
 ### Others
 
-- [catch](https://github.com/mipstian/catch)
-- [color-picker-pro](https://github.com/oscardelben/Color-Picker-Pro)
+- [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS on OS X.
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail.
-- [Hacky](https://github.com/eliaskg/Hacky)
-- [mpv](https://github.com/mpv-player/mpv)
-- [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A super simple plugin manager for Sketch.app.
-- [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player for the Mac.
-- [soundcleod](https://github.com/salomvary/soundcleod)
-- [Transmit](https://panic.com/transmit/)
-- [vienna-rss](https://github.com/ViennaRSS/vienna-rss)
-- [Wallpapers](https://github.com/orta/Wallpapers)
-- [WWDC](https://github.com/insidegui/WWDC)
+- [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. 
+- [mpv](http://mpv.io/) - An open source media player.
+- [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player for the Mac.
+- [soundcleod](http://soundcleod.com/) - A browser for SoundCloud.
+- [Transmit](https://panic.com/transmit/) - A FTP client for OS X.
+- [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Open source RSS/Atom newsreader.
 
 
 **[⬆ back to top](#table-of-contents)**
+
+
+## OSX Utilities
+
+- [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
+- [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
+- [Thread on stackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
 ## Setup
@@ -162,16 +160,14 @@ https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
 https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 
-## OSX Utilities
+## Security
 
-- [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
-- [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
-- [Thread on stackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
+[OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 
 
 ## Miscellaneous
 
-[Trackpad Gestures]https://support.apple.com/en-us/HT204895
+[Trackpad Gestures](https://support.apple.com/en-us/HT204895)
 
 [Power Tools](http://www.slant.co/topics/523/~what-are-the-best-power-user-tools-for-mac-osx)
 
@@ -181,11 +177,6 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 
 **[⬆ back to top](#table-of-contents)**
-
-
-## Security
-
-[OS-X-Yosemite-Security-and-Privacy-Guide](OS-X-Yosemite-Security-and-Privacy-Guide)
 
 
 ## Discussion Forums
@@ -206,7 +197,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Contribute
 
-Contributions are most welcome, try to adhere to the contributing guidelines [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
+Contributions are most welcome, try to adhere to the [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
 
 **[⬆ back to top](#table-of-contents)**
 
