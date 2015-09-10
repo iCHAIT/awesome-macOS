@@ -1,4 +1,4 @@
-# Awesome Mac [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome OSX [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
     <br>
@@ -7,17 +7,19 @@
     <br>
 </h1>
 
-> A curated list of awesome applications, tools and more for Mac.
+> A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
 
 ## Table of Contents
 
-- [Basic Keys & Symbols](#basic-keys-&-symbols)
+- [Basic Keys & Symbols](#basic-keys--symbols)
 - [System Preferences](#system-preferences)
 - [Applications](#applications)
 - [Setup](#setup)
 - [Security](#security)
+- [OSX Utilities](#osx-utilities)
 - [Miscellaneous](#miscellaneous)
+- [Discussion Forums](#discussion-forums)
 - [Contribute](#contribute)
 
 
@@ -160,43 +162,22 @@ https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
 https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 
-Miscellaneous
-============
+## OSX Utilities
 
-
-- [Sublime](https://gist.github.com/brajeshwar/1886227)
-- [Shortcuts](https://gist.github.com/nuxlli/1207014)
-- https://gist.github.com/lucasfais/1207002
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
+- [Thread on stackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
-### Discussion Forums
+## Miscellaneous
 
-[/r/osx](https://www.reddit.com/r/osx/)
-[/r/macapps](https://www.reddit.com/r/macapps)
-[/r/mac](https://www.reddit.com/r/Mac)
-[/r/macsetups](https://www.reddit.com/r/MacSetups)
+[Trackpad Gestures]https://support.apple.com/en-us/HT204895
 
+[Power Tools](http://www.slant.co/topics/523/~what-are-the-best-power-user-tools-for-mac-osx)
 
-### Useful Applescripts
+[Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
 
-https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred
-https://github.com/unforswearing/applescript
-
-
-### Useful Shortcuts
-
-http://mac.appstorm.net/roundups/utilities-roundups/5-alternatives-to-the-os-x-finder/
-
-https://support.apple.com/en-us/HT204895
-
-http://www.slant.co/topics/523/~what-are-the-best-power-user-tools-for-mac-osx
-Window Maximize
-Enter opens Keyboard. Rename?
-Access Application Menu and Dock using keyboard
-Show Desktop
-Bring All to front
+[Mac Power Users](http://5by5.tv/mpu/238)
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -207,9 +188,25 @@ Bring All to front
 [OS-X-Yosemite-Security-and-Privacy-Guide](OS-X-Yosemite-Security-and-Privacy-Guide)
 
 
+## Discussion Forums
+
+#### Reddit
+
+* [/r/osx](https://www.reddit.com/r/osx/)
+* [/r/macapps](https://www.reddit.com/r/macapps)
+* [/r/mac](https://www.reddit.com/r/Mac)
+* [/r/macsetups](https://www.reddit.com/r/MacSetups)
+
+#### IRC channels
+
+* #macosx
+* #apple
+* #mac
+
+
 ## Contribute
 
-Contribute by opening Issues and Pull Requests, try to adhere to the contributing guidelines [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
+Contributions are most welcome, try to adhere to the contributing guidelines [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
 
 **[⬆ back to top](#table-of-contents)**
 
