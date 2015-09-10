@@ -1,12 +1,5 @@
 # Awesome OSX [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<h1 align="center">
-    <br>
-    <img width="400" src="https://rawgit.com/iCHAIT/awesome-osx/master/media/Finder_5122x.png" alt="awesome">
-    <br>
-    <br>
-</h1>
-
 > A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
 
@@ -137,9 +130,6 @@ In **Apple Icon > System Preferences**:
 - [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Open source RSS/Atom newsreader.
 
 
-**[⬆ back to top](#table-of-contents)**
-
-
 ## OSX Utilities
 
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
@@ -174,9 +164,6 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
 
 [Mac Power Users](http://5by5.tv/mpu/238)
-
-
-**[⬆ back to top](#table-of-contents)**
 
 
 ## Discussion Forums
