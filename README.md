@@ -181,18 +181,29 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Discussion Forums
 
-#### Reddit
+#### Apple
 
-* [/r/osx](https://www.reddit.com/r/osx/)
-* [/r/macapps](https://www.reddit.com/r/macapps)
-* [/r/mac](https://www.reddit.com/r/Mac)
-* [/r/macsetups](https://www.reddit.com/r/MacSetups)
+[Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
+
 
 #### IRC channels
 
 * #macosx
 * #apple
 * #mac
+
+
+#### macrumors
+
+[OSX Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
+
+
+#### Reddit
+
+* [/r/osx](https://www.reddit.com/r/osx/)
+* [/r/macapps](https://www.reddit.com/r/macapps)
+* [/r/mac](https://www.reddit.com/r/Mac)
+* [/r/macsetups](https://www.reddit.com/r/MacSetups)
 
 
 ## Contribute
