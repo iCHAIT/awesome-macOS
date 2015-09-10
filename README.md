@@ -52,23 +52,23 @@ In **Apple Icon > System Preferences**:
 ### Developers
 
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App for OS X.
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App.
 - [Color-Picker-Pro](https://github.com/oscardelben/Color-Picker-Pro) - A Color Detection Tool.
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
-- [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X.
-- [Sequel Pro](http://www.sequelpro.com/) - MySQL database manager for OSX.
+- [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
+- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources.
-- [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X
+- [WWDC](https://github.com/insidegui/WWDC) - The WWDC app.
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell.
 
 
 ### Editors
 
 - [Atom](https://atom.io/) - The hackable text editor.
-- [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor for Mac OS X.
+- [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor.
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 
 
@@ -103,7 +103,7 @@ In **Apple Icon > System Preferences**:
 
 ### Terminal
 
-- [iTerm2](https://www.iterm2.com/) - A terminal emulator for OS X.
+- [iTerm2](https://www.iterm2.com/) - A terminal emulator.
 
 
 ### Utilities
@@ -120,13 +120,13 @@ In **Apple Icon > System Preferences**:
 
 ### Others
 
-- [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS on OS X.
+- [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS.
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail.
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. 
 - [mpv](http://mpv.io/) - An open source media player.
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player for the Mac.
 - [soundcleod](http://soundcleod.com/) - A browser for SoundCloud.
-- [Transmit](https://panic.com/transmit/) - A FTP client for OS X.
+- [Transmit](https://panic.com/transmit/) - A FTP client.
 - [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Open source RSS/Atom newsreader.
 
 
