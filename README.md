@@ -1,12 +1,10 @@
-# Awesome OSX [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome OS X [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
 
 ## Table of Contents
 
-- [Basic Keys & Symbols](#basic-keys--symbols)
-- [System Preferences](#system-preferences)
 - [Applications](#applications)
 - [OSX Utilities](#osx-utilities)
 - [Setup](#setup)
@@ -15,27 +13,6 @@
 - [Discussion Forums](#discussion-forums)
 - [Contribute](#contribute)
 
-
-
-## Basic Keys & Symbols
-
-| Symbol    | Key         | 
-|:---------:|:-----------:|
-|  &#8984;  | Command Key |
-|  &#8963;  | Control Key |
-|  &#8997;  | Option Key  |
-|  &#8679;  | Shift Key   |
-
-
-
-## System Preferences
-
-There are a couple tweaks you would want to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
-
-In **Apple Icon > System Preferences**:
-
-- Trackpad > Tap to click
-- Security & Privacy > Allow apps downloaded from > Anywhere (this in particular is one of the most useful and important modification that you'll want to make.)
 
 
 ## Applications
