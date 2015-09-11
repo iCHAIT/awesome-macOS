@@ -49,7 +49,7 @@
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 - [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor.
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
-- [Textmate](https://macromates.com/) - The missing editor for Mac OS X.
+- [Textmate](https://macromates.com/) - A graphical text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
 
 
