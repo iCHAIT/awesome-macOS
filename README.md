@@ -84,6 +84,7 @@
 ### Terminal
 
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator.
+- [TotalTerminal](http://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key.
 
 
 ### Utilities
