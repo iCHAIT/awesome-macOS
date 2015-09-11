@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Applications](#applications)
-- [OSX Utilities](#osx-utilities)
+- [OS X Utilities](#os-x-utilities)
 - [Setup](#setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
@@ -107,7 +107,7 @@
 - [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Open source RSS/Atom newsreader.
 
 
-## OSX Utilities
+## OS X Utilities
 
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
@@ -116,13 +116,13 @@
 
 ## Setup
 
-### Mac OS X 10.9 Mavericks Setup
+### OS X 10.9 Mavericks Setup
 
 https://gist.github.com/kevinelliott/3135044
 
 https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
 
-### Mac OS X 10.10 Yosemite Setup
+### OS X 10.10 Yosemite Setup
 
 https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
@@ -152,14 +152,14 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 #### IRC channels
 
-* #macosx
-* #apple
-* #mac
+* [#macosx](https://webchat.freenode.net/?channels=macosx)
+* [#apple](https://webchat.freenode.net/?channels=apple)
+* [#mac](https://webchat.freenode.net/?channels=mac)
 
 
-#### macrumors
+#### Macrumors
 
-[OSX Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
+[OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 
 
 #### Reddit
@@ -172,7 +172,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Contribute
 
-Contributions are most welcome, try to adhere to the [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributiong.md)
+Contributions are most welcome, try to adhere to the [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributing.md)
 
 **[⬆ back to top](#table-of-contents)**
 
