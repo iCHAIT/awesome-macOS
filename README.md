@@ -34,7 +34,7 @@
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app.
-- [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
+- [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
@@ -54,14 +54,14 @@
 
 ### Finder
 
-- [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to finder.
-- [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to the mac finder.
+- [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
+- [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder.
 
 
 ### Games
 
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.
-- [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac
+- [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application.
 
 
 ### Productivity
@@ -78,7 +78,7 @@
 ### Sharing files
 
 - [Cloudapp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
-- [Mac2Imgur](https://github.com/mileswd/mac2imgur) - Open source Mac app for uploading images and screenshots to Imgur.
+- [Mac2Imgur](https://github.com/mileswd/mac2imgur) - Open source application for uploading images and screenshots to Imgur.
 
 
 ### Terminal
@@ -90,7 +90,7 @@
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
-- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents mac from automatically going to sleep.
+- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents OS X from automatically going to sleep.
 - [Finicky](https://johnste.github.io/finicky/) - An app that allows you to set up rules that decide which browser is opened for every link.
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
@@ -104,7 +104,7 @@
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail.
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. 
 - [mpv](http://mpv.io/) - An open source media player.
-- [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player for the Mac.
+- [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player.
 - [soundcleod](http://soundcleod.com/) - A browser for SoundCloud.
 - [Transmit](https://panic.com/transmit/) - A FTP client.
 - [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Open source RSS/Atom newsreader.
