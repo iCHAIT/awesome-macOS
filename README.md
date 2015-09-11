@@ -135,7 +135,10 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Security
 
-[OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System.
+* [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+* [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool.
+* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system.
 
 
 ## Miscellaneous
