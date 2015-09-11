@@ -45,8 +45,10 @@
 ### Editors
 
 - [Atom](https://atom.io/) - The hackable text editor.
+- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 - [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor.
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
+- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
 
 
 ### Finder
