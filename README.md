@@ -172,7 +172,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Contribute
 
-Contributions are most welcome, try to adhere to the [contribution guidelines](http://github.com/iCHAIT/awesome-mac/contributing.md)
+Contributions are most welcome, try to adhere to the [contribution guidelines](contributing.md)
 
 **[⬆ back to top](#table-of-contents)**
 
