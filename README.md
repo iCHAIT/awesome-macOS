@@ -37,6 +37,7 @@
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
+- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources.
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app.
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell.
