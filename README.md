@@ -34,7 +34,8 @@
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app.
-- [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
+- [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster.
+- [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
@@ -103,7 +104,7 @@
 
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS.
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail.
-- [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. 
+- [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way.
 - [mpv](http://mpv.io/) - An open source media player.
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player.
 - [soundcleod](http://soundcleod.com/) - A browser for SoundCloud.
