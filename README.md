@@ -94,7 +94,7 @@
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
 - [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents OS X from automatically going to sleep.
-- [Finicky](https://johnste.github.io/finicky/) - An app that allows you to set up rules that decide which browser is opened for every link.
+- [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link.
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
 - [Monordraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
@@ -140,13 +140,10 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Miscellaneous
 
-[Trackpad Gestures](https://support.apple.com/en-us/HT204895)
-
-[Power Tools](http://www.slant.co/topics/523/~what-are-the-best-power-user-tools-for-mac-osx)
-
-[Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
-
-[Mac Power Users](http://5by5.tv/mpu/238)
+* [Trackpad Gestures](https://support.apple.com/en-us/HT204895)
+* [Power Tools](http://www.slant.co/topics/523/~what-are-the-best-power-user-tools-for-mac-osx)
+* [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
+* [Mac Power Users](http://5by5.tv/mpu/238)
 
 
 ## Discussion Forums
