@@ -98,6 +98,7 @@
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
 - [Monordraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TheUnarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353) - An app that unarchive many different kinds of archive files.
 
 
