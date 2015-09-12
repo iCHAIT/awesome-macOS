@@ -124,9 +124,8 @@
 
 ### OS X 10.9 Mavericks Setup
 
-https://gist.github.com/kevinelliott/3135044
-
-https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
+* https://gist.github.com/kevinelliott/3135044
+* https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
 
 ### OS X 10.10 Yosemite Setup
 
@@ -163,7 +162,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 * [#mac](https://webchat.freenode.net/?channels=mac)
 
 
-#### Macrumors
+#### MacRumors
 
 [OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 
