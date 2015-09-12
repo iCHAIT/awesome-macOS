@@ -70,7 +70,7 @@
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
-- [CloudClip](https://itunes.apple.com/us/app/cloudclip/id563356503?ls=1&mt=8) - Sync your clipboard between your Mac and your iOS devices.
+- [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly.
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse.
@@ -93,12 +93,12 @@
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
-- [Caffeine](https://itunes.apple.com/in/app/caffeine/id411246225?mt=12) - Prevents OS X from automatically going to sleep.
+- [Caffeine](https://itunes.apple.com/app/caffeine/id411246225) - Prevents OS X from automatically going to sleep.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link.
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
 - [Monordraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
-- [TheUnarchiver](https://itunes.apple.com/en/app/the-unarchiver/id425424353?mt=12) - An app that unarchive many different kinds of archive files.
+- [TheUnarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353) - An app that unarchive many different kinds of archive files.
 
 
 ### Others
@@ -117,7 +117,7 @@
 
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
-- [Thread on stackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
+- [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
 ## Setup
