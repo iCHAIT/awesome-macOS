@@ -99,6 +99,7 @@
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software](media/oss.png)
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software](media/oss.png)
+- [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software](media/oss.png)
 - [Monordraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
