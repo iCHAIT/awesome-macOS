@@ -40,7 +40,7 @@
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
-- [Tower](http://www.git-tower.com/) - The most powerful Git client for Mac
+- [Tower](http://www.git-tower.com/) - The most powerful Git client for Mac.
 - [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources. ![Open-Source Software](media/oss.png)
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. ![Open-Source Software](media/oss.png)
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. ![Open-Source Software](media/oss.png)
