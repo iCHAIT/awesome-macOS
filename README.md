@@ -101,6 +101,7 @@
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software](media/oss.png)
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software](media/oss.png)
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
+- [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software](media/oss.png)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software](media/oss.png)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
