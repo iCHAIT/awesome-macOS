@@ -50,7 +50,7 @@
 
 - [Atom](https://atom.io/) - The hackable text editor. ![Open-Source Software](media/oss.png)
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. ![Open-Source Software](media/oss.png)
-- [Light Table](https://github.com/LightTable/LightTable) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. ![Open-Source Software](media/oss.png) 
+- [Light Table](https://github.com/LightTable/LightTable) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. ![Open-Source Software](media/oss.png)
 - [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor. ![Open-Source Software](media/oss.png)
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [Textmate](https://macromates.com/) - A graphical text editor. ![Open-Source Software](media/oss.png)
