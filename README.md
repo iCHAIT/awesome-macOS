@@ -60,6 +60,7 @@
 
 ### Finder
 
+- [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder.
 
@@ -73,12 +74,17 @@
 ### Productivity
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [Better Touch Tool](http://www.bettertouchtool.net/) - Configure gestures for mouse.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
+- [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
+- [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
+- [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. ![Open-Source Software][OSS Icon]
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. ![Open-Source Software][OSS Icon]
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
+- [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
 ### Sharing files
@@ -107,6 +113,7 @@
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
+- [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
 
 
@@ -126,6 +133,7 @@
 
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
+- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. ![Open-Source Software][OSS Icon]
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
