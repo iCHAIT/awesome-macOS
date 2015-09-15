@@ -112,7 +112,7 @@
 
 ### Others
 
-- [BetterTouchTool](http://www.bettertouchtool.net) - Assign custom gestures to keyboard shortcuts and other actions.
+- [BetterTouchTool](http://www.bettertouchtool.net) - Assign custom gestures to keyboard shortcuts and other actions.   
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. ![Open-Source Software][OSS Icon]
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. ![Open-Source Software][OSS Icon]
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. ![Open-Source Software][OSS Icon]
