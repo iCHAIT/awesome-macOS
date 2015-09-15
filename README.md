@@ -56,7 +56,9 @@
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [Textmate](https://macromates.com/) - A graphical text editor. ![Open-Source Software][OSS Icon]
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
-
+- [PhpStorm](https://www.jetbrains.com/phpstorm/) - Smart PHP Code Editor
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Intelligent Python IDE
+- [IDEA](https://www.jetbrains.com/idea/) - A intelligent Java IDE
 
 ### Finder
 
