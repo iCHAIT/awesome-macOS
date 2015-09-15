@@ -95,7 +95,7 @@
 
 ### Terminal
 
-- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
+- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. ![Open-Source Software][OSS Icon]
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator. ![Open-Source Software][OSS Icon]
 - [TotalTerminal](http://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. ![Open-Source Software][OSS Icon]
 
