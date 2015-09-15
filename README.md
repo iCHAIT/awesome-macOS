@@ -85,6 +85,7 @@
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. ![Open-Source Software][OSS Icon]
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. ![Open-Source Software][OSS Icon]
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
+- [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
 ### Sharing files
