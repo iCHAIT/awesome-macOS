@@ -95,7 +95,6 @@
 
 ### Terminal
 
-- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. ![Open-Source Software][OSS Icon]
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator. ![Open-Source Software][OSS Icon]
 - [TotalTerminal](http://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. ![Open-Source Software][OSS Icon]
 
@@ -134,6 +133,7 @@
 
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
+- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. ![Open-Source Software][OSS Icon]
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
