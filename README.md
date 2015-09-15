@@ -38,6 +38,7 @@
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
+- [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
