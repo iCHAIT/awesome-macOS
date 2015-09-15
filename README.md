@@ -41,6 +41,7 @@
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
+- [Tower](http://www.git-tower.com/) - The most powerful Git client.
 - [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources. ![Open-Source Software](media/oss.png)
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. ![Open-Source Software](media/oss.png)
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. ![Open-Source Software](media/oss.png)
@@ -50,6 +51,7 @@
 
 - [Atom](https://atom.io/) - The hackable text editor. ![Open-Source Software](media/oss.png)
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. ![Open-Source Software](media/oss.png)
+- [Light Table](https://github.com/LightTable/LightTable) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. ![Open-Source Software](media/oss.png)
 - [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor. ![Open-Source Software](media/oss.png)
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [Textmate](https://macromates.com/) - A graphical text editor. ![Open-Source Software](media/oss.png)
@@ -63,7 +65,7 @@
 
 
 ### Games
-
+- [OpenEmu](http://openemu.org/) - Multiple Video Game System. ![Open-Source Software](media/oss.png)
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![Open-Source Software](media/oss.png)
 - [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![Open-Source Software](media/oss.png)
 
@@ -94,14 +96,17 @@
 ### Utilities
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
+- [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software](media/oss.png)
-- [Caffeine](https://itunes.apple.com/app/caffeine/id411246225) - Prevents OS X from automatically going to sleep.
+- [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software](media/oss.png)
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software](media/oss.png)
+- [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
+- [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software](media/oss.png)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software](media/oss.png)
-- [Monordraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
-- [TheUnarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353) - An app that unarchive many different kinds of archive files.
+- [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software](media/oss.png)
 
 
 ### Others
