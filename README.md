@@ -103,6 +103,7 @@
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
+- [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
