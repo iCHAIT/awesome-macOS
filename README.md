@@ -25,7 +25,9 @@
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![Open-Source Software][OSS Icon]
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. ![Open-Source Software][OSS Icon]
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. ![Open-Source Software][OSS Icon]
+- [Profanity](http://www.profanity.im) - A terminal XMPP client. ![Open-Source Software][OSS Icon]
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. ![Open-Source Software][OSS Icon]
+- [WeeChat](https://weechat.org) - A terminal IRC client. ![Open-Source Software][OSS Icon]
 
 
 ### Developers
@@ -36,9 +38,9 @@
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
+- [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
-- [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
-- [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac.
+- [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
@@ -61,7 +63,7 @@
 
 ### Finder
 
-- [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder.
 
@@ -75,10 +77,9 @@
 ### Productivity
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
-- [Better Touch Tool](http://www.bettertouchtool.net/) - Configure gestures for mouse.
+- [Amethyst](https://github.com/ianyh/Amethyst) - Window manager (automatically keep windows sized in grids). ![Open-Source Software][OSS Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
-- [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 - [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
@@ -105,14 +106,18 @@
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
+- [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
+- [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. ![Open-Source Software][OSS Icon]
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software][OSS Icon]
+- [MacDown](http://macdown.uranusjr.com/) - Markdown editor. ![Open-Source Software][OSS Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Numi](http://numi.io/) - Beautiful calculator app.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
@@ -124,7 +129,7 @@
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. ![Open-Source Software][OSS Icon]
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. ![Open-Source Software][OSS Icon]
 - [mpv](http://mpv.io/) - Media player. ![Open-Source Software][OSS Icon]
-- [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player for the Mac. ![Open-Source Software][OSS Icon]
+- [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. ![Open-Source Software][OSS Icon]
 - [soundcleod](http://soundcleod.com/) - A browser for SoundCloud. ![Open-Source Software][OSS Icon]
 - [Transmit](https://panic.com/transmit/) - A FTP client.
 - [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - RSS/Atom newsreader. ![Open-Source Software][OSS Icon]
