@@ -73,7 +73,7 @@
 ### Productivity
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
-- [Better Touch Tool](http://www.bettertouchtool.net/) - Configure gestures for mouse.
+- [Better Touch Tool](http://www.bettertouchtool.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
