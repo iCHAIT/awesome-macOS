@@ -45,6 +45,7 @@
 ### Editors
 - [Atom](https://atom.io/) - The hackable text editor. ![Open-Source Software][OSS Icon]
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. ![Open-Source Software][OSS Icon]
+- [CotEditor](http://coteditor.com) - Lightweight Plain-Text Editor for OS X. ![Open-Source Software][OSS Icon]
 - [Light Table](https://github.com/LightTable/LightTable) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. ![Open-Source Software][OSS Icon]
 - [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor. ![Open-Source Software][OSS Icon]
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
@@ -62,8 +63,8 @@
 - [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![Open-Source Software][OSS Icon]
 
 ### Movies
-- [Popcorn Time](https://popcorntime.io) - An app to watch Movies and TV Shows instantly.![Open-Source Software][OSS Icon]
-- [Transmission](http://www.transmissionbt.com) - An open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money.![Open-Source Software][OSS Icon]
+- [Popcorn Time](https://popcorntime.io) - An app to watch Movies and TV Shows instantly. ![Open-Source Software][OSS Icon]
+- [Transmission](http://www.transmissionbt.com) - An open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money. ![Open-Source Software][OSS Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - Simple, fast and powerful media player that has a native UI. ![Open-Source Software][OSS Icon]
 
 ### Productivity
