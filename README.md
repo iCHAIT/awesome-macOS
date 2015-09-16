@@ -81,6 +81,8 @@
 
 - [Transmission](http://www.transmissionbt.com) - An open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money.![Open-Source Software][OSS Icon]
 
+- [VLC](http://www.videolan.org/vlc/index.html) - Simple, fast and powerful media player that have a native UI. ![Open-Source Software][OSS Icon]
+
 ### Productivity
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
