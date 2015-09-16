@@ -25,7 +25,9 @@
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![Open-Source Software][OSS Icon]
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. ![Open-Source Software][OSS Icon]
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. ![Open-Source Software][OSS Icon]
+- [Profanity](http://www.profanity.im) - A terminal XMPP client. ![Open-Source Software][OSS Icon]
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. ![Open-Source Software][OSS Icon]
+- [WeeChat](https://weechat.org) - A terminal IRC client. ![Open-Source Software][OSS Icon]
 
 
 ### Developers
@@ -60,6 +62,7 @@
 
 ### Finder
 
+- [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder.
 
@@ -73,8 +76,10 @@
 ### Productivity
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [Amethyst](https://github.com/ianyh/Amethyst) - Window manager (automatically keep windows sized in grids). ![Open-Source Software][OSS Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
+- [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. ![Open-Source Software][OSS Icon]
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. ![Open-Source Software][OSS Icon]
@@ -98,6 +103,7 @@
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
+- [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
@@ -107,6 +113,7 @@
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
+- [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
 
 
@@ -126,6 +133,7 @@
 
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
+- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. ![Open-Source Software][OSS Icon]
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
