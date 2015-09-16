@@ -37,7 +37,7 @@
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
-- [Paw](https://luckymarmot.com/paw) - The ultimate REST client for Mac.
+- [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
@@ -116,7 +116,7 @@
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. ![Open-Source Software][OSS Icon]
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. ![Open-Source Software][OSS Icon]
 - [mpv](http://mpv.io/) - Media player. ![Open-Source Software][OSS Icon]
-- [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player for the Mac. ![Open-Source Software][OSS Icon]
+- [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. ![Open-Source Software][OSS Icon]
 - [soundcleod](http://soundcleod.com/) - A browser for SoundCloud. ![Open-Source Software][OSS Icon]
 - [Transmit](https://panic.com/transmit/) - A FTP client.
 - [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - RSS/Atom newsreader. ![Open-Source Software][OSS Icon]
