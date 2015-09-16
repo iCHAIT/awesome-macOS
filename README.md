@@ -48,6 +48,7 @@
 - [CotEditor](http://coteditor.com) - Lightweight Plain-Text Editor for OS X. ![Open-Source Software][OSS Icon]
 - [Light Table](https://github.com/LightTable/LightTable) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. ![Open-Source Software][OSS Icon]
 - [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor. ![Open-Source Software][OSS Icon]
+- [Mou](http://25.io/mou/) A Lightweight Markdown editor.
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [Textmate](https://macromates.com/) - A graphical text editor. ![Open-Source Software][OSS Icon]
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
