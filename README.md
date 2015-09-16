@@ -75,6 +75,7 @@
 ### Productivity
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [Amethyst](https://github.com/ianyh/Amethyst) - Window manager (automatically keep windows sized in grids). ![Open-Source Software][OSS Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
 - [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
