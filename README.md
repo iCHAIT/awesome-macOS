@@ -75,7 +75,7 @@
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
-- [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
+- [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545) - Window management for tiling your windows.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. ![Open-Source Software][OSS Icon]
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. ![Open-Source Software][OSS Icon]
