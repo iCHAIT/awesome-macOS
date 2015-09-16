@@ -46,6 +46,11 @@
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. ![Open-Source Software][OSS Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. ![Open-Source Software][OSS Icon]
 
+### Design
+
+- [Sketch](http://bohemiancoding.com/sketch/) - An awesome vector editor like Adobe Illustrator. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
+
+- [PaintCode](http://www.paintcodeapp.com) - A powerful tool to turn your vector drawings into code.
 
 ### Editors
 
@@ -70,6 +75,11 @@
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![Open-Source Software][OSS Icon]
 - [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![Open-Source Software][OSS Icon]
 
+### Movies
+
+- [Popcorn Time](https://popcorntime.io) - An app to watch Movies and TV Shows instantly.![Open-Source Software][OSS Icon]
+
+- [Transmission](http://www.transmissionbt.com) - An open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money.![Open-Source Software][OSS Icon]
 
 ### Productivity
 
@@ -101,18 +111,19 @@
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
+- [Better Rename](http://www.publicspace.net/ABetterFinderRename/) - The most complete renaming solution available on the market today
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. ![Open-Source Software][OSS Icon]
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software][OSS Icon]
+- [Mactracker](http://www.mactracker.ca) - A tool provides detailed information on every Apple Macintosh computer ever made, including items such as processor speed, memory, optical drives, graphic cards, supported OS versions, and expansion options. Also included is information on early Apple systems, Apple mice, keyboards, displays, printers, scanners, speakers, cameras, iPod, Apple TV, iPhone, iPad, Apple Watch, Wi-Fi products, Newton, iOS, Mac OS, OS X, and watchOS versions.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
-
 
 ### Others
 
