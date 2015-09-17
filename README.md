@@ -30,6 +30,11 @@
 - [WeeChat](https://weechat.org) - A terminal IRC client. ![Open-Source Software][OSS Icon]
 
 
+### Data Recovery
+
+- [Data Rescue](https://www.prosofteng.com/datarescue4/) - Comprehensive and professional data recovery for a multitude of scenarios.
+- [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - Recover from filesystem corruptions when Disk Utility is out of options.
+
 ### Developers
 
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
@@ -62,6 +67,11 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
 
 
+### Email
+
+- [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
+
+
 ### Finder
 
 - [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client
@@ -74,6 +84,14 @@
 - [OpenEmu](http://openemu.org/) - Multiple Video Game System. ![Open-Source Software][OSS Icon]
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![Open-Source Software][OSS Icon]
 - [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![Open-Source Software][OSS Icon]
+
+
+### Graphics
+
+- [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
+- [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative
+- [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
+- [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
 
 
 ### Productivity
@@ -91,6 +109,11 @@
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. ![Open-Source Software][OSS Icon]
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
+
+
+### Security
+
+- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
 ### Sharing files
@@ -112,6 +135,7 @@
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
+- [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
@@ -127,12 +151,17 @@
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
 
 
+### Video
+
+- [mpv](http://mpv.io/) - Media player. ![Open-Source Software][OSS Icon]
+- [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
+
+
 ### Others
 
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. ![Open-Source Software][OSS Icon]
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. ![Open-Source Software][OSS Icon]
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. ![Open-Source Software][OSS Icon]
-- [mpv](http://mpv.io/) - Media player. ![Open-Source Software][OSS Icon]
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. ![Open-Source Software][OSS Icon]
 - [soundcleod](http://soundcleod.com/) - A browser for SoundCloud. ![Open-Source Software][OSS Icon]
 - [Transmit](https://panic.com/transmit/) - A FTP client.
