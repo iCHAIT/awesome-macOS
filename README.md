@@ -21,7 +21,7 @@
 
 ### Audio
 
-- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds.
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. ![Open-Source Software][OSS Icon]
 
 
 ### Chat Clients
@@ -57,7 +57,7 @@
 
 ### E-Books
 
-- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management/conversion.
+- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management/conversion. ![Open-Source Software][OSS Icon]
 
 
 ### Editors
@@ -122,7 +122,7 @@
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
-- [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying.
+- [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. ![Open-Source Software][OSS Icon]
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
