@@ -125,6 +125,7 @@
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. ![Open-Source Software][OSS Icon]
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. ![Open-Source Software][OSS Icon]
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
+- [EtreCheck](http://www.etresoft.com/etrecheck) - Output system information and configuration to get more informed help from Apple support professionals.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
