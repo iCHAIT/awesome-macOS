@@ -59,7 +59,7 @@
 
 ### E-Books
 
-- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management/conversion. ![Open-Source Software][OSS Icon]
+- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. ![Open-Source Software][OSS Icon]
 - [Kitabu](https://www.kitabu.me/) - Desktop ePub ebook reader.
 
 ### Editors
