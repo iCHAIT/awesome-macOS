@@ -142,6 +142,7 @@
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. ![Open-Source Software][OSS Icon]
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software][OSS Icon]
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services.
+- [LICEcap](http://www.cockos.com/licecap/) - Capture an area of your desktop and save it directly to an animated GIF. ![Open-Source Software][OSS Icon]
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. ![Open-Source Software][OSS Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
