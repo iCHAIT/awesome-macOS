@@ -145,6 +145,7 @@
 - [LICEcap](http://www.cockos.com/licecap/) - Capture an area of your desktop and save it directly to an animated GIF. ![Open-Source Software][OSS Icon]
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. ![Open-Source Software][OSS Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
+- [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Numi](http://numi.io/) - Beautiful calculator app.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
