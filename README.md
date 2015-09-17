@@ -148,6 +148,11 @@
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
 
 
+### Video
+
+- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. ![Open-Source Software][OSS Icon]
+
+
 ### Others
 
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. ![Open-Source Software][OSS Icon]
