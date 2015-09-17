@@ -147,6 +147,7 @@
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. ![Open-Source Software][OSS Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
