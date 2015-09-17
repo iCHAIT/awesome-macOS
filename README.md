@@ -22,6 +22,7 @@
 ### Chat Clients
 
 
+- [Adium](https://adium.im/) - Adium is a free instant messaging application for Mac OS X. ![Open-Source Software][OSS Icon]
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![Open-Source Software][OSS Icon]
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. ![Open-Source Software][OSS Icon]
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. ![Open-Source Software][OSS Icon]
