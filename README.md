@@ -115,6 +115,7 @@
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
+[InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents OS X from automatically going to sleep (on lid closing or idle timeout).
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. ![Open-Source Software][OSS Icon]
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software][OSS Icon]
