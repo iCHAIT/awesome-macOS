@@ -150,6 +150,7 @@
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. ![Open-Source Software][OSS Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app.
 - [nvALT](http://brettterpstra.com/projects/nvalt/) - Fork of Notational Velocity with additional functionality, including MultiMarkdown. ![Open-Source Software][OSS Icon]
+- [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
