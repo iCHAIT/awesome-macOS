@@ -123,6 +123,7 @@
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. ![Open-Source Software][OSS Icon]
+- [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. ![Open-Source Software][OSS Icon]
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
