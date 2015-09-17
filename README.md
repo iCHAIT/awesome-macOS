@@ -109,6 +109,11 @@
 - [Mac2Imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. ![Open-Source Software][OSS Icon]
 
 
+### Security
+
+- [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
+
+
 ### Terminal
 
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator. ![Open-Source Software][OSS Icon]
