@@ -78,6 +78,7 @@
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [Amethyst](https://github.com/ianyh/Amethyst) - Window manager (automatically keep windows sized in grids). ![Open-Source Software][OSS Icon]
+- [Better Touch Tool](http://www.bettertouchtool.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
 - [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
@@ -86,6 +87,7 @@
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. ![Open-Source Software][OSS Icon]
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. ![Open-Source Software][OSS Icon]
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
+- [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
 ### Sharing files
