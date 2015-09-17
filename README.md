@@ -106,6 +106,7 @@
 - [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. ![Open-Source Software][OSS Icon]
+- [LaunchBar](https://www.obdev.at/products/launchbar/) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. ![Open-Source Software][OSS Icon]
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. ![Open-Source Software][OSS Icon]
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
