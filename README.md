@@ -82,6 +82,7 @@
 - [Better Touch Tool](http://www.bettertouchtool.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
+- [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545) - Window management for tiling your windows.
 - [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. ![Open-Source Software][OSS Icon]
