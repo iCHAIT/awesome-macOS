@@ -19,6 +19,11 @@
 ## Applications
 
 
+### Audio
+
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds.
+
+
 ### Chat Clients
 
 
