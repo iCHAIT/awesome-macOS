@@ -42,7 +42,7 @@
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
-- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
+- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open-Source Software][OSS Icon]
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Tower](http://www.git-tower.com/) - The most powerful Git client.
 - [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources. ![Open-Source Software][OSS Icon]
