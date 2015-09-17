@@ -134,6 +134,7 @@
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
 - [Gapplin](http://gapplin.wolfrosch.com/) - Tiny SVG viewer with WebKit rendering.
+- [GrandPerspective](http://grandperspectiv.sourceforge.net/) - Graphically show the disk usage within a file system. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. ![Open-Source Software][OSS Icon]
