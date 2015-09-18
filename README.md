@@ -219,4 +219,4 @@ Contributions are most welcome, try to adhere to the [contribution guidelines](c
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[OSS Icon]: media/oss.png
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
