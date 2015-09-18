@@ -34,6 +34,7 @@
 
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App. ![Open-Source Software][OSS Icon]
+- [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
 - [Color-Picker-Pro](https://github.com/oscardelben/Color-Picker-Pro) - A Color Detection Tool. ![Open-Source Software][OSS Icon]
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
