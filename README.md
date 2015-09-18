@@ -42,6 +42,7 @@
 - [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
 - [Color-Picker-Pro](https://github.com/oscardelben/Color-Picker-Pro) - A Color Detection Tool. ![Open-Source Software][OSS Icon]
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager.
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
