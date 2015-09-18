@@ -118,14 +118,13 @@
 ### Sharing files
 
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
-- [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. ![Open-Source Software][OSS Icon]
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur)
 
 
 ### Terminal
 
-- [iTerm 2](https://www.iterm2.com/) - A terminal emulator. ![Open-Source Software][OSS Icon]
-- [TotalTerminal](http://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. ![Open-Source Software][OSS Icon]
-
+- [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
+- [TotalTerminal](http://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key.
 
 ### Utilities
 
