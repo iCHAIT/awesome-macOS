@@ -15,12 +15,9 @@
 - [Contribute](#contribute)
 
 
-
 ## Applications
 
-
 ### Chat Clients
-
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![Open-Source Software][OSS Icon]
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. ![Open-Source Software][OSS Icon]
