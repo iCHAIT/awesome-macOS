@@ -113,11 +113,6 @@
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
-### Security
-
-- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
-
-
 ### Sharing files
 
 - [Cloudapp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
@@ -196,6 +191,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 * [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system.
+- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
 ## Miscellaneous
