@@ -38,24 +38,25 @@
 ### Developers
 
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App. ![Open-Source Software][OSS Icon]
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew)
 - [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
 - [Color-Picker-Pro](https://github.com/oscardelben/Color-Picker-Pro) - A Color Detection Tool. ![Open-Source Software][OSS Icon]
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [GitHub Desktop](https://mac.github.com/) - A GUI for using GitHub.
-- [GitUp](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
+- [GitUp](http://gitup.co/) - A simple but powerful Git OS X app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp)
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
-- [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
+- [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageOptim)
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open-Source Software][OSS Icon]
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
+- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Tower](http://www.git-tower.com/) - The most powerful Git client.
-- [Unused](https://github.com/jeffhodnett/Unused) - An app for checking Xcode projects for unused resources. ![Open-Source Software][OSS Icon]
-- [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. ![Open-Source Software][OSS Icon]
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. ![Open-Source Software][OSS Icon]
+- [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused)
+- [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 
 ### Editors
