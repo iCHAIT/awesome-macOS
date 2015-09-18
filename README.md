@@ -1,4 +1,4 @@
-![Awesome OS X][Awesome OS X Logo]
+<img src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/awesome.svg" width="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -219,5 +219,4 @@ Contributions are most welcome, try to adhere to the [contribution guidelines](c
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[Awesome OS X Logo]: media/awesome.svg
 [OSS Icon]: media/oss.png
