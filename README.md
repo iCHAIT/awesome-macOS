@@ -172,7 +172,7 @@
 
 - [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
-- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. ![Open-Source Software][OSS Icon]
+- [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances)
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
@@ -190,10 +190,10 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Security
 
-* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System.
-* [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
-* [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool.
-* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system.
+* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
+* [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+* [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool. [![Open-Source Software][OSS Icon]](https://github.com/jipegit/OSXAuditor)
+* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa)
 - [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
