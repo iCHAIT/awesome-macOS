@@ -130,25 +130,25 @@
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
-- [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
+- [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar)
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
-- [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
-- [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
+- [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
+- [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium)
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents OS X from automatically going to sleep (on lid closing or idle timeout).
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
-- [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. ![Open-Source Software][OSS Icon]
-- [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software][OSS Icon]
-- [MacDown](http://macdown.uranusjr.com/) - Markdown editor. ![Open-Source Software][OSS Icon]
-- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
+- [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa)
+- [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/keka/files/)
+- [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/uranusjr/macdown)
+- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Numi](http://numi.io/) - Beautiful calculator app.
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![Open-Source Software][OSS Icon]
+- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt)
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
-- [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
+- [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
 
 
 ### Video
