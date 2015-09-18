@@ -19,6 +19,11 @@
 ## Applications
 
 
+### Audio
+
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. ![Open-Source Software][OSS Icon]
+
+
 ### Chat Clients
 
 
@@ -39,7 +44,9 @@
 - [Github Desktop](https://mac.github.com/) - A GUI for using Github.
 - [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
+- [ImageAlpha](http://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. ![Open-Source Software][OSS Icon]
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
+- [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open-Source Software][OSS Icon]
@@ -49,6 +56,11 @@
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. ![Open-Source Software][OSS Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. ![Open-Source Software][OSS Icon]
 
+
+### E-Books
+
+- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. ![Open-Source Software][OSS Icon]
+- [Kitabu](https://www.kitabu.me/) - Desktop ePub ebook reader.
 
 ### Editors
 
@@ -99,6 +111,11 @@
 - [Mac2Imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. ![Open-Source Software][OSS Icon]
 
 
+### Security
+
+- [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
+
+
 ### Terminal
 
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator. ![Open-Source Software][OSS Icon]
@@ -112,20 +129,38 @@
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. ![Open-Source Software][OSS Icon]
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
+- [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. ![Open-Source Software][OSS Icon]
+- [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. ![Open-Source Software][OSS Icon]
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
+- [EtreCheck](http://www.etresoft.com/etrecheck) - Output system information and configuration to get more informed help from Apple support professionals. ![Open-Source Software][OSS Icon]
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. ![Open-Source Software][OSS Icon]
+- [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
+- [Gapplin](http://gapplin.wolfrosch.com/) - Tiny SVG viewer with WebKit rendering.
+- [GrandPerspective](http://grandperspectiv.sourceforge.net/) - Graphically show the disk usage within a file system. ![Open-Source Software][OSS Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. ![Open-Source Software][OSS Icon]
 [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents OS X from automatically going to sleep (on lid closing or idle timeout).
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. ![Open-Source Software][OSS Icon]
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. ![Open-Source Software][OSS Icon]
+- [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services.
+- [LICEcap](http://www.cockos.com/licecap/) - Capture an area of your desktop and save it directly to an animated GIF. ![Open-Source Software][OSS Icon]
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. ![Open-Source Software][OSS Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. ![Open-Source Software][OSS Icon]
+- [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. ![Open-Source Software][OSS Icon]
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. ![Open-Source Software][OSS Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app.
+- [nvALT](http://brettterpstra.com/projects/nvalt/) - Fork of Notational Velocity with additional functionality, including MultiMarkdown. ![Open-Source Software][OSS Icon]
+- [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages.
+- [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
+
+
+### Video
+
+- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. ![Open-Source Software][OSS Icon]
 
 
 ### Others
