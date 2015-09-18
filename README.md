@@ -47,7 +47,7 @@
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
-- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
+- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open-Source Software][OSS Icon]
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
@@ -148,6 +148,7 @@
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Numi](http://numi.io/) - Beautiful calculator app.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![Open-Source Software][OSS Icon]
+- [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - A handy window manager.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
