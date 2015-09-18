@@ -21,12 +21,12 @@
 
 ### Chat Clients
 
-- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![Open-Source Software][OSS Icon]
-- [LimeChat](http://limechat.net/mac/) - Instant messaging application. ![Open-Source Software][OSS Icon]
-- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. ![Open-Source Software][OSS Icon]
-- [Profanity](http://www.profanity.im) - A terminal XMPP client. ![Open-Source Software][OSS Icon]
-- [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. ![Open-Source Software][OSS Icon]
-- [WeeChat](https://weechat.org) - A terminal IRC client. ![Open-Source Software][OSS Icon]
+- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
+- [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat)
+- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
+- [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity)
+- [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
+- [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
 
 
 ### Data Recovery
