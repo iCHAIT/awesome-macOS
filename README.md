@@ -59,14 +59,14 @@
 
 ### Editors
 
-- [Atom](https://atom.io/) - The hackable text editor. ![Open-Source Software][OSS Icon]
-- [Brackets](http://brackets.io/) - A modern text editor that understands web design. ![Open-Source Software][OSS Icon]
+- [Atom](https://atom.io/) - The hackable text editor. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
+- [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets)
 - [Emacs](https://github.com/railwaycat/emacs-mac-port) - Port of Emacs to work as an OS X app. ![Open-Source Software][OSS Icon]
-- [Light Table](https://github.com/LightTable/LightTable) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. ![Open-Source Software][OSS Icon]
-- [MacVim](https://github.com/b4winckler/macvim) - Vim, the text editor. ![Open-Source Software][OSS Icon]
+- [Light Table](http://lighttable.com/) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
+- [MacVim](https://github.com/b4winckler/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/b4winckler/macvim)
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
-- [TextMate](https://macromates.com/) - A graphical text editor. ![Open-Source Software][OSS Icon]
-- [VimR](http://vimr.org) - Vim, refined. ![Open-Source Software][OSS Icon]
+- [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
+- [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr)
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
 
 
