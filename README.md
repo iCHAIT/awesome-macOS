@@ -48,7 +48,7 @@
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
-- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open-Source Software][OSS Icon]
+- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Tower](http://www.git-tower.com/) - The most powerful Git client.
