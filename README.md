@@ -42,8 +42,8 @@
 - [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
 - [Color-Picker-Pro](https://github.com/oscardelben/Color-Picker-Pro) - A Color Detection Tool. ![Open-Source Software][OSS Icon]
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
-- [Github Desktop](https://mac.github.com/) - A GUI for using Github.
-- [Gitup](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
+- [GitHub Desktop](https://mac.github.com/) - A GUI for using GitHub.
+- [GitUp](https://github.com/git-up/GitUp) - A simple but powerful Git OS X app. ![Open-Source Software][OSS Icon]
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. ![Open-Source Software][OSS Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
@@ -61,11 +61,11 @@
 
 - [Atom](https://atom.io/) - The hackable text editor. ![Open-Source Software][OSS Icon]
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. ![Open-Source Software][OSS Icon]
-- [Emacs](https://github.com/railwaycat/emacs-mac-port) - Port of Emacs to work as an OS X app ![Open-Source Software][OSS Icon]
+- [Emacs](https://github.com/railwaycat/emacs-mac-port) - Port of Emacs to work as an OS X app. ![Open-Source Software][OSS Icon]
 - [Light Table](https://github.com/LightTable/LightTable) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. ![Open-Source Software][OSS Icon]
-- [Macvim](https://github.com/b4winckler/macvim) - Vim, the text editor. ![Open-Source Software][OSS Icon]
+- [MacVim](https://github.com/b4winckler/macvim) - Vim, the text editor. ![Open-Source Software][OSS Icon]
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
-- [Textmate](https://macromates.com/) - A graphical text editor. ![Open-Source Software][OSS Icon]
+- [TextMate](https://macromates.com/) - A graphical text editor. ![Open-Source Software][OSS Icon]
 - [VimR](http://vimr.org) - Vim, refined. ![Open-Source Software][OSS Icon]
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
 
@@ -77,7 +77,7 @@
 
 ### Finder
 
-- [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client
+- [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder.
@@ -86,13 +86,13 @@
 ### Games
 - [OpenEmu](http://openemu.org/) - Multiple Video Game System. ![Open-Source Software][OSS Icon]
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![Open-Source Software][OSS Icon]
-- [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![Open-Source Software][OSS Icon]
+- [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![Open-Source Software][OSS Icon]
 
 
 ### Graphics
 
 - [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
-- [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative
+- [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
 
@@ -101,11 +101,11 @@
 
 - [Alfred](http://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [Amethyst](https://github.com/ianyh/Amethyst) - Window manager (automatically keep windows sized in grids). ![Open-Source Software][OSS Icon]
-- [Better Touch Tool](http://www.bettertouchtool.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
+- [BetterTouchTool](http://www.bettertouchtool.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Open-Source Software][OSS Icon]
 - [CloudClip](https://itunes.apple.com/app/cloudclip/id563356503) - Sync your clipboard between your Mac and your iOS devices.
 - [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545) - Window management for tiling your windows.
-- [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
+- [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. ![Open-Source Software][OSS Icon]
 - [LaunchBar](https://www.obdev.at/products/launchbar/) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
@@ -117,13 +117,13 @@
 
 ### Sharing files
 
-- [Cloudapp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
-- [Mac2Imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. ![Open-Source Software][OSS Icon]
+- [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. ![Open-Source Software][OSS Icon]
 
 
 ### Terminal
 
-- [iTerm2](https://www.iterm2.com/) - A terminal emulator. ![Open-Source Software][OSS Icon]
+- [iTerm 2](https://www.iterm2.com/) - A terminal emulator. ![Open-Source Software][OSS Icon]
 - [TotalTerminal](http://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. ![Open-Source Software][OSS Icon]
 
 
@@ -148,8 +148,8 @@
 - [Numi](http://numi.io/) - Beautiful calculator app.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![Open-Source Software][OSS Icon]
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
-- [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
-- [TheUnarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
+- [TeamViewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
+- [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) - Unarchive many different kinds of archive files. ![Open-Source Software][OSS Icon]
 
 
 ### Video
@@ -164,9 +164,9 @@
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. ![Open-Source Software][OSS Icon]
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. ![Open-Source Software][OSS Icon]
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. ![Open-Source Software][OSS Icon]
-- [soundcleod](http://soundcleod.com/) - A browser for SoundCloud. ![Open-Source Software][OSS Icon]
+- [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. ![Open-Source Software][OSS Icon]
 - [Transmit](https://panic.com/transmit/) - A FTP client.
-- [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - RSS/Atom newsreader. ![Open-Source Software][OSS Icon]
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - RSS/Atom newsreader. ![Open-Source Software][OSS Icon]
 
 
 ## OS X Utilities
