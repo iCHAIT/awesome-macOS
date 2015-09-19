@@ -162,6 +162,7 @@
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
+- [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) - Lets you use your Mac's keyboard as a bluetooth keyboard and connect it to any device that supports them.
 - [You Need A Budget](http://www.youneedabudget.com/) - Software for managing finance and budgeting.
 
 
