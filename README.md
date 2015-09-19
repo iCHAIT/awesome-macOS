@@ -68,6 +68,7 @@
 
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
 - [Kitabu](https://www.kitabu.me/) - Desktop ePub ebook reader.
+- [Sigil](http://sigil-ebook.com/) - Multi-platform EPUB ebook editor (think Word or LibreOffice but specific for EPUB ebooks). [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil)
 
 
 ### Editors
