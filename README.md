@@ -162,6 +162,7 @@
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
+- [You Need A Budget](http://www.youneedabudget.com/) - Software for managing finance and budgeting.
 
 
 ### Video
