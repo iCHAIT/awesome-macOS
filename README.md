@@ -75,6 +75,7 @@
 ### Email
 
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
+- [Postbox](https://www.postbox-inc.com/) - Friendly email client based on Mozilla Thunderbird.
 
 
 ### Finder
