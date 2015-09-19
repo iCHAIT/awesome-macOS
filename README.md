@@ -19,6 +19,11 @@
 
 ## Applications
 
+### Audio
+
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+
+
 ### Chat Clients
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
