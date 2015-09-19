@@ -50,6 +50,7 @@
 - [GitUp](http://gitup.co/) - A simple but powerful Git OS X app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp)
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageOptim)
+- [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
 - [Postico](https://eggerapps.at/postico/) - A PostgreSQL GUI tool.
