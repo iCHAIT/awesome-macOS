@@ -137,6 +137,7 @@
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
+- [GrandPerspective](http://grandperspectiv.sourceforge.net/) - Graphically show the disk usage within a file system. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/grandperspectiv/code/HEAD/tree/)
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium)
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents OS X from automatically going to sleep (on lid closing or idle timeout).
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
