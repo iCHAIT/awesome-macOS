@@ -160,6 +160,7 @@
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/keka/files/)
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/uranusjr/macdown)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup)
+- [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/media-converter/code/HEAD/tree/)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/)
 - [Numi](http://numi.io/) - Beautiful calculator app.
