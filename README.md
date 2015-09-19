@@ -21,6 +21,8 @@
 
 ### Backup
 
+- [Crashplan](http://www.code42.com/crashplan/) - Great backup utillity that offers local, offsite, and cloud backups.
+
 ### Chat Clients
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
