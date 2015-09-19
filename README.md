@@ -191,6 +191,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Security
 
+- [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
 * [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool. [![Open-Source Software][OSS Icon]](https://github.com/jipegit/OSXAuditor)
