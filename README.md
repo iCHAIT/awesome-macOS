@@ -169,6 +169,7 @@
 
 ### Video
 
+- [MPlayerX](http://mplayerx.org) - Simple FFmpeg powered video player built natively for Mac with gesture support.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 - [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 
