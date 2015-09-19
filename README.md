@@ -135,6 +135,7 @@
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
+- [CommandQ](http://sites.fastspring.com/clickontyler/product/commandq) - Never accidentally quit an app again.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
