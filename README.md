@@ -59,6 +59,12 @@
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 
+### E-Book Utilities
+
+- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
+- [Kitabu](https://www.kitabu.me/) - Desktop ePub ebook reader.
+
+
 ### Editors
 
 - [Atom](https://atom.io/) - The hackable text editor. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
