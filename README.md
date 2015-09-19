@@ -148,6 +148,7 @@
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
+- [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium)
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents OS X from automatically going to sleep (on lid closing or idle timeout).
