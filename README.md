@@ -59,6 +59,7 @@
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
+- [StarUML](http://staruml.io) - A sophisticated software modeler.
 - [Tower](http://www.git-tower.com/) - The most powerful Git client.
 - [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused)
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
@@ -170,6 +171,7 @@
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt)
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
+- [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht)
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
 
