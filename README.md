@@ -4,7 +4,7 @@
 
 > A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software.*
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code.*
 
 ## Table of Contents
 
@@ -229,17 +229,17 @@
 
 ### OS X 10.10 Yosemite Setup
 
-https://gist.github.com/kevinelliott/0726211d17020a6abc1f
+* https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 
 ## Security
 
-- [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
+* [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
 * [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool. [![Open-Source Software][OSS Icon]](https://github.com/jipegit/OSXAuditor)
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa)
-- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
+* [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
 ## Miscellaneous
@@ -254,7 +254,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 #### Apple
 
-[Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
+* [Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
 
 
 #### IRC channels
@@ -266,7 +266,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 #### MacRumors
 
-[OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
+* [OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 
 
 #### Reddit
@@ -279,7 +279,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Contribute
 
-Contributions are most welcome, try to adhere to the [contribution guidelines](contributing.md)
+Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
 **[⬆ back to top](#table-of-contents)**
 
