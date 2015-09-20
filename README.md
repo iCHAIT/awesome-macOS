@@ -9,6 +9,22 @@
 ## Table of Contents
 
 - [Applications](#applications)
+    - [Audio](#audio)
+    - [Chat Clients](#chat-clients)
+    - [Data Recovery](#data-recovery)
+    - [Developers](#developers)
+    - [E-Book Utilities](#e-book-utilities)
+    - [Editors](#editors)
+    - [Email Utilities](#email-utilities)
+    - [Finder](#finder)
+    - [Games](#games)
+    - [Graphics](#graphics)
+    - [Productivity](#productivity)
+    - [Sharing Files](#sharing-files)
+    - [Terminal](#terminal)
+    - [Utilities](#utilities)
+    - [Video](#video)
+    - [Others](#others)
 - [OS X Utilities](#os-x-utilities)
 - [Setup](#setup)
 - [Security](#security)
@@ -85,7 +101,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
 
 
-### Email
+### Email Utilities
 
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 
@@ -132,7 +148,7 @@
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
-### Sharing files
+### Sharing Files
 
 - [BitTorrent Sync](https://www.getsync.com/) - Multi platform sync tool using BitTorrent protocol.
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
