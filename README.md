@@ -59,6 +59,7 @@
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
+- [StarUML](http://staruml.io) - A sophisticated software modeler.
 - [Tower](http://www.git-tower.com/) - The most powerful Git client.
 - [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused)
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
