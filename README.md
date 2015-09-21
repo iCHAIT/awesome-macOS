@@ -47,6 +47,7 @@
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat)
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
 - [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity)
+- [Slack](https://slack.com/apps) - A messaging app for teams.
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 - [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
 
