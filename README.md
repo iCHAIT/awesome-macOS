@@ -35,6 +35,7 @@
     - [Apple](#apple)
     - [IRC channels](#irc-channels)
     - [MacRumors](#macrumors)
+    - [Reddit](#reddit)
 - [Contribute](#contribute)
 
 
@@ -52,6 +53,7 @@
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat)
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
 - [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity)
+- [Slack](https://itunes.apple.com/in/app/slack/id803453959) - A messaging app for teams.
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 - [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
 
@@ -146,6 +148,7 @@
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner)
 - [LaunchBar](https://www.obdev.at/products/launchbar/) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
+- [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver)
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
@@ -211,6 +214,7 @@
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/)
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon]](https://github.com/chenasraf/gInbox)
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. [![Open-Source Software][OSS Icon]](https://github.com/eliaskg/Hacky)
+- [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar. 
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora)
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod)
 - [Transmit](https://panic.com/transmit/) - A FTP client.
@@ -257,24 +261,24 @@
 
 ## Discussion Forums
 
-#### Apple
+### Apple
 
 * [Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
 
 
-#### IRC channels
+### IRC channels
 
 * [#macosx](https://webchat.freenode.net/?channels=macosx)
 * [#apple](https://webchat.freenode.net/?channels=apple)
 * [#mac](https://webchat.freenode.net/?channels=mac)
 
 
-#### MacRumors
+### MacRumors
 
 * [OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 
 
-#### Reddit
+### Reddit
 
 * [/r/osx](https://www.reddit.com/r/osx/)
 * [/r/macapps](https://www.reddit.com/r/macapps)
