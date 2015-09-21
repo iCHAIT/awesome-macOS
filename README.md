@@ -4,11 +4,27 @@
 
 > A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software.*
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code.*
 
 ## Table of Contents
 
 - [Applications](#applications)
+    - [Audio](#audio)
+    - [Chat Clients](#chat-clients)
+    - [Data Recovery](#data-recovery)
+    - [Developers](#developers)
+    - [E-Book Utilities](#e-book-utilities)
+    - [Editors](#editors)
+    - [Email Utilities](#email-utilities)
+    - [Finder](#finder)
+    - [Games](#games)
+    - [Graphics](#graphics)
+    - [Productivity](#productivity)
+    - [Sharing Files](#sharing-files)
+    - [Terminal](#terminal)
+    - [Utilities](#utilities)
+    - [Video](#video)
+    - [Others](#others)
 - [OS X Utilities](#os-x-utilities)
 - [Setup](#setup)
 - [Security](#security)
@@ -85,7 +101,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
 
 
-### Email
+### Email Utilities
 
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 
@@ -107,6 +123,7 @@
 ### Graphics
 
 - [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
@@ -131,7 +148,7 @@
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
-### Sharing files
+### Sharing Files
 
 - [BitTorrent Sync](https://www.getsync.com/) - Multi platform sync tool using BitTorrent protocol.
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
@@ -212,17 +229,17 @@
 
 ### OS X 10.10 Yosemite Setup
 
-https://gist.github.com/kevinelliott/0726211d17020a6abc1f
+* https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 
 ## Security
 
-- [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
+* [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
 * [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool. [![Open-Source Software][OSS Icon]](https://github.com/jipegit/OSXAuditor)
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa)
-- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
+* [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
 ## Miscellaneous
@@ -237,7 +254,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 #### Apple
 
-[Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
+* [Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
 
 
 #### IRC channels
@@ -249,7 +266,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 #### MacRumors
 
-[OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
+* [OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 
 
 #### Reddit
@@ -262,7 +279,7 @@ https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
 ## Contribute
 
-Contributions are most welcome, try to adhere to the [contribution guidelines](contributing.md)
+Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
 **[⬆ back to top](#table-of-contents)**
 
