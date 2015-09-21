@@ -27,9 +27,14 @@
     - [Others](#others)
 - [OS X Utilities](#os-x-utilities)
 - [Setup](#setup)
+    - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
+    - [OS X 10.10 Yosemite](#os-x-1010-yosemite-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
+    - [Apple](#apple)
+    - [IRC channels](#irc-channels)
+    - [MacRumors](#macrumors)
 - [Contribute](#contribute)
 
 
