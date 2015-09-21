@@ -212,6 +212,8 @@
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora)
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod)
 - [Transmit](https://panic.com/transmit/) - A FTP client.
+- [CyberDuck](https://cyberduck.io/) - FTP, SFTP, WebDAV, S3 & OpenStack Swift browser. [![Open-Source Software][OSS Icon]](https://trac.cyberduck.io/browser)
+- [Duck](https://duck.sh/) - Command-line interface for CyberDuck. [![Open-Source Software][OSS Icon]](https://trac.cyberduck.io/browser)
 - [Vienna](http://www.vienna-rss.org/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss)
 
 
