@@ -174,6 +174,7 @@
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar)
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
+- [Arthur](http://arthur-osx.com/) - Safely optimize some of your Mac's hidden settings.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
