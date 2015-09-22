@@ -87,7 +87,7 @@
 - [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused)
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
-- [Mycli](http://mycli.neti/) -  A command line client for MySQL that can do auto-completion and syntax highlighting.. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli)
+- [Mycli](http://mycli.neti/) -  A command line client for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli)
 
 
 ### E-Book Utilities
