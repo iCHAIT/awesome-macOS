@@ -133,6 +133,7 @@
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
+- [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch.
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
 
 
@@ -195,7 +196,6 @@
 - [Numi](http://numi.io/) - Beautiful calculator app.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt)
-- [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
