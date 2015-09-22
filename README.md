@@ -151,6 +151,7 @@
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver)
+- [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon.
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
