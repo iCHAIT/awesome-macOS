@@ -45,6 +45,7 @@
 
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout)
+- [Radium](http://catpigstudios.com) - Beautiful and functional internet radio streaming client that lives in your menu bar.
 
 
 ### Chat Clients
