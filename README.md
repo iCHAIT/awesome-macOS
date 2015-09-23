@@ -25,6 +25,7 @@
     - [Utilities](#utilities)
     - [Video](#video)
     - [Others](#others)
+- [Command Line Utilities](#command-line-utilities)
 - [OS X Utilities](#os-x-utilities)
 - [Setup](#setup)
     - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
@@ -221,6 +222,11 @@
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod)
 - [Transmit](https://panic.com/transmit/) - A FTP client.
 - [Vienna](http://www.vienna-rss.org/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss)
+
+
+## Command Line Utilities
+
+- [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 
 
 ## OS X Utilities
