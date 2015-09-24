@@ -70,12 +70,14 @@
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew)
 - [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
+- [Datum](http://datumapps.com/datum.html) - A full featured, modern, and fast SQLite manager that has a native UI.
 - [GitHub Desktop](https://mac.github.com/) - A GUI for using GitHub.
 - [GitUp](http://gitup.co/) - A simple but powerful Git OS X app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp)
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
 - [ImageAlpha](http://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha)
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageOptim)
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links.
+- [Oh My Star](http://www.ohmystarapp.com) - A tool to easily view all your starred repositories on GitHub and automatically fetch and update your stars.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
@@ -99,9 +101,11 @@
 
 - [Atom](https://atom.io/) - The hackable text editor. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets)
+- [CotEditor](http://coteditor.com) - Lightweight Plain-Text Editor. [![Open-Source Software][OSS Icon]](http://coteditor.com)
 - [Emacs](https://github.com/railwaycat/mirror-emacs-mac) - Port of Emacs to work as an OS X app. [![Open-Source Software][OSS Icon]](https://github.com/railwaycat/mirror-emacs-mac)
 - [Light Table](http://lighttable.com/) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
 - [MacVim](https://github.com/b4winckler/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/b4winckler/macvim)
+- [Mou](http://25.io/mou/) A Lightweight Markdown editor.
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr)
@@ -131,9 +135,16 @@
 
 - [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
+- [PaintCode](http://www.paintcodeapp.com) - A powerful tool to turn your vector drawings into code.
 - [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
+
+
+### Movies
+
+- [Popcorn Time](https://popcorntime.io) - An app to watch Movies and TV Shows instantly. [![Open-Source Software][OSS Icon]](https://popcorntime.io)
+- [Transmission](http://www.transmissionbt.com) - A fast, easy and free BitTorrent Client. [![Open-Source Software][OSS Icon]](http://www.transmissionbt.com)
 
 
 ### Productivity
@@ -176,6 +187,7 @@
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Arthur](http://arthur-osx.com/) - Safely optimize some of your Mac's hidden settings.
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
+- [Better Rename](http://www.publicspace.net/ABetterFinderRename/) - The most complete renaming solution available on the market today.
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
@@ -189,6 +201,7 @@
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/keka/files/)
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/uranusjr/macdown)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup)
+- [Mactracker](http://www.mactracker.ca) - A tool provides detailed information on every Apple product ever made.
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/media-converter/code/HEAD/tree/)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/)
