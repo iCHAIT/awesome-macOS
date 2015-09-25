@@ -63,6 +63,7 @@
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 - [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
+- [Colloquy](http://colloquy.info/) - IRC, SILC & ICB client [![Open-Source Software][OSS Icon]](http://colloquy.info/project/browser)
 
 
 ### Data Recovery
