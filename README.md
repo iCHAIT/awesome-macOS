@@ -47,6 +47,11 @@
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout)
 
 
+### Bookmark Utilities
+
+- [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
+- [Spillo](http://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
+
 ### Chat Clients
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
