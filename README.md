@@ -145,7 +145,7 @@
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices.
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
-- [Hazel](https://www.noodlesoft.com/hazel.php) - Automated organization for your Mac.
+- [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner)
 - [LaunchBar](https://www.obdev.at/products/launchbar/) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
