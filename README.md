@@ -45,6 +45,7 @@
 ### Audio
 
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+- [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout)
 
 
