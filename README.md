@@ -84,7 +84,7 @@
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageOptim)
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
-- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
+- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
@@ -161,6 +161,7 @@
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver)
+- [SelfControl](https://selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/)
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
@@ -230,7 +231,7 @@
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/)
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon]](https://github.com/chenasraf/gInbox)
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. [![Open-Source Software][OSS Icon]](https://github.com/eliaskg/Hacky)
-- [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar. 
+- [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar.
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora)
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod)
 - [Transmit](https://panic.com/transmit/) - A FTP client.
