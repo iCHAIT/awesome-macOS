@@ -30,6 +30,7 @@
 - [Setup](#setup)
     - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
     - [OS X 10.10 Yosemite](#os-x-1010-yosemite-setup)
+    - [OS X 10.11 El Capitan](#os-x-1011-elcapitan-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -263,6 +264,10 @@
 ### OS X 10.10 Yosemite Setup
 
 * https://gist.github.com/kevinelliott/0726211d17020a6abc1f
+
+### OS X 10.11 El Capitan Setup
+
+* https://gist.github.com/saetia/1623487
 
 
 ## Security
