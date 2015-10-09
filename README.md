@@ -81,6 +81,7 @@
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [GitHub Desktop](https://mac.github.com/) - A GUI for using GitHub.
 - [GitUp](http://gitup.co/) - A simple but powerful Git OS X app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp)
+- [GitX](https://rowanj.github.io/gitx/) - Simple git GUI. [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx)
 - [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
 - [ImageAlpha](http://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha)
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageOptim)
