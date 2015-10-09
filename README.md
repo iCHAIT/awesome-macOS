@@ -57,6 +57,7 @@
 
 ### Chat Clients
 
+- [Adium](https://adium.im/) - Instant messaging application that can connect to AIM, MSN, XMPP (Jabber), Yahoo, and more. [![Open-Source Software][OSS Icon]](https://hg.adium.im/adium)
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat)
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
