@@ -253,6 +253,7 @@
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
 - [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances)
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
+- [EnvPane](https://github.com/hschmidt/EnvPane) - An preference pane for environment variables. [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane)
 
 
 ## Setup
