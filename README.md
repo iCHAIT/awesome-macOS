@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome applications, softwares, tools and shiny things for OS X.
-
+h
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code.*
 
 ## Table of Contents
@@ -81,7 +81,7 @@
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [GitHub Desktop](https://mac.github.com/) - A GUI for using GitHub.
 - [GitUp](http://gitup.co/) - A simple but powerful Git OS X app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp)
-- [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 - [ImageAlpha](http://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha)
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageOptim)
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links.
