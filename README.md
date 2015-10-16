@@ -167,6 +167,7 @@
 - [SelfControl](https://selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/)
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
+- [Todoist](https://todoist.com/mac) - Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
