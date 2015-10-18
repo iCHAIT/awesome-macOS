@@ -145,6 +145,7 @@
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
+- [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch.
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
 
 
