@@ -65,6 +65,7 @@
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 - [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
+- [HipChat](https://www.hipchat.com/downloads) - Group chat and IM built for teams.
 
 
 ### Data Recovery
@@ -156,6 +157,7 @@
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices.
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
+- [DockPhone](http://www.weareyeah.com/DockPhone/) - Make phone calls right from your Mac.
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
