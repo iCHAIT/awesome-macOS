@@ -140,11 +140,12 @@
 ### Graphics
 
 - [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
+- [Blender](https://www.blender.org/) - Free 3D modeling tool for both individual/commercial purposes.
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
-- [Blender](https://www.blender.org/) - Free open source 3D modeling tool.
+
 
 ### Productivity
 
