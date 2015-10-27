@@ -144,7 +144,7 @@
 - [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
-
+- [Blender](https://www.blender.org/) - Free open source 3D modeling tool.
 
 ### Productivity
 
