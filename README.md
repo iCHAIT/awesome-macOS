@@ -120,7 +120,7 @@
 
 ### Email Utilities
 
-- [Airmail](http://airmailapp.com/)
+- [Airmail](http://airmailapp.com/) - A lightning fast mail client for Mac and iPhone.
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 
 
