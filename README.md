@@ -120,6 +120,7 @@
 
 ### Email Utilities
 
+- [Airmail](http://airmailapp.com/)
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 
 
