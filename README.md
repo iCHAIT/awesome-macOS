@@ -102,6 +102,7 @@
 ### E-Book Utilities
 
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
+- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for OS X.
 - [Kitabu](https://www.kitabu.me/) - Desktop ePub ebook reader.
 
 
