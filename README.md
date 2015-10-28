@@ -121,7 +121,6 @@
 
 ### Email Utilities
 
-- [Airmail](http://airmailapp.com/) - A lightning fast mail client for Mac and iPhone.
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 
 
@@ -200,7 +199,6 @@
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [EtreCheck](http://www.etresoft.com/etrecheck) - Output system information and configuration to get more informed help from Apple support professionals. [![Open-Source Software][OSS Icon]](https://github.com/etresoft/EtreCheck)
-- [Forecastbar](http://forecastbar.com/) - Weather app that sits in taskbar.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium)
@@ -209,7 +207,6 @@
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa)
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/keka/files/)
 - [Knock](http://www.knocktounlock.com) - Unlock your Mac quickly and securely. Now with Apple Watch.
-- [LastPass](https://lastpass.com/misc_download2.php) - Password Manager, Auto Form Filler, Random Password Generator & Secure Digital Wallet App.
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/)
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/uranusjr/macdown)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup)
