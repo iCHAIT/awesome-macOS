@@ -211,6 +211,7 @@
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/)
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/uranusjr/macdown)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup)
+- [MacPass](http://mstarke.github.io/MacPass) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass)
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/media-converter/code/HEAD/tree/)
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
