@@ -122,8 +122,8 @@
 
 ### Email Utilities
 
-- [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan, and a free Beta.
+- [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 
 ### Finder
 
