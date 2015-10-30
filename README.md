@@ -239,6 +239,7 @@
 
 ### Others
 
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon]](https://github.com/JohnCoates/Aerial)
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/)
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon]](https://github.com/chenasraf/gInbox)
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. [![Open-Source Software][OSS Icon]](https://github.com/eliaskg/Hacky)
