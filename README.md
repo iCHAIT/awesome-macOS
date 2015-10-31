@@ -175,6 +175,7 @@
 - [BitTorrent Sync](https://www.getsync.com/) - Multi platform sync tool using BitTorrent protocol.
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur)
+- [Transmission](http://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk)
 
 
 ### Terminal
