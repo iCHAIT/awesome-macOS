@@ -30,7 +30,7 @@
 - [Setup](#setup)
     - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
     - [OS X 10.10 Yosemite](#os-x-1010-yosemite-setup)
-    - [OS X 10.11 El Capitan](#os-x-1011-elcapitan-setup)
+    - [OS X 10.11 El Capitan](#os-x-1011-el-capitan-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
