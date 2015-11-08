@@ -160,6 +160,7 @@
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices.
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
+- [Fantastical 2](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner)
