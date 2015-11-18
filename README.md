@@ -58,6 +58,7 @@
 
 ### Chat Clients
 
+- [Adium](https://www.adium.im) - Instant messaging client that supports multiple IM networks. [![Open-Source Software][OSS Icon]](https://trac.adium.im/wiki/GettingAdiumSource)
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
 - [Colloquy](http://colloquy.info/) - A GUI IRC Client. [![Open-Source Software][OSS Icon]](https://github.com/colloquy/colloquy)
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat)
