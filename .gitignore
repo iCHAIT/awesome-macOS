@@ -1,0 +1,9 @@
+*.sql
+*.swp
+*.un~
+bower_components/
+dist/
+mysql/
+node_modules/
+tags
+tmp/

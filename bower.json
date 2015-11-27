@@ -1,0 +1,19 @@
+{
+  "name": "Awesome OS X Website",
+  "version": "0.1.0",
+  "authors": [
+    "Marcel Bischoff <marcel@herrbischoff.com>"
+  ],
+  "license": "All rights reserved",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fastclick": "~1.0.6"
+  },
+  "overrides": {}
+}
