@@ -234,6 +234,7 @@
 - [Typora](http://www.typora.io/) - Another minial Markdown editor.
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht)
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
+- [VirtualBox](https://www.virtualbox.org/) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use, free alternative to VMware Fusion and Parallels Desktop. [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/browser/vbox/trunk)
 
 
 ### Video
