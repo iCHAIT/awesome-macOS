@@ -228,6 +228,7 @@
 - [Numi](http://numi.io/) - Beautiful calculator app.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt)
+- [skadi](https://github.com/galymzhan/skadi) - Simple image viewer. [![Open-Source Software][OSS Icon]](https://github.com/galymzhan/skadi)
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](https://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
