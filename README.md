@@ -270,6 +270,7 @@
 
 - [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 - [Mac OS X Manual Pages](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
+- [OSX Nano Syntax Highlighting](http://jenssegers.com/71/osx-nano-syntax-highlighting) - Syntax highlighting for nano >= 2.4.2
 
 
 ## OS X Utilities
