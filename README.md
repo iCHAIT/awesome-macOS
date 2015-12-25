@@ -31,6 +31,7 @@
     - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
     - [OS X 10.10 Yosemite](#os-x-1010-yosemite-setup)
     - [OS X 10.11 El Capitan](#os-x-1011-el-capitan-setup)
+    - [laptop](#laptop)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -295,6 +296,10 @@
 ### OS X 10.11 El Capitan Setup
 
 * https://gist.github.com/saetia/1623487
+
+### laptop
+
+* https://github.com/thoughtbot/laptop
 
 
 ## Security
