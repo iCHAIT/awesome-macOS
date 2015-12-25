@@ -28,10 +28,11 @@
 - [Command Line Utilities](#command-line-utilities)
 - [OS X Utilities](#os-x-utilities)
 - [Setup](#setup)
-    - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
+    - [laptop](#laptop)
+    - [mac-dev-setup](#mac-dev-setup)
     - [OS X 10.10 Yosemite](#os-x-1010-yosemite-setup)
     - [OS X 10.11 El Capitan](#os-x-1011-el-capitan-setup)
-    - [laptop](#laptop)
+    - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -284,6 +285,14 @@
 
 ## Setup
 
+### laptop
+
+* https://github.com/thoughtbot/laptop
+
+### mac-dev-setup
+
+* https://github.com/nicolashery/mac-dev-setup
+
 ### OS X 10.9 Mavericks Setup
 
 * https://gist.github.com/kevinelliott/3135044
@@ -296,10 +305,6 @@
 ### OS X 10.11 El Capitan Setup
 
 * https://gist.github.com/saetia/1623487
-
-### laptop
-
-* https://github.com/thoughtbot/laptop
 
 
 ## Security
