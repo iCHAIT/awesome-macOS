@@ -209,6 +209,7 @@
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar)
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Arthur](http://arthur-osx.com/) - Safely optimize some of your Mac's hidden settings.
+- [Backdrop](https://itunes.apple.com/us/app/backdrop/id411461952?mt=12) - Focus on one window at a time. Hide everything else. 
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [BeardedSpice](http://beardedspice.com/) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice)
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
@@ -234,6 +235,7 @@
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/)
 - [Numi](http://numi.io/) - Beautiful calculator app.
+- [Noizio](http://noiz.io/) - Ambient Background sounds for your Mac.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt)
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
