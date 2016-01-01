@@ -24,6 +24,7 @@
     - [Terminal](#terminal)
     - [Utilities](#utilities)
     - [Video](#video)
+    - [Window Management](#window-management)
     - [Others](#others)
 - [Command Line Utilities](#command-line-utilities)
 - [OS X Utilities](#os-x-utilities)
@@ -167,11 +168,9 @@
 ### Productivity
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
-- [Amethyst](http://ianyh.com/amethyst/) - Window manager (automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst)
 - [BetterTouchTool](http://www.bettertouchtool.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices.
-- [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
 - [Fantastical 2](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
@@ -184,10 +183,8 @@
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Quicksilver](http://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver)
 - [SelfControl](https://selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/)
-- [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Todoist](https://todoist.com/mac) - Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
-- [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
 ### Sharing Files
@@ -221,7 +218,6 @@
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus)
-- [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for OS X. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon)
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium)
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents OS X from automatically going to sleep (on lid closing or idle timeout).
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
@@ -257,6 +253,15 @@
 - [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 - [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home)
 
+### Window Management
+
+- [Amethyst](http://ianyh.com/amethyst/) - Window manager (automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst)
+- [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
+- [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for OS X. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon)
+- [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/kwm)
+- [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
+- [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
+
 
 ### Others
 
@@ -266,7 +271,6 @@
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon]](https://github.com/chenasraf/gInbox)
 - [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/hacker-menu)
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. [![Open-Source Software][OSS Icon]](https://github.com/eliaskg/Hacky)
-- [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/kwm)
 - [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar.
 - [Sonora](http://getsonora.com/) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora)
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod)
