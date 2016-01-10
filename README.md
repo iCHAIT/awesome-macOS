@@ -204,6 +204,7 @@
 ### Utilities
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
+- [KeePassX](https://www.keepassx.org) - A free, open source, and light-weight password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx)
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar)
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
