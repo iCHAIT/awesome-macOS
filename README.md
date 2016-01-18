@@ -125,7 +125,7 @@
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr)
-- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications.
+- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
 
 
 ### Email Utilities
