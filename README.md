@@ -204,7 +204,6 @@
 ### Utilities
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
-- [KeePassX](https://www.keepassx.org) - A free, open source, and light-weight password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx)
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents OS X from automatically going to sleep, with lots of configurations.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar)
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/) - Uninstall your apps easily.
@@ -223,6 +222,7 @@
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents OS X from automatically going to sleep (on lid closing or idle timeout).
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa)
+- [KeePassX](https://www.keepassx.org) - A free, open source, and light-weight password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx)
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/keka/files/)
 - [Knock](http://www.knocktounlock.com) - Unlock your Mac quickly and securely. Now with Apple Watch.
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/)
