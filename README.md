@@ -54,6 +54,7 @@
 - [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout)
+- [NepTunes](http://micropixels.pl/neptunes/) - reliable and modern Last.fm scrobbler for iTunes. [![Open-Source Software][OSS Icon]](https://github.com/rurza/NepTunes)
 
 
 ### Bookmark Utilities
