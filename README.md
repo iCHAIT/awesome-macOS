@@ -357,6 +357,7 @@
 ### MacRumors
 
 * [OS X Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
+* [OS X El Capitan](http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/)
 
 
 ### Reddit
