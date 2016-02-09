@@ -215,6 +215,7 @@
 - [BeardedSpice](http://beardedspice.com/) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice)
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [BitBar](https://github.com/matryer/bitbar) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar)
+- [CleanMyMac 3](http://macpaw.com/cleanmymac) - Clean, optimize, and maintain your Mac with the all-new CleanMyMac 3.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [EtreCheck](http://www.etresoft.com/etrecheck) - Output system information and configuration to get more informed help from Apple support professionals. [![Open-Source Software][OSS Icon]](https://github.com/etresoft/EtreCheck)
