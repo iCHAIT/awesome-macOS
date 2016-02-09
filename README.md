@@ -162,6 +162,7 @@
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Vector image design tool, possible Adobe Illustrator alternative.
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Raster image design tool, possible Adobe Photoshop alternative.
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][OSS Icon]](https://developer.blender.org/)
+- [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures.
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
