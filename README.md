@@ -196,6 +196,7 @@
 
 - [BitTorrent Sync](https://www.getsync.com/) - Multi platform sync tool using BitTorrent protocol.
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [Dropshare](https://getdropsha.re) - A roll-your-own CloudApp/Droplr/Jumpshare app that let's you share text (Markdown), screenshots, screen recordings and files. All stored on your own S3/SCP/Rackspace server.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording.
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur)
 - [Syncthing](https://syncthing.net/) - Multi-platform, secure, decentralized sync tool. [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing)
