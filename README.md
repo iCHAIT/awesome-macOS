@@ -59,6 +59,8 @@
 
 ### Backup
 
+- [Crashplan](http://www.code42.com/crashplan/) - Computer backup to whever you want made simple.
+
 ### Bookmark Utilities
 
 - [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
