@@ -333,6 +333,7 @@
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool. [![Open-Source Software][OSS Icon]](https://github.com/jipegit/OSXAuditor)
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa)
 * [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick)
+- [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software.
 * [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
