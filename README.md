@@ -85,6 +85,7 @@
 ### Developers
 
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
+- [Bash-it](https://github.com/Bash-it/bash-it) - A collection of community Bash commands and scripts. [![Open-Source Software][OSS Icon]](https://github.com/Bash-it/bash-it)
 - [Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew)
 - [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
