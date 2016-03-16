@@ -99,6 +99,7 @@
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
+- [Quiver](http://happenapps.com/#quiver) - A notepad build for programmers that lets you save code, Markdown and LaTeX.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
@@ -196,6 +197,7 @@
 
 - [BitTorrent Sync](https://www.getsync.com/) - Multi platform sync tool using BitTorrent protocol.
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [Dropshare](https://getdropsha.re) - A roll-your-own CloudApp/Droplr/Jumpshare app that let's you share text (Markdown), screenshots, screen recordings and files. All stored on your own S3/SCP/Rackspace server.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording.
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur)
 - [Syncthing](https://syncthing.net/) - Multi-platform, secure, decentralized sync tool. [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing)
@@ -224,6 +226,7 @@
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
 - [EtreCheck](http://www.etresoft.com/etrecheck) - Output system information and configuration to get more informed help from Apple support professionals. [![Open-Source Software][OSS Icon]](https://github.com/etresoft/EtreCheck)
+- [ExpanDrive](http://www.expandrive.com/) - Mounts AWS, Google Drive, Dropbox, etc as drives on your Mac for easy, fast access.
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus)
@@ -234,6 +237,7 @@
 - [KeePassX](https://www.keepassx.org) - A free, open source, and light-weight password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) 
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/keka/files/)
 - [Knock](http://www.knocktounlock.com) - Unlock your Mac quickly and securely. Now with Apple Watch.
+- [Lightpaper](http://lightpaper.42squares.in/) - A beautiful text and Markdown editor that also lets you save app-specific notes.
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/)
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/uranusjr/macdown)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup)
