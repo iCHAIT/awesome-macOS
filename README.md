@@ -293,6 +293,7 @@
 
 ## Command Line Utilities
 
+- [Awesome CLI Apps](https://github.com/aharris88/awesome-cli-apps) - An awesome list containing really awesome command line apps.
 - [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 - [Mac OS X Manual Pages](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
 
