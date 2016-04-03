@@ -236,6 +236,7 @@
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa)
 - [KeePassX](https://www.keepassx.org) - A free, open source, and light-weight password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) 
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Menu bar utility that prevents Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/keka/files/)
 - [Knock](http://www.knocktounlock.com) - Unlock your Mac quickly and securely. Now with Apple Watch.
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services.
