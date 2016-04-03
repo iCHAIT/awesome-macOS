@@ -254,7 +254,6 @@
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt)
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
 - [SSH Tunnel](http://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with OS X Keychain, secure and intuitive.
->>>>>>> iCHAIT/master
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
