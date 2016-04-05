@@ -225,8 +225,9 @@
 - [Caret](http://caret.io/) - Very capable markdown editor.
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
-- [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up disk space.
+- [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
+- [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Eun/DisableMonitor)
 - [EtreCheck](http://www.etresoft.com/etrecheck) - Output system information and configuration to get more informed help from Apple support professionals. [![Open-Source Software][OSS Icon]](https://github.com/etresoft/EtreCheck)
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky)
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
