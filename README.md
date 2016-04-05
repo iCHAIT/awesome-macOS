@@ -283,6 +283,7 @@
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for OS X. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon)
 - [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/kwm)
+- [Moom](https://manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
