@@ -100,7 +100,7 @@
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
-- [QorumLogs](https://github.com/goktugyil/QorumLogs) - :closed_book: Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs)
+- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs)
 - [Quiver](http://happenapps.com/#quiver) - A delightful notebook for programmers that allows mixing rich text, code, markdown, LaTeX, and graphs.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
@@ -191,7 +191,7 @@
 - [Paste](http://pasteapp.me) - The new way to copy & paste for Mac.
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Quicksilver](https://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver)
-- [SelfControl](https://selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/)
+- [SelfControl](https://selfcontrolapp.com/) - Bclock access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/)
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Todoist](https://todoist.com/mac) - Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
 
