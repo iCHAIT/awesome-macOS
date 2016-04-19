@@ -50,6 +50,7 @@
 
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
+- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) 
 - [Cog](http://cogx.org/) - A free open source audio player for OS X. [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/)
 - [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
@@ -219,7 +220,6 @@
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Arthur](http://arthur-osx.com/) - Safely optimize some of your Mac's hidden settings.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar apps.
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice)
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [BitBar](https://github.com/matryer/bitbar) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar)
