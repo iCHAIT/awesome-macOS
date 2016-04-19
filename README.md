@@ -219,6 +219,7 @@
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily.
 - [Arthur](http://arthur-osx.com/) - Safely optimize some of your Mac's hidden settings.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar apps.
+- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice)
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
 - [BitBar](https://github.com/matryer/bitbar) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar)
