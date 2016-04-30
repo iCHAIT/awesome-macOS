@@ -4,7 +4,7 @@
 
 > A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code.*
+> *Items marked with ![Freeware][Freeware Icon] are freeware (as in free beer). Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code.*
 
 ## Table of Contents
 
@@ -87,7 +87,6 @@
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew)
 - [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
-- [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. [![Open-Source Software][OSS Icon]](https://github.com/nlf/dlite)
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager which allows editing of host files and switching between them. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask)
@@ -101,7 +100,6 @@
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links.
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
-- [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp)
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs)
 - [Quiver](http://happenapps.com/#quiver) - A delightful notebook for programmers that allows mixing rich text, code, markdown, LaTeX, and graphs.
@@ -228,7 +226,6 @@
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/burn-osx/code/HEAD/tree/)
 - [Caret](http://caret.io/) - Very capable markdown editor.
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts.
-- [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
@@ -263,13 +260,11 @@
 - [Microsoft Remote Desktop Connection Client](https://www.microsoft.com/en-US/download/details.aspx?id=18140) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer and then work with applications and files on the Windows-based computer.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt)
-- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
 - [SSH Tunnel](http://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with OS X Keychain, secure and intuitive.
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
-- [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) - Lets you use your Mac's keyboard as a bluetooth keyboard to type on another devices.
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor.
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht)
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
@@ -316,6 +311,8 @@
 ## Command Line Utilities
 
 - [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+- [Mac OS X Manual Pages](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
+
 
 ## OS X Utilities
 
@@ -415,4 +412,5 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [chitchat]: https://github.com/stonesam92/ChitChat
+[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
