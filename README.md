@@ -4,7 +4,7 @@
 
 > A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code.*
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
 ## Table of Contents
 
@@ -416,3 +416,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
