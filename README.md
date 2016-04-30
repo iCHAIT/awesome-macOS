@@ -48,7 +48,7 @@
 
 ### Audio
 
-- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) 
 - [Cog](http://cogx.org/) - A free open source audio player for OS X. [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/)
@@ -412,4 +412,5 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [chitchat]: https://github.com/stonesam92/ChitChat
+[Freeware Icon]: https://cdn.rawgit.com/briatte/awesome-osx/master/media/free.svg
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
