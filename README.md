@@ -227,6 +227,7 @@
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/burn-osx/code/HEAD/tree/)
 - [Caret](http://caret.io/) - Very capable markdown editor.
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts.
+- [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
