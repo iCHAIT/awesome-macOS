@@ -266,6 +266,7 @@
 - [Subtitles](http://subtitlesapp.com/) - Automatically downloads subtitles for your movies and TV shows.
 - [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
+- [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) - Lets you use your Mac's keyboard as a bluetooth keyboard to type on another devices.
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor.
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht)
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
