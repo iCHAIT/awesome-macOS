@@ -12,6 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - Try to make your Pull request and title as descriptive as possible.
 - All open source applications should have the [OSS symbol](https://github.com/iCHAIT/awesome-osx/blob/master/media/oss.svg), the primary link for the application should point to the application's website and the OSS symbol should link to the source code. In case the application does not have any website then both the links should point to the source code.
+- All applications that are free and do not charge any money whatsoever should have the [Freeware symbol](https://github.com/iCHAIT/awesome-osx/blob/master/media/free.svg).
 - New categories or improvements to the existing categorization are welcome.
 
 Thank you for your suggestions!
