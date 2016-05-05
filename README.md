@@ -302,6 +302,8 @@
 - [Clocker] (https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12) - Check time in multiple timezones from your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/Abhishaker17/Clocker)
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon]](https://github.com/JohnCoates/Aerial)
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/)
+- [CyberDuck](https://cyberduck.io/) - FTP, SFTP, WebDAV, S3 & OpenStack Swift browser. [![Open-Source Software][OSS Icon]](https://trac.cyberduck.io/browser)
+- [Duck](https://duck.sh/) - Command-line interface for CyberDuck. [![Open-Source Software][OSS Icon]](https://trac.cyberduck.io/browser)
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon]](https://github.com/chenasraf/gInbox)
 - [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/hacker-menu)
 - [Hacky](http://www.hackyapp.com/) - Hacky provides browsing Hacker News in a clean and minimalistic way. [![Open-Source Software][OSS Icon]](https://github.com/eliaskg/Hacky)
