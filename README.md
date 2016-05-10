@@ -128,7 +128,6 @@
 
 - [Atom](https://atom.io/) - The hackable text editor. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets)
-- [Emacs](https://github.com/railwaycat/mirror-emacs-mac) - Port of Emacs to work as an OS X app. [![Open-Source Software][OSS Icon]](https://github.com/railwaycat/mirror-emacs-mac)
 - [Light Table](http://lighttable.com/) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
 - [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim)
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
