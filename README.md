@@ -50,7 +50,7 @@
 
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) 
+- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
 - [Cog](http://cogx.org/) - A free open source audio player for OS X. [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/)
 - [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
@@ -142,6 +142,8 @@
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan, and a free Beta.
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Nylas N1](https://www.nylas.com/n1) - An extensible, open source mail client with custom plugin support. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)
+- [Cloud Magic](https://cloudmagic.com/) - minimalistic but beautiful email client, providing easy keyboard navigation and control. ![Freeware][Freeware Icon]
+
 
 ### Finder
 
