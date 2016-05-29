@@ -48,13 +48,13 @@
 
 ### Audio
 
-- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) 
-- [Cog](http://cogx.org/) - A free open source audio player for OS X. [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/)
-- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
+- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ![Freeware][Freeware Icon]
+- [Cog](http://cogx.org/) - A free open source audio player for OS X. [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/) ![Freeware][Freeware Icon]
+- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
-- [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout)
+- [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout) ![Freeware][Freeware Icon]
 
 
 ### Bookmark Utilities
@@ -64,16 +64,16 @@
 
 ### Chat Clients
 
-- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
-- [Colloquy](http://colloquy.info/) - A GUI IRC Client. [![Open-Source Software][OSS Icon]](https://github.com/colloquy/colloquy)
-- [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy)
-- [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat)
-- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
-- [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity)
-- [Slack](https://itunes.apple.com/in/app/slack/id803453959) - A messaging app for teams.
-- [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
+- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
+- [Colloquy](http://colloquy.info/) - A GUI IRC Client. [![Open-Source Software][OSS Icon]](https://github.com/colloquy/colloquy) ![Freeware][Freeware Icon]
+- [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
+- [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat) ![Freeware][Freeware Icon]
+- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity) ![Freeware][Freeware Icon]
+- [Slack](https://itunes.apple.com/in/app/slack/id803453959) - A messaging app for teams. ![Freeware][Freeware Icon]
+- [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. ![Freeware][Freeware Icon]
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
-- [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
+- [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat) ![Freeware][Freeware Icon]
 
 
 ### Data Recovery
