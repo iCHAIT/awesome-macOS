@@ -107,6 +107,7 @@
 - [Quiver](http://happenapps.com/#quiver) - A delightful notebook for programmers that allows mixing rich text, code, markdown, LaTeX, and graphs.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
+- [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [StarUML](http://staruml.io) - A sophisticated software modeler.
 - [Tower](http://www.git-tower.com/) - The most powerful Git client.
@@ -114,7 +115,7 @@
 - [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for OS X. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/)
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
-- [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
+
 
 ### E-Book Utilities
 
