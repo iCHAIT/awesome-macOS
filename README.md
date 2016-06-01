@@ -143,6 +143,7 @@
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan, and a free Beta.
 - [MailMate](http://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Nylas N1](https://www.nylas.com/n1) - An extensible, open source mail client with custom plugin support. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)
+- [Polymail](https://polymail.io/) - Beautiful new email client for OS X, currently in Beta. Offers email tracking, send-it later, undo send, snooze, one click un-subscribe and more. Currently supports iCloud & GMail/Google Apps, IMAP access coming soon (under current development & testing).
 
 ### Finder
 
