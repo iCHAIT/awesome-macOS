@@ -309,6 +309,7 @@
 - [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar.
 - [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora)
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod)
+- [StreamJockey](https://github.com/nogizhopaboroda/streamjockey) - In-Browser media streaming services orchestration. [![Open-Source Software][OSS Icon]](https://github.com/nogizhopaboroda/streamjockey)
 - [Transmit](https://panic.com/transmit/) - A FTP client.
 - [Vienna](http://www.vienna-rss.org/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss)
 
