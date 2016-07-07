@@ -107,6 +107,7 @@
 - [Quiver](http://happenapps.com/#quiver) - A delightful notebook for programmers that allows mixing rich text, code, markdown, LaTeX, and graphs.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
+- [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client. ![Freeware][Freeware Icon]
 - [StarUML](http://staruml.io) - A sophisticated software modeler.
 - [Tower](http://www.git-tower.com/) - The most powerful Git client.
@@ -187,6 +188,7 @@
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HazeOver](https://hazeover.com/) - Turn distractions down and focus on your current task.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
+- [Instant Translate](https://insttranslate.com/mac) - Translate speech and text between 100+ languages from the menu bar.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
 - [noti](https://github.com/variadico/noti) - Display a notification after a terminal process finishes. [![Open-Source Software][OSS Icon]](https://github.com/variadico/noti) ![Freeware][Freeware Icon]
@@ -197,7 +199,6 @@
 - [SelfControl](https://selfcontrolapp.com/) - Bclock access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/) ![Freeware][Freeware Icon]
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Todoist](https://todoist.com/mac) - Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
-
 
 ### Sharing Files
 
