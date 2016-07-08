@@ -395,10 +395,11 @@
 
 ### Reddit
 
-* [/r/osx](https://www.reddit.com/r/osx/)
-* [/r/macapps](https://www.reddit.com/r/macapps)
-* [/r/mac](https://www.reddit.com/r/Mac)
-* [/r/macsetups](https://www.reddit.com/r/MacSetups)
+* [osx](https://www.reddit.com/r/osx/)
+* [macapps](https://www.reddit.com/r/macapps)
+* [mac](https://www.reddit.com/r/Mac)
+* [macOS](https://www.reddit.com/r/macOS/)
+* [macsetups](https://www.reddit.com/r/MacSetups)
 
 
 ## Contribute
