@@ -4,5 +4,5 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --white-list code.visualstudio.com,coppertino.com,media-converter,vienna-rss,reddit,cakebrew,amazon.com,developer.apple,discussions.apple,18140
+  - awesome_bot README.md --allow-dupe --allow-redirect --white-list code.visualstudio.com,coppertino.com,media-converter,vienna-rss,reddit,cakebrew,amazon.com,developer.apple,discussions.apple,18140,screentendo
 
