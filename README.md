@@ -194,6 +194,7 @@
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
 - [noti](https://github.com/variadico/noti) - Display a notification after a terminal process finishes. [![Open-Source Software][OSS Icon]](https://github.com/variadico/noti) ![Freeware][Freeware Icon]
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
+- [Outlinely](http://glamdevelopment.com/outlinely) - A powerful text editor for writing and organizing notes, plans, todos.
 - [Paste](http://pasteapp.me) - The new way to copy & paste for Mac.
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Quicksilver](https://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver) ![Freeware][Freeware Icon]
