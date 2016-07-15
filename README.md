@@ -415,7 +415,7 @@
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
+Contributions are most welcome, please adhere to the [contribution guidelines](.github/contributing.md).
 
 **[⬆ back to top](#table-of-contents)**
 
