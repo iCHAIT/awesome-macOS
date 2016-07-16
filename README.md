@@ -278,6 +278,7 @@
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
 - [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) - Lets you use your Mac's keyboard as a bluetooth keyboard to type on another devices.
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
+- [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Unicode Keyboard Layout Editor.
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver) ![Freeware][Freeware Icon]
 - [VirtualBox](https://www.virtualbox.org/) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use, free alternative to VMware Fusion and Parallels Desktop. [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/browser/vbox/trunk) ![Freeware][Freeware Icon]
