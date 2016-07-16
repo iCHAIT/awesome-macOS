@@ -369,7 +369,7 @@
 * [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address on macOS / OS X (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger)
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
-* [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool. [![Open-Source Software][OSS Icon]](https://github.com/jipegit/OSXAuditor) ![Freeware][Freeware Icon]
+* [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ![Freeware][Freeware Icon]
 - [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software. [![Open-Source Software][OSS Icon]](https://veracrypt.codeplex.com/SourceControl/latest) ![Freeware][Freeware Icon]
