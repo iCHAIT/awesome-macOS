@@ -270,6 +270,7 @@
 - [Microsoft Remote Desktop Connection Client](https://www.microsoft.com/en-US/download/details.aspx?id=18140) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
+- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ![Freeware][Freeware Icon]
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
