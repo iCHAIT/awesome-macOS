@@ -4,5 +4,5 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --white-list vienna-rss,cakebrew,discussions.apple,screentendo
+  - awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --white-list discussions.apple
 
