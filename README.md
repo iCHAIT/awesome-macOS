@@ -420,6 +420,8 @@
 
 Contributions are most welcome, please adhere to the [contribution guidelines](.github/contributing.md).
 
+Please consider checking out the [pull requests that need more votes](https://github.com/iCHAIT/awesome-macOS/pulls?q=is%3Apr+is%3Aopen+label%3A%22needs+endorsement%22) to be included.
+
 **[⬆ back to top](#table-of-contents)**
 
 
