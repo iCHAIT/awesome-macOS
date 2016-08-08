@@ -365,6 +365,9 @@
 
 * https://gist.github.com/saetia/1623487
 
+### macOS 10.11 Clean Install
+* https://github.com/adamisntdead/CleanMacSetup
+
 
 ## Security
 
