@@ -361,12 +361,13 @@
 
 * https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
+### macOS 10.11 Clean Install
+
+* https://github.com/adamisntdead/CleanMacSetup
+
 ### macOS 10.11 El Capitan Setup
 
 * https://gist.github.com/saetia/1623487
-
-### macOS 10.11 Clean Install
-* https://github.com/adamisntdead/CleanMacSetup
 
 
 ## Security
