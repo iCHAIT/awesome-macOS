@@ -10,6 +10,7 @@
 
 - [Applications](#applications)
     - [Audio](#audio)
+    - [Backup](#backup)
     - [Chat Clients](#chat-clients)
     - [Data Recovery](#data-recovery)
     - [Developers](#developers)
@@ -55,6 +56,8 @@
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
 
+### Backup
+- [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
 
 ### Bookmark Utilities
 
