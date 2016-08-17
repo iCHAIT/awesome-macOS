@@ -30,6 +30,7 @@
 - [Command Line Utilities](#command-line-utilities)
 - [macOS Utilities](#os-x-utilities)
 - [Setup](#setup)
+    - [DevMyMac](#devmymac)
     - [laptop](#laptop)
     - [mac-dev-setup](#mac-dev-setup)
     - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
@@ -346,6 +347,10 @@
 
 
 ## Setup
+
+### DevMyMac
+
+* https://github.com/adamisntdead/DevMyMac
 
 ### laptop
 
