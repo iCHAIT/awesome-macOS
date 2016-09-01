@@ -68,6 +68,7 @@
 
 ### Chat Clients
 
+- [YakYak](https://github.com/yakyak/yakyak) - Desktop client for Google Hangouts. [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) ![Freeware][Freeware Icon]
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
 - [Colloquy](http://colloquy.info/) - A GUI IRC Client. [![Open-Source Software][OSS Icon]](https://github.com/colloquy/colloquy) ![Freeware][Freeware Icon]
 - [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
