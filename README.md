@@ -379,7 +379,7 @@
 ## Security
 
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
-* [littleflocker](https://github.com/jzdziarski/littleflocker) - File Access Enforcement for macOS [![Open-Source Software][OSS Icon]](https://github.com/jzdziarski/littleflocker) ![Freeware][Freeware Icon]
+* [littleflocker](https://github.com/jzdziarski/littleflocker) - File Access Enforcement for macOS. [![Open-Source Software][OSS Icon]](https://github.com/jzdziarski/littleflocker) ![Freeware][Freeware Icon]
 * [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
 * [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address on macOS / OS X (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger)
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
