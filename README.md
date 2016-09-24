@@ -106,6 +106,7 @@
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
+- [Postico](https://eggerapps.at/postico/) - A modern PostgreSQL client.
 - [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool. ![Freeware][Freeware Icon]
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs) ![Freeware][Freeware Icon]
