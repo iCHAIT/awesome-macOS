@@ -142,7 +142,7 @@
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
-- [Nylas N1](https://www.nylas.com/) - An extensible, open source mail client with custom plugin support. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
+
 
 ### Finder
 
