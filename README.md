@@ -67,7 +67,6 @@
 ### Chat Clients
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
-- [Colloquy](http://colloquy.info/) - A GUI IRC Client. [![Open-Source Software][OSS Icon]](https://github.com/colloquy/colloquy) ![Freeware][Freeware Icon]
 - [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
 - [LimeChat](http://limechat.net/mac/) - Instant messaging application. [![Open-Source Software][OSS Icon]](https://github.com/psychs/limechat) ![Freeware][Freeware Icon]
 - [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity) ![Freeware][Freeware Icon]
