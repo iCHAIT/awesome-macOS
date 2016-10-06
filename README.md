@@ -204,7 +204,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
-- [TotalTerminal](http://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. ![Freeware][Freeware Icon]
+
 
 ### Utilities
 
