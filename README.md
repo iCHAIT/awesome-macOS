@@ -333,6 +333,7 @@
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [Mac macOS Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
+- [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
