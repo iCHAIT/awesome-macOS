@@ -209,7 +209,7 @@
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents macOS from automatically going to sleep, with lots of configurations. ![Freeware][Freeware Icon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
-- [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
 - [Arthur](http://arthur-osx.com/) - Safely optimize some of your Mac's hidden settings.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar apps.
