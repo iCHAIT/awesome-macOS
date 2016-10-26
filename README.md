@@ -28,7 +28,7 @@
     - [Window Management](#window-management)
     - [Others](#others)
 - [Command Line Utilities](#command-line-utilities)
-- [macOS Utilities](#os-x-utilities)
+- [macOS Utilities](#macos-utilities)
 - [Setup](#setup)
     - [DevMyMac](#devmymac)
     - [laptop](#laptop)
