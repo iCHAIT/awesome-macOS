@@ -130,7 +130,7 @@
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
-- [Spark](https://sparkmailapp.com/) - A simple, elegant, and smart email client for macOS.
+- [Spark](https://sparkmailapp.com/) - A simple, elegant, and smart email client for macOS. ![Freeware][Freeware Icon]
 
 
 ### Finder
