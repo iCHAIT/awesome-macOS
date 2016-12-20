@@ -178,6 +178,7 @@
 - [HazeOver](https://hazeover.com/) - Turn distractions down and focus on your current task.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [Instant Translate](https://insttranslate.com/mac) - Translate speech and text between 100+ languages from the menu bar.
+- [JumpCut](http://jumpcut.sourceforge.net/) - Minimalistic clipboard buffering or macOS. ![Freeware][Freeware Icon]
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 - [Keytty](http://keytty.com) - Enables you to control your mouse with a few key strokes. Mouse Keys Alternative.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
@@ -191,7 +192,6 @@
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 - [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ![Freeware][Freeware Icon]
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
-- [JumpCut](http://jumpcut.sourceforge.net/) - Minimalistic clipboard buffering or macOS
 
 ### Sharing Files
 
