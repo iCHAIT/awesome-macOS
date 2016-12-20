@@ -168,6 +168,7 @@
 ### Productivity
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [Bear](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app.Markdown supported note taking app, best app to take programming notes. 
 - [BetterTouchTool](https://www.boastr.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
