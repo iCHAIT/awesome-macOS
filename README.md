@@ -204,6 +204,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [Hyper](https://hyper.is/) - A JS/HTML/CSS based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 
 
 ### Utilities
