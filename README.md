@@ -286,6 +286,7 @@
 - [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 - [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home) ![Freeware][Freeware Icon]
 - [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility. [![Open-Source Software][OSS Icon]](https://github.com/spilja/Subtitlr/tree/master)
+- [VLC](https://videolan.org) - Cross-platform multimedia player and framework  [![Open-Source Software][OSS Icon]](https://videolan.org/vlc/download-sources.html) ![Freeware][Freeware Icon]
 
 ### Window Management
 
