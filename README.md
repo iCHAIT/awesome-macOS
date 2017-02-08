@@ -119,6 +119,7 @@
 
 ### E-Book Utilities
 
+- [Calibre](https://calibre-ebook.com) - All-in-one E-book library manager.  [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
 
 
