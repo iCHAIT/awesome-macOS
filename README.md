@@ -62,6 +62,7 @@
 
 ### Bookmark Utilities
 
+- [Raindrop.io](https://raindrop.io) - All-in-one bookmark manager.
 - [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
 
