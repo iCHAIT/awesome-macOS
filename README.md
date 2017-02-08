@@ -176,7 +176,7 @@
 
 ### Productivity
 
-- [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [Alfred 3](https://www.alfredapp.com/) - App launcher, file searcher, text expander, and much more.
 - [BetterTouchTool](https://www.boastr.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
