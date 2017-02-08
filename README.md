@@ -255,6 +255,7 @@
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors) ![Freeware][Freeware Icon]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Monolingual](https://ingmarstein.github.io) - Remove unused architectures and languages from apps on your computer to save disk space. [![Open-Source Software][OSS Icon]](https://github.com/ingmarstein/monolingual) ![Freeware][Freeware Icon]
 - [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under macOS 10.9+ in read-write mode.
 - [Noizio](http://noiz.io/) - Ambient sound equalizer for relaxation or productivity.
 - [Noti](https://noti.center/) - Receive Android notifications on your mac (with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
