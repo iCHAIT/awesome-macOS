@@ -69,7 +69,7 @@
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
 - [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
-- [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
+- [Textual 6](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 
 
 ### Data Recovery
@@ -254,7 +254,7 @@
 - [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
-- [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
+- [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World's fastest NTFS driver.
 - [Radio Silence](https://radiosilenceapp.com) - Simple to use firewall and network monitor.
 - [Microsoft Remote Desktop Connection Client](https://www.microsoft.com/en-US/download/details.aspx?id=18140) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
