@@ -318,6 +318,8 @@
 ## Command Line Utilities
 
 - [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
+- [Homebrew](http://brew.sh) - The missing package manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/homebrew/brew) ![Freeware][Freeware Icon]
+- [Homebrew-Cask](https://caskroom.github.io) - A CLI workflow for the administration of Mac applications distributed as binaries. [![Open-Source Software][OSS Icon]](https://github.com/caskroom/homebrew-cask) ![Freeware][Freeware Icon]
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [Mac macOS Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
