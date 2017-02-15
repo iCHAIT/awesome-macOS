@@ -286,11 +286,11 @@
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/kwm) ![Freeware][Freeware Icon]
+- [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12) - Allows dragging a window to the desktop's edge to make it into a tile. Multiple tile sizes and shortcuts.
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
-- [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12) - Allows dragging a window to the desktop's edge to make it into a tile. Multiple tile sizes and shortcuts.
 
 ### Others
 
