@@ -290,6 +290,7 @@
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
+- [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12) - Allows dragging a window to the desktop's edge to make it into a tile; multiple tile sizes and shortcuts.
 
 ### Others
 
