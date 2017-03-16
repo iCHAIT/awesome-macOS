@@ -58,7 +58,6 @@
 ### Backup
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
 - [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
-- [Mac Backup Guru](https://macdaddy.io/mac-backup-software/) - True Time Machine alternative. Create versioned bootable backups using hardlinks. 
 
 ### Bookmark Utilities
 
