@@ -406,6 +406,11 @@
 * [macsetups](https://www.reddit.com/r/MacSetups)
 
 
+### Telegram
+
+* [pro.MacOS (ru)](https://t.me/proMacOS)
+
+
 ## Contribute
 
 Contributions are most welcome, please adhere to the [contribution guidelines](.github/contributing.md).
