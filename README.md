@@ -194,7 +194,7 @@
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 - [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ![Freeware][Freeware Icon]
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
-- [Workspaces](http://www.apptorium.com/workspaces) - Store shortcuts to your project stuff (files, folders, webaddresses, important e-mails, applications) and recreate your workspace with one click.
+- [Workspaces](http://www.apptorium.com/workspaces) - recreate your workspace with a click.
 
 
 ### Sharing Files
