@@ -230,6 +230,7 @@
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Eun/DisableMonitor) ![Freeware][Freeware Icon]
 - [EtreCheck](http://etrecheck.com) - Output system information and configuration to get more informed help from Apple support professionals. [![Open-Source Software][OSS Icon]](https://github.com/etresoft/EtreCheck) ![Freeware][Freeware Icon]
+- [Fanny](http://fannywidget.com/) - Notification Center widget and menu bar application to monitor your Mac's fans and CPU temperature. [![Open-Source Software][OSS Icon]](https://github.com/DanielStormApps/Fanny) ![Freeware][Freeware Icon]
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus) ![Freeware][Freeware Icon]
