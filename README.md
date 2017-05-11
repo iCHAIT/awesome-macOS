@@ -201,6 +201,7 @@
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
+- [Monosnap](https://monosnap.com) - Annotate and upload images and screenshots, supports many backends like S3, SFTP, WebDAV, Dropbox, etc. ![Freeware][Freeware Icon]
 - [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
 
 
