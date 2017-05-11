@@ -201,6 +201,7 @@
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
+- [Monosnap](https://monosnap.com) - Annotate and upload images and screenshots, supports many backends like S3, SFTP, WebDAV, Dropbox, etc. ![Freeware][Freeware Icon]
 - [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
 
 
@@ -260,7 +261,7 @@
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
 - [Radio Silence](https://radiosilenceapp.com) - Simple to use firewall and network monitor.
-- [Microsoft Remote Desktop Connection Client](https://www.microsoft.com/en-US/download/details.aspx?id=18140) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
+- [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ![Freeware][Freeware Icon]
