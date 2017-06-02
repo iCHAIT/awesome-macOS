@@ -161,6 +161,7 @@
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Record GIF screencasts. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture)
 - [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - Capture and share GIFs on the desktop. ![Freeware][Freeware Icon]
 - [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
+- [Kite Compositor](https://kiteapp.co/) - UI animation and prototyping application for Mac.
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
