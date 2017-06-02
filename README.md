@@ -136,12 +136,12 @@
 
 ### Finder
 
+- [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo) ![Freeware][Freeware Icon]
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
-
 
 ### Games
 
