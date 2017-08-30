@@ -120,6 +120,7 @@
 
 ### Editors
 
+- [Atom](https://atom.io/) - Text editor that's modern, approachable, yet hackable to the core. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 - [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
 - [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
