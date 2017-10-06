@@ -171,6 +171,7 @@
 ### Productivity
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+-[Bear](https://itunes.apple.com/in/app/bear/id1091189122?mt=12) - Bear is a beautiful,flexible writing app for crafting notes ,prose,code and now sketches. ![Freeware][Freeware Icon]
 - [BetterTouchTool](https://www.boastr.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
@@ -197,8 +198,7 @@
 - [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ![Freeware][Freeware Icon]
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
--[Bear](https://itunes.apple.com/in/app/bear/id1091189122?mt=12) - Bear is a beautiful,flexible writing app for crafting notes ,prose,code and now sketches. ![Freeware][Freeware Icon]
- 
+
 ### Sharing Files
 
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
