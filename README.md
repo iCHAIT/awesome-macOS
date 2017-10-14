@@ -70,7 +70,7 @@
 - [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
-
+- [WhatsApp](https://www.whatsapp.com/download/) - The Official WhatsApp client. ![Freeware][Freeware Icon]
 
 ### Data Recovery
 
