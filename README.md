@@ -290,7 +290,6 @@
 - [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home) ![Freeware][Freeware Icon]
 - [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility. [![Open-Source Software][OSS Icon]](https://github.com/spilja/Subtitlr/tree/master)
 
-
 ### Window Management
 
 - [Amethyst](http://ianyh.com/amethyst/) - Window manager (automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
