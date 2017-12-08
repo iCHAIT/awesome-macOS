@@ -33,6 +33,7 @@
     - [DevMyMac](#devmymac)
     - [laptop](#laptop)
     - [mac-dev-setup](#mac-dev-setup)
+    - [macbook-playbook](#macbook-playbook)
     - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
     - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
     - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
@@ -347,6 +348,12 @@
 ### mac-dev-setup
 
 * https://github.com/nicolashery/mac-dev-setup
+
+### macbook-playbook
+
+Ansible playbook to configure a development and desktop environment from a clean macOS install.
+
+* https://github.com/mpereira/macbook-playbook
 
 ### macOS 10.9 Mavericks Setup
 
