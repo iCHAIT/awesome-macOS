@@ -11,6 +11,7 @@
 - [Applications](#applications)
     - [Audio](#audio)
     - [Backup](#backup)
+    - [Bookmark Utilities](bookmark-utilities)
     - [Chat Clients](#chat-clients)
     - [Data Recovery](#data-recovery)
     - [Developers](#developers)
