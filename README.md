@@ -20,6 +20,7 @@
     - [Finder](#finder)
     - [Games](#games)
     - [Graphics](#graphics)
+    - [Networks](#networks)
     - [Productivity](#productivity)
     - [Sharing Files](#sharing-files)
     - [Terminal](#terminal)
@@ -120,6 +121,7 @@
 
 ### Editors
 
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
 - [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
@@ -132,10 +134,12 @@
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
+- [Spark](https://sparkmailapp.com/) - Best free cross platform email client. ![Freeware][Freeware Icon]
 
 
 ### Finder
 
+- [CyberDuck](https://cyberduck.io) - Libre FTP, SFTP, WebDAV, S3, OpenStack Swift, B2, Microsoft Azure & OneDrive, Drive and Dropbox browser.
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
@@ -166,6 +170,13 @@
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
+
+
+### Networks
+
+- [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. ![Freeware][Freeware Icon]
+- [WiFi Explorer](https://www.adriangranados.com/apps/wifi-explorer) - Scan, monitor and troubleshoot wireless networks using your Mac's built-in Wi-Fi adapter.
+- [WireShark](https://www.wireshark.org/) - Best packet sniffing tool. ![Freeware][Freeware Icon]
 
 
 ### Productivity
@@ -300,6 +311,7 @@
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
+- [Magnet](http://magnet.crowdcafe.com/) - Window manager for macOS, with grids and shortcuts.
 
 ### Others
 
