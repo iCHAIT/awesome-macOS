@@ -220,6 +220,7 @@
 ### Utilities
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
+- [Adapter](https://macroplant.com/adapter) - Convert videos, songs and photos easily. ![Freeware][Freeware Icon]
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents macOS from automatically going to sleep, with lots of configurations. ![Freeware][Freeware Icon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
