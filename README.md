@@ -425,7 +425,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [contribution guidelines](.github/contributing.md).
+Contributions are most welcome, please adhere to the [Contribution Guidelines](.github/contributing.md) and our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 Please consider checking out the [pull requests that need more votes](https://github.com/iCHAIT/awesome-macOS/pulls?q=is%3Apr+is%3Aopen+label%3A%22needs+endorsement%22) to be included.
 
