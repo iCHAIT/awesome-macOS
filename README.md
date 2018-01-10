@@ -313,6 +313,7 @@
 - [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 - [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar.
+- [Reeder 3](http://reederapp.com/mac/) - News reader that integrates with with Feedbin, Feedly, and other popular services. 
 - [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod) ![Freeware][Freeware Icon]
 - [Transmit](https://panic.com/transmit/) - A FTP client.
