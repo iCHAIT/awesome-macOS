@@ -99,6 +99,7 @@
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
+- [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ![Freeware][Freeware Icon]
 - [Postico](https://eggerapps.at/postico/) - A modern PostgreSQL client.
 - [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool. ![Freeware][Freeware Icon]
