@@ -253,7 +253,7 @@
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
-- [MacPass](http://mstarke.github.io/MacPass/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
+- [MacPass](https://github.com/MacPass/MacPass) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/media-converter/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors) ![Freeware][Freeware Icon]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
