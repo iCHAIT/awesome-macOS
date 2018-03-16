@@ -61,11 +61,6 @@
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
 - [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
 
-### Bookmark Utilities
-
-- [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
-- [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
-
 ### Chat Clients
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
@@ -170,6 +165,14 @@
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
+
+
+### News Readers
+
+- [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
+- [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
+- [Reeder 3](http://reederapp.com/mac/) - News reader that integrates with with Feedbin, Feedly, and other popular services.
+- [Vienna](http://viennarss.github.io/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 
 
 ### Productivity
@@ -310,14 +313,12 @@
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/) ![Freeware][Freeware Icon]
 - [Clocker](https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12) - Check time in multiple timezones from your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/Abhishaker17/Clocker) ![Freeware][Freeware Icon]
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon]](https://github.com/chenasraf/gInbox) ![Freeware][Freeware Icon]
-- [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 - [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar.
-- [Reeder 3](http://reederapp.com/mac/) - News reader that integrates with with Feedbin, Feedly, and other popular services. 
 - [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod) ![Freeware][Freeware Icon]
+- [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
 - [Transmit](https://panic.com/transmit/) - A FTP client.
-- [Vienna](http://viennarss.github.io/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 
 
 ## Command Line Utilities
