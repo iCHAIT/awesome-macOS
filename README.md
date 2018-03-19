@@ -125,6 +125,7 @@
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr) ![Freeware][Freeware Icon]
+- [Visual Studio Code](https://code.visualstudio.com/) - The best editors for tons of language with huge extensions catalog. [![Open-Source Software][OSS Icon]]
 
 
 ### Email Utilities
