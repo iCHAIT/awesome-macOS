@@ -394,7 +394,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [Trackpad Gestures](https://support.apple.com/en-us/HT204895)
 * [Power Tools](http://www.slant.co/topics/523/~power-user-tools-for-mac-osx)
 * [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
-* [Mac Power Users](http://5by5.tv/mpu/238)
+* [Mac Power Users](https://www.relay.fm/mpu)
 * [Awesome Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
 
 
