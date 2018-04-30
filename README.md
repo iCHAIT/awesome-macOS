@@ -83,7 +83,7 @@
 - [Flawless App](https://flawlessapp.io/) - macOS tool for visual quality check of mobile app right inside iOS simulator.
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager which allows editing of host files and switching between them. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
 - [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
-- [GitFTP-Deploy](https://gitftp-deploy.com) - Use Git to track changes and upload only the changed files with FTP
+- [GitFTP-Deploy](https://gitftp-deploy.com) - Use Git to track changes and upload only the changed files with FTP.
 - [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
 - [GitUp](http://gitup.co/) - A simple but powerful Git macOS app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 - [GitX-dev](https://rowanj.github.io/gitx/) - A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
