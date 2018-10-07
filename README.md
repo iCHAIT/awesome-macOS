@@ -248,8 +248,8 @@
 - [Fanny](http://fannywidget.com/) - Notification Center widget and menu bar application to monitor your Mac's fans and CPU temperature. [![Open-Source Software][OSS Icon]](https://github.com/DanielStormApps/Fanny) ![Freeware][Freeware Icon]
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
-- [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray) ![Freeware][Freeware Icon]
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus) ![Freeware][Freeware Icon]
+- [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray) ![Freeware][Freeware Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ![Freeware][Freeware Icon]
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents macOS from automatically going to sleep (on lid closing or idle timeout). ![Freeware][Freeware Icon]
 - [Irvue](http://irvue.tumblr.com) - Thousands of stunning photos and wallpapers from Unsplash on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/leonspok/Irvue-Screensaver) ![Freeware][Freeware Icon]
