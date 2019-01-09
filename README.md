@@ -126,6 +126,7 @@
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr) ![Freeware][Freeware Icon]
+- [XiEditor](https://xi-editor.io) - A fast, reliable, and beautiful editor that's built for the next 20 years. [![Open-Source Software][OSS Icon]](https://github.com/xi-editor/xi-mac) ![Freeware][Freeware Icon]
 
 
 ### Email Utilities
