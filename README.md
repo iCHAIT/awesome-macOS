@@ -100,7 +100,6 @@
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs) ![Freeware][Freeware Icon]
 - [Quiver](http://happenapps.com/#quiver) - A delightful notebook for programmers that allows mixing rich text, code, markdown, LaTeX, and graphs.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
-- [Sip](http://theolabrothers.com/) - A simple color picker for developers.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client. ![Freeware][Freeware Icon]
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
