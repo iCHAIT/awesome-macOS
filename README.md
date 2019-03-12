@@ -411,7 +411,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 ### Apple
 
-* [Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
+* [Apple Support Communities](https://discussions.apple.com/community/mac_os/mojave)
 
 
 ### IRC channels
