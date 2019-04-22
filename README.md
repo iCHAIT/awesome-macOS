@@ -223,6 +223,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) -  Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. [![Open-Source Software][OSS Icon]](https://github.com/Ji4n1ng/OpenInTerminal) ![Freeware][Freeware Icon]
 
 
 ### Utilities
