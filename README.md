@@ -111,6 +111,7 @@
 - [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
 - [Versions](http://versionsapp.com/) - SVN GUI client for Mac.
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
+- [Simulator](https://github.com/onmyway133/Simulator) - macOS menu bar app to navigate to simulator folders quickly [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/Simulator)
 
 
 ### E-Book Utilities
