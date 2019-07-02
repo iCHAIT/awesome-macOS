@@ -41,7 +41,6 @@
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
-    - [Apple](#apple)
     - [IRC channels](#irc-channels)
     - [MacRumors](#macrumors)
     - [Reddit](#reddit)
@@ -407,10 +406,6 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 
 ## Discussion Forums
-
-### Apple
-
-* [Apple Support Communities](https://discussions.apple.com/community/mac_os/mojave)
 
 
 ### IRC channels
