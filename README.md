@@ -76,6 +76,7 @@
 
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
+- [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 - [Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew) ![Freeware][Freeware Icon]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
