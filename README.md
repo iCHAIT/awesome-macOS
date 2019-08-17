@@ -172,6 +172,7 @@
 ### News Readers
 
 - [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
+- [NetNewsWire](https://ranchero.com/netnewswire/) - A classic RSS reader reacquired by its original author and rewritten for modern macOS. [![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ![Freeware][Freeware Icon]
 - [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
 - [Reeder 3](http://reederapp.com/mac/) - News reader that integrates with with Feedbin, Feedly, and other popular services.
 - [Vienna](http://viennarss.github.io/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
