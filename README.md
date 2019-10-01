@@ -313,7 +313,7 @@
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
-- [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
+- [Rectangle](https://rectangleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ![Freeware][Freeware Icon]
 
