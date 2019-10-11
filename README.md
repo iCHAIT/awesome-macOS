@@ -35,12 +35,12 @@
     - [laptop](#laptop)
     - [mac-dev-setup](#mac-dev-setup)
     - [macbook-playbook](#macbook-playbook)
-    - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
-    - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
-    - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
-    - [macOS 10.12 Sierra](#os-x-1012-sierra-setup)
-    - [macOS 10.13 High Sierra](#os-x-1013-high-sierra-setup)
-    - [macOS 10.14 Mojave](#os-x-1014-mojave-setup)
+    - [macOS 10.9 Mavericks Setup](#os-x-109-mavericks-setup)
+    - [macOS 10.10 Yosemite Setup](#os-x-1010-yosemite-setup)
+    - [macOS 10.11 El Capitan Setup](#os-x-1011-el-capitan-setup)
+    - [macOS 10.12 Sierra Setup](#os-x-1012-sierra-setup)
+    - [macOS 10.13 High Sierra Setup](#os-x-1013-high-sierra-setup)
+    - [macOS 10.14 Mojave Setup](#os-x-1014-mojave-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -370,7 +370,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 * https://github.com/mpereira/macbook-playbook
 
-### macOS-10.9-Mavericks-Setup
+### macOS 10.9 Mavericks Setup
 
 * https://gist.github.com/kevinelliott/3135044
 * https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
