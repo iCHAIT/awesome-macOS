@@ -35,9 +35,12 @@
     - [laptop](#laptop)
     - [mac-dev-setup](#mac-dev-setup)
     - [macbook-playbook](#macbook-playbook)
-    - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
-    - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
-    - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
+    - [macOS 10.9 Mavericks](#macos-109-mavericks-setup)
+    - [macOS 10.10 Yosemite](#macos-1010-yosemite-setup)
+    - [macOS 10.11 El Capitan](#macos-1011-el-capitan-setup)
+    - [macOS 10.12 Sierra](#macos-1012-sierra-setup)
+    - [macOS 10.13 High Sierra](#macos-1013-high-sierra-setup)
+    - [macOS 10.14 Mojave](#macos-1014-mojave-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -380,6 +383,17 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 * https://gist.github.com/saetia/1623487
 
+### macOS 10.12 Sierra Setup
+
+* https://gist.github.com/kevinelliott/7a152c556a83b322e0a8cd2df128235c/
+
+### macOS 10.13 High Sierra Setup
+
+* https://gist.github.com/jimmynotjim/7617722
+
+### macOS 10.14 Mojave Setup
+
+* https://gist.github.com/kevinelliott/ab14cfb080cc85e0f8a415b147a0d895
 
 ## Security
 
@@ -423,6 +437,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [macOS Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 * [macOS El Capitan](http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/)
 * [macOS Mojave](https://forums.macrumors.com/forums/macos-mojave-10-14.205/)
+* [macOS Catalina](https://forums.macrumors.com/forums/macos-catalina-10-15.208/)
 
 
 ### Reddit
