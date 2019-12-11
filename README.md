@@ -187,6 +187,7 @@
 
 ### Productivity
 
+- [Air Pasteboard](https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12) - Share pasteboard contents to Github Gist or upload a file via iCloud and Dropbox right on your system bar. [![Open-Source Software][OSS Icon]](https://github.com/msztech/AirPasteboardOpen) ![Freeware][Freeware Icon]
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://www.boastr.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
