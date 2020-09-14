@@ -306,7 +306,7 @@
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
 - [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Unicode Keyboard Layout Editor. ![Freeware][Freeware Icon]
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
-- [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
+- [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/wineskin/code/ci/master/tree/) ![Freeware][Freeware Icon]
 
 ### Video
