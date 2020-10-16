@@ -310,6 +310,7 @@
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/wineskin/code/ci/master/tree/) ![Freeware][Freeware Icon]
+- [RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions. [![Open-Source Software][OSS Icon]](https://github.com/avibrazil/RDM)
 
 ### Video
 
