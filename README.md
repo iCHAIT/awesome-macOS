@@ -407,6 +407,10 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 * https://gist.github.com/kevinelliott/ab14cfb080cc85e0f8a415b147a0d895
 
+### macOS 10.15 Catalina Setup
+
+* https://gist.github.com/kevinelliott/7152e00d6567e223902a4775b5a0a0be
+
 ## Security
 
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
