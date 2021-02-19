@@ -104,6 +104,7 @@
 - [Proxyman](https://proxyman.io) - High-performance man-in-the-middle proxy to observe and manipulate HTTP/HTTPS requests. ![Freeware][Freeware Icon]
 - [Pusher](https://github.com/noodlewerk/NWPusher) - A free tool to do sandbox push notifications. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool. ![Freeware][Freeware Icon]
+- [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![Open-Source Software][OSS Icon]
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs) ![Freeware][Freeware Icon]
 - [Quiver](http://happenapps.com/#quiver) - A delightful notebook for programmers that allows mixing rich text, code, markdown, LaTeX, and graphs.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - A MySQL & MariaDB database manager. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace) ![Freeware][Freeware Icon]
