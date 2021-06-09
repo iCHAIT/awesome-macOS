@@ -353,6 +353,7 @@
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
+- [launchk](https://github.com/mach-kernel/launchk) - A TUI for launchd agents and daemons. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
