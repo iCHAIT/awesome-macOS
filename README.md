@@ -80,6 +80,7 @@
 
 ### Developers
 
+- [Cymbols](https://cymbols.io/) - A static source code analyzer.
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew) ![Freeware][Freeware Icon]
