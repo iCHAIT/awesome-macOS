@@ -98,6 +98,7 @@
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
+- [Pasteboard Viewer](https://apps.apple.com/app/id1499215709) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ![Freeware][Freeware Icon]
 - [Postico](https://eggerapps.at/postico/) - A modern PostgreSQL client.
