@@ -82,6 +82,7 @@
 ### Developers
 
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
+- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Optimization utility functions for a high-level AR framework, brought to the Mac. [![Open-Source Software][OSS Icon]](https://github.com/philipturner/ARHeadsetKit) ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew) ![Freeware][Freeware Icon]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
