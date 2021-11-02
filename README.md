@@ -222,6 +222,7 @@
 - [Presentify](https://presentify.compzets.com) - Annotate anything on screen, be it, images, pdfs, videos, code, etc.
 - [Qbserve](https://qotoqot.com/qbserve/) - Automatic time and project tracking, timesheets, invoicing, and real-time productivity feedback.
 - [Quicksilver](https://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver) ![Freeware][Freeware Icon]
+- [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar) ![Freeware][Freeware Icon]
 - [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
 - [SelfControl](https://selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/) ![Freeware][Freeware Icon]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
