@@ -260,6 +260,7 @@
 - [BitBar](https://github.com/matryer/bitbar) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/) ![Freeware][Freeware Icon]
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts. ![Freeware][Freeware Icon]
+- [CleanShot X](https://cleanshot.com/) - Ultimate screen capture app.
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner) - Automatically removes text formatting from the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/Zuehlke/Clipboard_Cleaner) ![Freeware][Freeware Icon]
 - [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
