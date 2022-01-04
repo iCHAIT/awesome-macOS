@@ -308,7 +308,7 @@
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ![Freeware][Freeware Icon]
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
-- [Speediness](https://apps.apple.com/app/id1596706466) - Check your internet speed. ![Freeware][Freeware Icon]
+- [Speediness](https://apps.apple.com/app/id1596706466) - Check your internet speed (requires Monterey). ![Freeware][Freeware Icon]
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
 - [TeamViewer](https://www.teamviewer.com/en/) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
