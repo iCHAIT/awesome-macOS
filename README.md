@@ -446,6 +446,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
 * [Mac Power Users](https://www.relay.fm/mpu)
 * [Awesome Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
+* [macOS Tips & Tricks](https://saurabhs.org/macos-tips)
 
 
 ## Discussion Forums
