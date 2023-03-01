@@ -145,6 +145,7 @@
 ### Email Utilities
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
+- [Spark](https://sparkmailapp.com/) - Fast, cross-platform email designed to filter out the noise
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Mailplane](https://mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calender, and Contacts.
 
