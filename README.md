@@ -75,7 +75,7 @@
 
 ### Data Recovery
 
-- [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - Comprehensive and professional data recovery for a multitude of scenarios.
+- [Data Rescue]([https://www.prosofteng.com/datarescue-mac-data-recovery/](https://www.prosofteng.com/mac-data-recovery)) - Comprehensive and professional data recovery for a multitude of scenarios.
 - [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - Recover from filesystem corruptions when Disk Utility is out of options.
 
 
