@@ -437,7 +437,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com) - Fully-featured VPN client for Mac.
 * [SimpleumSafe](https://simpleum.com/) - Encrypt, organize and sync files with macOS or iOS.
-* [Sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ![Freeware][Freeware Icon]
 * [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software. [![Open-Source Software][OSS Icon]](https://veracrypt.codeplex.com/SourceControl/latest) ![Freeware][Freeware Icon]
