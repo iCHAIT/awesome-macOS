@@ -104,7 +104,7 @@
 - [Medis](https://getmedis.com) - A modern GUI for Redis.
 - [Pasteboard Viewer](https://apps.apple.com/app/id1499215709) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
-- [PgMagic](https://pgmagic.app/?ref=awesomemacos) - A Postgres client that lets you talk to your db in SQL or natural language.
+- [pgMagic](https://pgmagic.app/?ref=awesomemacos) - A PostgreSQL client that lets you talk to your database in SQL or natural language.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ![Freeware][Freeware Icon]
 - [Postico](https://eggerapps.at/postico/) - A modern PostgreSQL client.
 - [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
