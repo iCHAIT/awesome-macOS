@@ -16,6 +16,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Commercial applications should offer a free trial for maintainers to validate inclusion to the list. Free trials as part of a bundle/service like SetApp do not count.
 - Sensible new categories or improvements to the existing categorization are welcome. Please ask the maintainers if in doubt.
 - [No Electron](https://github.com/iCHAIT/awesome-macOS/pull/368) apps :no_good:
+- Do not include referrer query strings or other tracking mechanisms in the URL
 - Be prepared for criticism, don't feel entitled and keep an open mind.
 - If evident that you did not bother to read and follow these guidelines, your pull request may be closed immediately. You are welcome to a new attempt, given that in the meantime you did read and follow these guidelines.
 
