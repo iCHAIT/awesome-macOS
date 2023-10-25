@@ -311,6 +311,7 @@
 - [RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions. [![Open-Source Software][OSS Icon]](https://github.com/avibrazil/RDM)
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
+- [Sleepr](https://sleepr.app/) - Sleep timer back on macOS 13+ (Ventura, Sonoma, …).
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ![Freeware][Freeware Icon]
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
