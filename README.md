@@ -164,7 +164,8 @@
 
 - [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. [![Open-Source Software][OSS Icon]](https://github.com/wesnoth) ![Freeware][Freeware Icon]
 - [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon]](https://github.com/alunbestor/Boxer) ![Freeware][Freeware Icon]
-- [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ![Freeware][Freeware Icon]
+- [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ![Freeware][Freeware Icon]]
+- [Hypersomnia](https://hypersomnia.xyz) - Free and open-source multiplayer shooter with hardcore dynamics and a built-in map Editor. [![Open-Source Software][OSS Icon]](https://github.com/TeamHypersomnia/Hypersomnia) ![Freeware][Freeware Icon]]
 - [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 - [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. [![Open-Source Software][OSS Icon]](https://github.com/AaronRandall/Screentendo) ![Freeware][Freeware Icon]
 - [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. [![Open-Source Software][OSS Icon]](https://github.com/daylen/stockfish-mac) ![Freeware][Freeware Icon]
