@@ -132,7 +132,7 @@
 ### E-Book Utilities
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
-
+- [calibre](https://calibre-ebook.com/) -  A powerful and easy to use e-book manager. [![Open-Source Software][OSS Icon]](https://github.com/RobotsAndPencils/XcodesApp) ![Freeware][Freeware Icon]
 
 ### Editors
 
