@@ -201,6 +201,7 @@
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
+- [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever. ![Freeware][Freeware Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
