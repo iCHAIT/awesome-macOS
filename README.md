@@ -465,10 +465,10 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 ### MacRumors
 
-* [macOS Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
-* [macOS El Capitan](http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/)
-* [macOS Mojave](https://forums.macrumors.com/forums/macos-mojave-10-14.205/)
-* [macOS Catalina](https://forums.macrumors.com/forums/macos-catalina-10-15.208/)
+* [macOS 11 Big Sur](https://forums.macrumors.com/forums/macos-big-sur-11.226/)
+* [macOS 12 Monterey](https://forums.macrumors.com/forums/macos-monterey-12.234/)
+* [macOS 13 Ventura)](https://forums.macrumors.com/forums/macos-ventura-13.239/)
+* [macOS 14 Sonoma](https://forums.macrumors.com/forums/macos-sonoma-14.243/)
 
 
 ### Reddit
