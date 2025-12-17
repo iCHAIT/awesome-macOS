@@ -428,6 +428,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 ## Security
 
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
+* [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
 * [LinkLiar](https://github.com/halo/LinkLiar) - Menu application written in Swift to help you spoof the MAC addresses of your Wi-Fi and Ethernet interfaces. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
 * [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger)
