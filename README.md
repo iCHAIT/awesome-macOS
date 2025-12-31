@@ -373,6 +373,7 @@
 - [Command Line Utilities Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
 - [EnvPane](https://github.com/hschmidt/EnvPane) - An preference pane for environment variables. [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
 - [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
+- [macOS Server Optimisation Toolkit](https://github.com/hodorogandrei/macos-sequoia-optimisation) - Bash toolkit for optimising macOS Sequoia as a high-performance server by disabling consumer services, tuning network, and configuring power management. [![Open-Source Software][OSS Icon]](https://github.com/hodorogandrei/macos-sequoia-optimisation) ![Freeware][Freeware Icon]
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
 
 
