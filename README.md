@@ -62,6 +62,7 @@
 - [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut.
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
+- [Radioform](radioform.app) - Radioform is a free, open-source macOS equalizer that lets you shape your sound system-wide — with fully parametric per-band control. [![Open-Source Software][OSS Icon]](https://github.com/torteous44/radioform.app) ![Freeware][Freeware Icon]
 
 ### Backup
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
