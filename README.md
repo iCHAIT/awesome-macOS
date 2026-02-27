@@ -139,6 +139,7 @@
 - [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
 - [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
+- [Notemac++](https://github.com/sergioadevita/notemac-plus-plus) - A Notepad++-inspired code editor for macOS with 70+ language support, Git integration, and AI assistant. [![Open-Source Software][OSS Icon]](https://github.com/sergioadevita/notemac-plus-plus) ![Freeware][Freeware Icon]
 - [Nova](https://nova.app/) - The beautiful, fast, flexible, native Mac code editor from Panic.
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
