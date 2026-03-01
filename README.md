@@ -365,6 +365,7 @@
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
+- [OpenPaw](https://github.com/daxaur/openpaw) - Turn Claude Code into a personal assistant with 38 skills including email, calendar, Spotify, smart home, and more. [![Open-Source Software][OSS Icon]](https://github.com/daxaur/openpaw) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
