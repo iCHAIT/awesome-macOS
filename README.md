@@ -266,6 +266,7 @@
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/) ![Freeware][Freeware Icon]
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts. ![Freeware][Freeware Icon]
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner) - Automatically removes text formatting from the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/Zuehlke/Clipboard_Cleaner) ![Freeware][Freeware Icon]
+- [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM) to reclaim disk space. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 - [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up disk space.
