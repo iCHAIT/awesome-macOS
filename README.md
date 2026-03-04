@@ -84,6 +84,7 @@
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+- [Captain's Log](https://github.com/JungHoonGhae/captains-log) - Pirate-themed menu bar app that gamifies your dev velocity. Stop committing and your ship sinks. [![Open-Source Software][OSS Icon]](https://github.com/JungHoonGhae/captains-log) ![Freeware][Freeware Icon]
 - [Cork](https://corkmac.app) - A fast, intuitive Homebrew GUI [![Open-Source Software][OSS Icon]](https://github.com/buresdv/Cork)
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Decode](https://microcodingapps.com/products/decode.html) - Converts Xcode Interface Builder files (Xib and Storyboard files) to Swift source code.
