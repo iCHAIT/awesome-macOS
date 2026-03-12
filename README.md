@@ -148,6 +148,7 @@
 ### Email Utilities
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
+- [HeyRobyn](https://heyrobyn.ai/) - Native Mac unified inbox for email, Slack, and GitHub. ![Freeware][Freeware Icon]
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Mailplane](https://mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calender, and Contacts.
 
