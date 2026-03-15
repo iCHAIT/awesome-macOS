@@ -17,6 +17,7 @@
     - [E-Book Utilities](#e-book-utilities)
     - [Editors](#editors)
     - [Email Utilities](#email-utilities)
+- [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, video meetings. Native macOS app (Apple Silicon + Intel).
     - [Finder](#finder)
     - [Games](#games)
     - [Graphics](#graphics)
