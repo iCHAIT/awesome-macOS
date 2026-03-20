@@ -428,6 +428,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 ## Security
 
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
+* [Lockpaw](https://getlockpaw.com) - Menu bar screen guard that locks your display with a hotkey and unlocks via hotkey or Touch ID. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [LinkLiar](https://github.com/halo/LinkLiar) - Menu application written in Swift to help you spoof the MAC addresses of your Wi-Fi and Ethernet interfaces. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
 * [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger)
