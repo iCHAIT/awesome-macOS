@@ -250,6 +250,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 
 
 ### Utilities
