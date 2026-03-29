@@ -249,6 +249,7 @@
 
 ### Terminal
 
+- [Flock](https://github.com/Divagation/flock) - Native macOS multiplexer for running multiple Claude Code AI agent sessions in parallel with agent mode, themes, and prompt compression. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 
 
