@@ -295,6 +295,7 @@
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ![Freeware][Freeware Icon]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
+- [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - Quick Look extension for rendered Markdown preview with syntax highlighting, YAML front matter, and a menu bar toggle. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
 - [MacPass](https://macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ![Freeware][Freeware Icon]
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/media-converter/code/ci/master/tree/) ![Freeware][Freeware Icon]
