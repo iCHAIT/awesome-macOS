@@ -41,6 +41,7 @@
     - [macOS 10.12 Sierra](#macos-1012-sierra-setup)
     - [macOS 10.13 High Sierra](#macos-1013-high-sierra-setup)
     - [macOS 10.14 Mojave](#macos-1014-mojave-setup)
+    - [macOS 10.15 Catalina](#macos-1015-catalina-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -109,7 +110,7 @@
 - [Postico](https://eggerapps.at/postico/) - A modern PostgreSQL client.
 - [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 - [Proxyman](https://proxyman.io) - High-performance man-in-the-middle proxy to observe and manipulate HTTP/HTTPS requests. ![Freeware][Freeware Icon]
-- [Pusher](https://github.com/noodlewerk/NWPusher) - A free tool to do sandbox push notifications. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
+- [Pusher](https://github.com/noodlewerk/NWPusher) - A free tool to do sandbox push notifications. [![Open-Source Software][OSS Icon]](https://github.com/noodlewerk/NWPusher) ![Freeware][Freeware Icon]
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool. ![Freeware][Freeware Icon]
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs) ![Freeware][Freeware Icon]
 - [Quiver](http://happenapps.com/#quiver) - A delightful notebook for programmers that allows mixing rich text, code, markdown, LaTeX, and graphs.
@@ -463,9 +464,9 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 ### IRC channels
 
-* [#macosx](https://webchat.freenode.net/?channels=macosx)
-* [#apple](https://webchat.freenode.net/?channels=apple)
-* [#mac](https://webchat.freenode.net/?channels=mac)
+* [#macosx](https://web.libera.chat/?channels=macosx)
+* [#apple](https://web.libera.chat/?channels=apple)
+* [#mac](https://web.libera.chat/?channels=mac)
 
 
 ### MacRumors
