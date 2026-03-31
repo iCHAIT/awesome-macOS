@@ -93,7 +93,7 @@
 - [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
 - [GitUp](http://gitup.co/) - A simple but powerful Git macOS app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 - [GitX-dev](https://rowanj.github.io/gitx/) - A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
-- [Hopper Dissassembler](https://www.hopperapp.com) - A Dissassembler for MacOS and Linux. Has a Demo option for 30 minutes of productivity.
+- [Hopper Disassembler](https://www.hopperapp.com) - A Disassembler for MacOS and Linux. Has a Demo option for 30 minutes of productivity.
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 - [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes. [![Open-Source Software][OSS Icon]](https://github.com/liamrosenfeld/Iconology) ![Freeware][Freeware Icon]
 - [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
@@ -150,7 +150,7 @@
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
-- [Mailplane](https://mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calender, and Contacts.
+- [Mailplane](https://mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calendar, and Contacts.
 
 
 ### Finder
@@ -472,7 +472,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 * [macOS 11 Big Sur](https://forums.macrumors.com/forums/macos-big-sur-11.226/)
 * [macOS 12 Monterey](https://forums.macrumors.com/forums/macos-monterey-12.234/)
-* [macOS 13 Ventura)](https://forums.macrumors.com/forums/macos-ventura-13.239/)
+* [macOS 13 Ventura](https://forums.macrumors.com/forums/macos-ventura-13.239/)
 * [macOS 14 Sonoma](https://forums.macrumors.com/forums/macos-sonoma-14.243/)
 
 
