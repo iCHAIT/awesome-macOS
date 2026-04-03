@@ -187,6 +187,7 @@
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
+- [Zipic](https://zipic.app) - Free image compression tool for Mac. Compress JPEG, PNG, WebP, HEIC, AVIF and more with batch processing, folder monitoring, and lossless optimization. ![Freeware][Freeware Icon]
 
 
 ### News Readers
