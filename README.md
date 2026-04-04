@@ -72,6 +72,7 @@
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/TelegramSwift) ![Freeware][Freeware Icon]
 - [Textual](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
+- [Typer](https://typer.space) - Free local AI chat for macOS. Runs entirely on-device — no account, no cloud, no ads. Works offline. Apple Silicon required. ![Freeware][Freeware Icon]
 
 ### Data Recovery
 
