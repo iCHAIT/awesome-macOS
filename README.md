@@ -365,8 +365,7 @@
 
 ## Command Line Utilities
 
-- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
-- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
+- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.- [gitty](https://github.com/Omibranch/gitty) - A single-binary Git/GitHub CLI companion; simplifies add→commit→push and offers quick access to PRs, logs and repo status. [![Open-Source Software][OSS Icon]](https://github.com/Omibranch/gitty) ![Freeware][Freeware Icon]- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 
