@@ -378,6 +378,7 @@
 - [EnvPane](https://github.com/hschmidt/EnvPane) - An preference pane for environment variables. [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
 - [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for macOS development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 
 ## Setup
