@@ -250,6 +250,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [Muxy](https://github.com/muxy-app/muxy) - A native macOS terminal multiplexer built with SwiftUI and libghostty. [![Open-Source Software][OSS Icon]](https://github.com/muxy-app/muxy) ![Freeware][Freeware Icon]
 
 
 ### Utilities
