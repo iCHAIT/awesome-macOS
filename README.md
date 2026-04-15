@@ -370,6 +370,7 @@
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
+- [gistgrep](https://github.com/mattheworiordan/gistgrep) - Search your GitHub gists locally with fzf and on-device Apple Intelligence summaries. [![Open-Source Software][OSS Icon]](https://github.com/mattheworiordan/gistgrep) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
