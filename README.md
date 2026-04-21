@@ -456,6 +456,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [Power Tools](http://www.slant.co/topics/523/~power-user-tools-for-mac-osx)
 * [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
 * [Mac Power Users](https://www.relay.fm/mpu)
+* [Awesome Mac mini Home Server](https://github.com/momenbasel/awesome-mac-mini-homeserver) - Curated tools for turning an Apple Silicon Mac mini into a 24/7 agentic AI home server.
 * [Awesome Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
 
 
