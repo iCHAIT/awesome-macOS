@@ -66,6 +66,7 @@
 ### Backup
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
 - [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
+- [TimeNest](https://github.com/momenbasel/timenest) - Self-hosted network Time Machine server that turns a Mac mini, Raspberry Pi, or any Linux box into a Time Capsule replacement for every Mac on your LAN. Docker stack with Samba + `vfs_fruit`, Avahi for Bonjour, and a FastAPI admin UI. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/timenest) ![Freeware][Freeware Icon]
 
 ### Chat Clients
 
