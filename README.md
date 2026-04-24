@@ -200,6 +200,7 @@
 
 ### Productivity
 
+- [AI Dictation](https://aidictation.com/) - Speech-to-text dictation that auto-switches between offline and online engines, with AI cleanup that removes filler words, fixes grammar, and formats text per app.
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
