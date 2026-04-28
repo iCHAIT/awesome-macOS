@@ -433,6 +433,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 ## Security
 
+* [ClashX](https://clashx.tech/) - A rule-based proxy client for macOS with a simple UI. [![Open-Source Software][OSS Icon]](https://github.com/ClashX-Pro/ClashX) ![Freeware][Freeware Icon]
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
 * [LinkLiar](https://github.com/halo/LinkLiar) - Menu application written in Swift to help you spoof the MAC addresses of your Wi-Fi and Ethernet interfaces. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [Lockpaw](https://getlockpaw.com) - Locks the screen while letting background tasks, builds, and AI agents keep running. Native macOS menu bar app. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
