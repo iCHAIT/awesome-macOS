@@ -330,6 +330,7 @@
 - [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Unicode Keyboard Layout Editor. ![Freeware][Freeware Icon]
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
+- [Whisky](https://github.com/frankea/Whisky) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky. [![Open-Source Software][OSS Icon]](https://github.com/frankea/Whisky) ![Freeware][Freeware Icon]
 - [Wineskin](https://github.com/Gcenx/WineskinServer) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ![Freeware][Freeware Icon]
 
 ### Video
