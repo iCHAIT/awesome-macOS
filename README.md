@@ -59,7 +59,7 @@
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ![Freeware][Freeware Icon]
 - [krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
 - [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices, voice cloning, and four AI models running entirely on Apple Silicon via MLX.
-- [Parakey](https://github.com/rcourtman/parakey) - Push-to-talk dictation menu bar app with on-device speech-to-text running on Apple Silicon via Parakeet-MLX. [![Open-Source Software][OSS Icon]](https://github.com/rcourtman/parakey) ![Freeware][Freeware Icon]
+- [Parakey](https://github.com/rcourtman/parakey) - Push-to-talk dictation that runs Parakeet TDT v3 on the Apple Neural Engine via CoreML — ~100 ms key-to-paste, 2.2 MB native Swift binary. [![Open-Source Software][OSS Icon]](https://github.com/rcourtman/parakey) ![Freeware][Freeware Icon]
 - [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon]
 - [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut.
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
