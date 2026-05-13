@@ -385,6 +385,12 @@
 
 ## Setup
 
+### Brewfile
+
+Idempotent one-command MacBook setup (Homebrew, Oh My Zsh, AWS, kubectl, macOS defaults). Skips apps already installed manually via `.app`/`pkgutil` detection.
+
+* https://github.com/marchenkovit/Brewfile
+
 ### DevMyMac
 
 * https://github.com/adamisntdead/DevMyMac
