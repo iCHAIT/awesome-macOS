@@ -82,6 +82,7 @@
 
 ### Developers
 
+- [AI Memory Reader](https://github.com/nvwalj/ai-memory-reader) - Native macOS reader/editor for AI agent memory files (CLAUDE.md, AGENTS.md, etc.) with GitHub-style markdown, live file watching, JSONL session viewer, and edit mode. [![Open-Source Software][OSS Icon]](https://github.com/nvwalj/ai-memory-reader) ![Freeware][Freeware Icon]
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
