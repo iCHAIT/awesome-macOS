@@ -250,6 +250,7 @@
 
 ### Terminal
 
+- [Clipport](https://github.com/arihantsethia/clipport) - Paste local clipboard text and images into remote iTerm sessions. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport)
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 
 
