@@ -122,6 +122,7 @@
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
 - [TablePlus](https://tableplus.com/) - A modern, native GUI for multiple databases.
 - [TablePro](https://tablepro.app) - A native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. [![Open-Source Software][OSS Icon]](https://github.com/TableProApp/TablePro) ![Freeware][Freeware Icon]
+- [TokenTracker](https://github.com/mm7894215/TokenTracker) - Menu-bar dashboard that auto-tracks token usage and cost across 22 AI coding CLIs (Claude Code, Codex, Cursor, Gemini, etc). 100% local, no API keys.
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - The macOS Touch Bar Simulator as a standalone app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/touch-bar-simulator) ![Freeware][Freeware Icon]
 - [Tower](https://www.git-tower.com/) - The most powerful Git client.
 - [Trailer](https://ptsochantaris.github.io/trailer/) - Configurable menubar Git notifications with accompanying native iOS app. [![Open-Source Software][OSS Icon]](https://github.com/ptsochantaris/trailer)
