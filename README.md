@@ -126,6 +126,7 @@
 - [Tower](https://www.git-tower.com/) - The most powerful Git client.
 - [Trailer](https://ptsochantaris.github.io/trailer/) - Configurable menubar Git notifications with accompanying native iOS app. [![Open-Source Software][OSS Icon]](https://github.com/ptsochantaris/trailer)
 - [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused) ![Freeware][Freeware Icon]
+- [usage](https://github.com/aqua5230/usage) - Pin Claude Code and Codex quota, tokens, and cost to your menu bar. Local-only — reads a statusLine hook and JSONL session logs; no API calls. [![Open-Source Software][OSS Icon]](https://github.com/aqua5230/usage) ![Freeware][Freeware Icon]
 - [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
 - [Versions](http://versionsapp.com/) - SVN GUI client for Mac.
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
