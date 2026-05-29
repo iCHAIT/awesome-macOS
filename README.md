@@ -159,6 +159,7 @@
 ### Finder
 
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
+- [Glance](https://glance.md/) - Native Markdown Quick Look extension for Finder preview. ![Freeware][Freeware Icon]
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
