@@ -325,6 +325,7 @@
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
+- [StayUp](https://getstayup.app) - Keep your Mac awake on battery with the lid closed. [![Open-Source Software][OSS Icon]](https://github.com/NongKnot/StayUp) ![Freeware][Freeware Icon]
 - [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox)
 - [TeamViewer](https://www.teamviewer.com/en/) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
