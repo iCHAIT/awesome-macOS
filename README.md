@@ -119,6 +119,7 @@
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client. ![Freeware][Freeware Icon]
+- [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) - Track GitHub stars and release downloads from your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/jazzyalex/stargazer-bar) ![Freeware][Freeware Icon]
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
 - [TablePlus](https://tableplus.com/) - A modern, native GUI for multiple databases.
 - [TablePro](https://tablepro.app) - A native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. [![Open-Source Software][OSS Icon]](https://github.com/TableProApp/TablePro) ![Freeware][Freeware Icon]
