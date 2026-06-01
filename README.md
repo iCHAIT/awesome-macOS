@@ -355,6 +355,7 @@
 - [Rectangle](https://rectangleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 - [ShiftPlus](https://shiftplus.app/) - macOS workspace manager to switch workspaces, restore apps and windows across Spaces, monitors, and Macs in one click.
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
+- [StayAwake](https://github.com/TY-teo/StayAwake) - Menu bar app that keeps a MacBook awake while Claude Code, Codex, and Cursor finish long agent runs - including with the lid closed. One-time sudoers rule scoped to two pmset commands, IOPMAssertion-based, timed auto-off. [![Open-Source Software][OSS Icon]](https://github.com/TY-teo/StayAwake) ![Freeware][Freeware Icon]
 - [Swish](https://highlyopinionated.co/swish/) - Control windows and applications with trackpad gestures.
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ![Freeware][Freeware Icon]
 
