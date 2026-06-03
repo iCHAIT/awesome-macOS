@@ -277,6 +277,7 @@
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Eun/DisableMonitor) ![Freeware][Freeware Icon]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon]](https://github.com/Mortennn/Dozer) ![Freeware][Freeware Icon]
+- [Dusty](https://github.com/yagcioglutoprak/dusty) - Open-source menu bar disk cleaner that only deletes from a fixed allowlist and shows every path and size before removing it. [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 - [EtreCheck](http://etrecheck.com) - Output system information and configuration to get more informed help from Apple support professionals. ![Freeware][Freeware Icon]
 - [Equinox](https://equinoxmac.com) - Create macOS dynamic wallpapers. [![Open-Source Software][OSS Icon]](https://github.com/rlxone/Equinox) ![Freeware][Freeware Icon]
 - [Fanny](http://fannywidget.com/) - Notification Center widget and menu bar application to monitor your Mac's fans and CPU temperature. [![Open-Source Software][OSS Icon]](https://github.com/DanielStormApps/Fanny) ![Freeware][Freeware Icon]
