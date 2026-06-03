@@ -298,6 +298,9 @@
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services. ![Freeware][Freeware Icon]
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ![Freeware][Freeware Icon]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
+- [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac. ![Freeware][Freeware Icon]
+- [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac. ![Freeware][Freeware Icon]
+- [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - Calculate a monitor's pixel density and check whether it renders Retina-sharp on macOS. ![Freeware][Freeware Icon]
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
 - [MacPass](https://macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ![Freeware][Freeware Icon]
