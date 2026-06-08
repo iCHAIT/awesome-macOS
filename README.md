@@ -376,6 +376,7 @@
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
+- [pyimgtag](https://github.com/kurok/pyimgtag) - Command-line photo tagger that uses a local vision model (Gemma via Ollama by default) to add searchable tags, scene categories, and EXIF-GPS-derived location to images; reads and writes the Apple Photos library on macOS. [![Open-Source Software][OSS Icon]](https://github.com/kurok/pyimgtag) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
