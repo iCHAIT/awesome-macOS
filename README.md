@@ -446,6 +446,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]
+* [fort](https://github.com/djadmin/fort) - CLI tool that runs 16 security checks on your Mac, scores your posture, and auto-fixes what it safely can. [![Open-Source Software][OSS Icon]](https://github.com/djadmin/fort)
 * [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/paretoSecurity/pareto-mac/)
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com) - Fully-featured VPN client for Mac.
