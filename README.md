@@ -58,6 +58,7 @@
 - [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ![Freeware][Freeware Icon]
 - [krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
+- [Lurar](https://lurar.app/) - Menu-bar parametric EQ for headphones with the AutoEq catalog built in. Uses Apple's Core Audio Process Tap (macOS 14.2+) instead of a virtual audio driver. [![Open-Source Software][OSS Icon]](https://github.com/lsjoberg/lurar) ![Freeware][Freeware Icon]
 - [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices, voice cloning, and four AI models running entirely on Apple Silicon via MLX.
 - [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon]
 - [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut.
