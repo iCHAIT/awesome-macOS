@@ -218,6 +218,7 @@
 - [ItsyCal](https://www.mowglii.com/itsycal/) - A tiny menubar calendar to display your Mac Calendar app events. [![Open-Source Software][OSS Icon]](https://github.com/sfsam/Itsycal) ![Freeware][Freeware Icon]
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
+- [KeyMinder](https://keyminder.app) - A menu bar app that instantly shows keyboard shortcuts for the frontmost app, grouped by menu and searchable. [![Open-Source Software][OSS Icon]](https://github.com/dvdweyer/KeyMinder) ![Freeware][Freeware Icon]
 - [Keytty](http://keytty.com) - Enables you to control your mouse with a few key strokes. Mouse Keys Alternative.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
 - [MeetingBar](https://meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ![Freeware][Freeware Icon]
