@@ -107,6 +107,7 @@
 - [Pasteboard Viewer](https://apps.apple.com/app/id1499215709) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [pgMagic](https://pgmagic.app) - A PostgreSQL client that lets you talk to your database in SQL or natural language.
+- [Pier](https://afive.dev/pier) - Menu bar app that watches your servers' Docker Compose stacks, container health, host metrics and live logs over your existing SSH. Read-only by default.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ![Freeware][Freeware Icon]
 - [Postico](https://eggerapps.at/postico/) - A modern PostgreSQL client.
 - [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
