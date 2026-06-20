@@ -380,6 +380,7 @@
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
 - [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
+- [Painless Belt](https://github.com/shshemi/painless-belt) - Runs any command inside a macOS Seatbelt sandbox. [![Open-Source Software][OSS Icon]](https://github.com/shshemi/painless-belt) ![Freeware][Freeware Icon]
 - [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from the terminal. No jailbreak required. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
