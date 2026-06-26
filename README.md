@@ -227,6 +227,7 @@
 - [Pandan](https://apps.apple.com/app/id1569600264) - Time awareness in your menu bar. ![Freeware][Freeware Icon]
 - [Paste](http://pasteapp.me) - The new way to copy & paste for Mac.
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - A nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver)
+- [Pesty](https://www.moamenbasel.com/pesty/) - A native clipboard manager with a slide-up color-coded clipboard strip, pinboards, instant search, and keyboard-driven pasting. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty)
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Presentify](https://presentify.compzets.com) - Annotate anything on screen, be it, images, pdfs, videos, code, etc.
 - [Qbserve](https://qotoqot.com/qbserve/) - Automatic time and project tracking, timesheets, invoicing, and real-time productivity feedback.
