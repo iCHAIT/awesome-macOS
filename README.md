@@ -263,6 +263,7 @@
 ### Utilities
 
 - [1Password](https://1password.com) - Password Manager and Secure Wallet.
+- [AI Usage Ball](https://aiusageball.com) - Menu bar gauges for Claude, Codex, and Antigravity usage limits.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
