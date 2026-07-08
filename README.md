@@ -455,6 +455,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]
 * [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/paretoSecurity/pareto-mac/)
+* [Peeku](https://peeku.app/) - Auto-locks your Mac when you walk away using on-device camera presence and an optional Apple Watch proximity gate.
 * [Raccoon](https://github.com/thousandflowers/Raccoon) - CLI to audit Mac security, system info and manage an SSH fleet of Macs from one machine. [![Open-Source Software][OSS Icon]](https://github.com/thousandflowers/Raccoon)
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com) - Fully-featured VPN client for Mac.
