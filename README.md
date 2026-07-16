@@ -134,6 +134,7 @@
 - [Versions](http://versionsapp.com/) - SVN GUI client for Mac.
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
 - [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon]](https://github.com/RobotsAndPencils/XcodesApp) ![Freeware][Freeware Icon]
+- [Stratum](https://stratum.mwn-digital.uk) - Native macOS database GUI for MySQL, MariaDB, PostgreSQL, and SQLite.
 
 
 ### E-Book Utilities
