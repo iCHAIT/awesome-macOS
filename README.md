@@ -207,6 +207,8 @@
 
 ### Productivity
 
+- [Chat Session Managers](https://github.com/czxxxczx73-cell/chat-session-managers) - Browse, search, archive, and delete local Codex, Claude Code, and Grok conversation history. [![Open-Source Software][OSS Icon]](https://github.com/czxxxczx73-cell/chat-session-managers) ![Freeware][Freeware Icon]
+- [Screenshot Home](https://github.com/czxxxczx73-cell/Screenshot-Home) - Private local-first screenshot library for macOS. [![Open-Source Software][OSS Icon]](https://github.com/czxxxczx73-cell/Screenshot-Home) ![Freeware][Freeware Icon]
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
