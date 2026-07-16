@@ -85,6 +85,7 @@
 
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
+- [Chat Session Managers](https://czxxxczx73-cell.github.io/chat-session-managers/) - Search, archive, restore, and safely delete local Codex, Claude Code, and Grok session history. [![Open-Source Software][OSS Icon]](https://github.com/czxxxczx73-cell/chat-session-managers) ![Freeware][Freeware Icon]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 - [Cork](https://corkmac.app) - A fast, intuitive Homebrew GUI [![Open-Source Software][OSS Icon]](https://github.com/buresdv/Cork)
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
@@ -207,8 +208,6 @@
 
 ### Productivity
 
-- [Chat Session Managers](https://github.com/czxxxczx73-cell/chat-session-managers) - Browse, search, archive, and delete local Codex, Claude Code, and Grok conversation history. [![Open-Source Software][OSS Icon]](https://github.com/czxxxczx73-cell/chat-session-managers) ![Freeware][Freeware Icon]
-- [Screenshot Home](https://github.com/czxxxczx73-cell/Screenshot-Home) - Private local-first screenshot library for macOS. [![Open-Source Software][OSS Icon]](https://github.com/czxxxczx73-cell/Screenshot-Home) ![Freeware][Freeware Icon]
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
