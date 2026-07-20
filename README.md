@@ -260,6 +260,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [Terminal Candy](https://terminalcandy.com) - Skinnable native terminal — turn any image into a working terminal.
 
 
 ### Utilities
