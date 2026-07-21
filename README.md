@@ -225,6 +225,7 @@
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 - [Keytty](http://keytty.com) - Enables you to control your mouse with a few key strokes. Mouse Keys Alternative.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
+- [LokalBot](https://www.lokalbot.com/) - Records and transcribes meetings on-device, with dictation and a searchable archive of your workday. [![Open-Source Software][OSS Icon]](https://github.com/stevyhacker/lokalbot) ![Freeware][Freeware Icon]
 - [Mac Mouse Fixer](https://www.macfix.click/) - Fixes accidental double-clicks and adds smooth scrolling, horizontal scrolling, and wheel zoom for external mice.
 - [MeetingBar](https://meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ![Freeware][Freeware Icon]
 - [MenubarX](https://MenubarX.app) - A powerful menu bar browser.
