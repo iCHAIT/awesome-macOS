@@ -260,6 +260,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [Noden](https://noden.useroamteknoloji.com/) - Native macOS client for SSH, SFTP and RDP in one window, with an optional AI command assistant. ![Freeware][Freeware Icon]
 
 
 ### Utilities
