@@ -85,6 +85,7 @@
 
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
+- [ClaudeNotch](https://hidrogenone.github.io/ClaudeNotch/) - Slides a status alert out of the MacBook notch when Claude's status page reports an incident, with per-component hover detail. [![Open-Source Software][OSS Icon]](https://github.com/hidrogenone/ClaudeNotch) ![Freeware][Freeware Icon]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 - [Cork](https://corkmac.app) - A fast, intuitive Homebrew GUI [![Open-Source Software][OSS Icon]](https://github.com/buresdv/Cork)
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
