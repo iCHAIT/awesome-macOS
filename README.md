@@ -208,6 +208,7 @@
 
 ### Productivity
 
+- [AI Dictation](https://aidictation.com) - Open-source voice-to-text app with offline recognition on supported Macs and optional cloud transcription and cleanup. [![Open-Source Software][OSS Icon]](https://github.com/writingmate/aidictation)
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
