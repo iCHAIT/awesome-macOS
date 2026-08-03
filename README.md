@@ -244,6 +244,7 @@
 - [Taskade](https://apps.apple.com/us/app/taskade-manage-anything/id1490048917/) - Real-time organization and task management tool.
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 - [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ![Freeware][Freeware Icon]
+- [Sxitch](https://sxitch.app) - Tree based macos App switching. Use the apps name to pick the app you want to go to, and switch there instantly. [![Open-Source Software][OSS Icon]](https://github.com/MystikoLab/sxitch/)
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
