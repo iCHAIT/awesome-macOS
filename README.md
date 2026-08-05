@@ -228,6 +228,7 @@
 - [Mac Mouse Fixer](https://www.macfix.click/) - Fixes accidental double-clicks and adds smooth scrolling, horizontal scrolling, and wheel zoom for external mice.
 - [MeetingBar](https://meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ![Freeware][Freeware Icon]
 - [MenubarX](https://MenubarX.app) - A powerful menu bar browser.
+- [OATS](https://ariso.ai/oats) - Local-first meeting-notes app with live transcription, speaker labels, and optional fully offline processing. [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - Perfect for collecting information, outlining ideas, adding structure to any sort of writing, and much more.
 - [Pandan](https://apps.apple.com/app/id1569600264) - Time awareness in your menu bar. ![Freeware][Freeware Icon]
