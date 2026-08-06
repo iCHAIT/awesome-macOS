@@ -78,6 +78,7 @@
 ### Data Recovery
 
 - [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - Comprehensive and professional data recovery for a multitude of scenarios.
+- [Cinesalve](https://cinesalve.honorboxx.workers.dev) - Rebuilds the missing index of a truncated MP4 or MOV so footage from a camera that lost power plays again.
 - [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - Recover from filesystem corruptions when Disk Utility is out of options.
 
 
