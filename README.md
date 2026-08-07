@@ -188,6 +188,7 @@
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Record GIF screencasts. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture)
 - [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - Capture and share GIFs on the desktop. ![Freeware][Freeware Icon]
 - [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
+- [ItsPaint](https://sites.fynesite.com/itspaint/) - Native paint app for blank canvases, quick edits and screenshot markup, with step badges and pixelate redaction. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 - [macSVG](https://macsvg.org/) - Design and edit SVG content for web, mobile, and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixea](https://www.imagetasks.com/pixea/) - An image viewer for macOS with a nice minimal modern user interface. ![Freeware][Freeware Icon]
