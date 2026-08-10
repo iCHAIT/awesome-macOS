@@ -382,6 +382,7 @@
 ## Command Line Utilities
 
 - [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
+- [Call Copilot](https://github.com/AnisurRahmann/call-copilot) - Records meeting audio (mic and system output via Core Audio taps) and transcribes it locally with faster-whisper into Markdown, with no cloud or API keys. [![Open-Source Software][OSS Icon]](https://github.com/AnisurRahmann/call-copilot) ![Freeware][Freeware Icon]
 - [CleanMyMac CLI](https://github.com/MacPaw/cleanmymac-cli) - Clean Xcode, Docker, Homebrew, and developer caches, analyze storage, and reclaim disk space from the terminal.
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
