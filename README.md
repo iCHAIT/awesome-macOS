@@ -390,6 +390,7 @@
 - [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 - [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from the terminal. No jailbreak required. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first workspace with notes, tasks and AI chat, stored as plain markdown files. [![Open-Source Software][OSS Icon]](https://github.com/jayamitkatariya/personacli) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
