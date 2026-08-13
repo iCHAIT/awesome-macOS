@@ -384,6 +384,7 @@
 ## Command Line Utilities
 
 - [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
+- [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine, with no account or API key required. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/atomic-agent) ![Freeware][Freeware Icon]
 - [CleanMyMac CLI](https://github.com/MacPaw/cleanmymac-cli) - Clean Xcode, Docker, Homebrew, and developer caches, analyze storage, and reclaim disk space from the terminal.
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tools for developers.
