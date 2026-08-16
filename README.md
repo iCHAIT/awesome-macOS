@@ -349,6 +349,7 @@
 
 ### Video
 
+- [Boiler](https://boiler.jejestudios.com) - Adds the hand-drawn line boil wobble of traditional animation to video. [![Open-Source Software][OSS Icon]](https://github.com/princezoho/zohoboil) ![Freeware][Freeware Icon]
 - [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [IINA](https://lhc70000.github.io/iina/) - Media player with a minimalist design. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
 - [mpv](https://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
