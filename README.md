@@ -248,6 +248,7 @@
 - [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ![Freeware][Freeware Icon]
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
+- [Wandful](https://ostapondo.github.io/wandful/) - Magic wand for the desktop: draw a rune with the mouse and it casts the keyboard shortcut you bound to it. [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/wandful) ![Freeware][Freeware Icon]
 
 
 ### Sharing Files
