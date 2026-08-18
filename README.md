@@ -346,6 +346,7 @@
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](https://github.com/Gcenx/WineskinServer) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ![Freeware][Freeware Icon]
+- [Zisla](https://github.com/wzz6423/zisla) - Native macOS top workspace around the notch with media controls, file handoff, and system utilities. [![Open-Source Software][OSS Icon]](https://github.com/wzz6423/zisla) ![Freeware][Freeware Icon]
 
 ### Video
 
