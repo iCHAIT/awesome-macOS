@@ -275,6 +275,7 @@
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar apps.
 - [Batch Image Resizer](http://www.ironstarmedia.co.uk/resources/osx-image-resizer/) - Resize a large number of images quickly on your computer. ![Freeware][Freeware Icon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
+- [Belay](https://perfectoweb.github.io/Belay/en/) - Keeps a Mac awake while local coding agents are working, then releases the hold automatically. ![Freeware][Freeware Icon]
 - [BetterZip](https://macitbetter.com/) - A very capable and full-featured archive manager.
 - [BitBar](https://github.com/matryer/bitbar) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 - [Boring Notch](https://github.com/TheBoredTeam/boring.notch) - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
