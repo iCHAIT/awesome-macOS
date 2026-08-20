@@ -210,7 +210,7 @@
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
-- [capkiku](https://capkiku.com) - Capture any screen region to reviewed Markdown via on-device Apple Vision OCR. ![Freeware][Freeware Icon]
+- [capkiku](https://capkiku.com) - Native menu bar app for region OCR with on-device Apple Vision, review/edit, Markdown save with frontmatter, and screenshot deletion. ![Freeware][Freeware Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
