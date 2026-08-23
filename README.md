@@ -139,6 +139,7 @@
 ### E-Book Utilities
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
+- [Mekuri](https://mekuri.kkweb.io/) - Local comic and manga reader for CBZ, CBR, and image folders. [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mekuri) ![Freeware][Freeware Icon]
 
 
 ### Editors
