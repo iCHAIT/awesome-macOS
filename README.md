@@ -268,6 +268,7 @@
 ### Utilities
 
 - [1Password](https://1password.com) - Password Manager and Secure Wallet.
+- [AI Subscription Usage](https://github.com/billwonghk/ai-subscription-usage) - Menu bar app that reads local usage logs to compare your ChatGPT, Claude, Gemini, and Grok subscription cost against real API-equivalent value. [![Open-Source Software][OSS Icon]](https://github.com/billwonghk/ai-subscription-usage) ![Freeware][Freeware Icon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
