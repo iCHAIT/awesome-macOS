@@ -221,6 +221,7 @@
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [iCMD](https://icmd.app) - Fuzzy menubar search and vim emulation.
 - [Instant Translate](https://insttranslate.com/mac) - Translate speech and text between 100+ languages from the menu bar.
+- [IraVoice](https://iravoice.com/) - On-device push-to-talk dictation that types into any Mac app.
 - [ItsyCal](https://www.mowglii.com/itsycal/) - A tiny menubar calendar to display your Mac Calendar app events. [![Open-Source Software][OSS Icon]](https://github.com/sfsam/Itsycal) ![Freeware][Freeware Icon]
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
