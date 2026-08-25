@@ -380,6 +380,7 @@
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/) ![Freeware][Freeware Icon]
 - [Clocker](https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12) - Check time in multiple timezones from your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/Abhishaker17/Clocker) ![Freeware][Freeware Icon]
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
+- [SFTPro](https://sftpro.dev) - A native SFTP client with an in-place editor, transfer queue, and SSH-key authentication.
 - [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
 - [Transmit](https://panic.com/transmit/) - A FTP client.
