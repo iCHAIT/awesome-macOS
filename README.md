@@ -262,6 +262,7 @@
 
 ### Terminal
 
+- [crterm](https://crterm.ai) - Beautifully opinionated terminal emulator, with advanced session navigation and GPU-accelerated retro presets. [![Open-Source Software][OSS Icon]](https://github.com/mbcltd/CRTerminal) ![Freeware][Freeware Icon]
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 
 
