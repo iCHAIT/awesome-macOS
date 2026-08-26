@@ -161,7 +161,7 @@
 
 
 ### Finder
-
+- [FolderForge](https://github.com/KeplSiv/FolderForge) - Customize and automate macOS folders with reusable presets, Smart Style rules, and recursive workspace styling. [![Open-Source Software][OSS Icon]](https://github.com/KeplSiv/FolderForge) ![Freeware][Freeware Icon]
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
