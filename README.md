@@ -128,6 +128,7 @@
 - [TopOff](https://github.com/ihazgithub/TopOff) - Menu bar app for Homebrew — full beer mug when packages are fresh, half mug when it's time to refill. [![Open-Source Software][OSS Icon]](https://github.com/ihazgithub/TopOff) ![Freeware][Freeware Icon]
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - The macOS Touch Bar Simulator as a standalone app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/touch-bar-simulator) ![Freeware][Freeware Icon]
 - [Tower](https://www.git-tower.com/) - The most powerful Git client.
+- [Tracexy](https://rockxy.io/tracexy) - Native, local-first network intelligence for investigating live traffic and PCAP or PCAPNG captures as app-aware sessions. [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Tracexy)
 - [Trailer](https://ptsochantaris.github.io/trailer/) - Configurable menubar Git notifications with accompanying native iOS app. [![Open-Source Software][OSS Icon]](https://github.com/ptsochantaris/trailer)
 - [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused) ![Freeware][Freeware Icon]
 - [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
