@@ -285,6 +285,8 @@
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
+- [DeltaSnap](https://scaleninja.com/deltasnap/) - First-class APFS snapshot manager and filesystem version control for Mac: find, compare, and restore earlier files.
+- [DeltaSync](https://scaleninja.com/deltasnap/#deltasync) - Easy to use rsync GUI for directory comparisons and synchronizations. ![Freeware][Freeware Icon]
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Eun/DisableMonitor) ![Freeware][Freeware Icon]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon]](https://github.com/Mortennn/Dozer) ![Freeware][Freeware Icon]
 - [EtreCheck](http://etrecheck.com) - Output system information and configuration to get more informed help from Apple support professionals. ![Freeware][Freeware Icon]
@@ -321,6 +323,7 @@
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under macOS 10.9+ in read-write mode.
 - [Noizio](http://noiz.io/) - Ambient sound equalizer for relaxation or productivity.
+- [Noject](https://scaleninja.com/noject/) - A native macOS menubar app that prevents protected permanently-plugged drives and mounted network shares from being ejected.
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ![Freeware][Freeware Icon]
 - [Noti](https://noti.center/) - Receive Android notifications on your mac (with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
