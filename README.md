@@ -105,6 +105,7 @@
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
 - [Medis](https://getmedis.com) - A modern GUI for Redis.
+- [Mongrel](https://www.visorcraft.com/) - Database systems workbench for 30+ engines with terminals, SFTP, Docker, Kubernetes, and an API client. Runs natively on Apple silicon.
 - [Pasteboard Viewer](https://apps.apple.com/app/id1499215709) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [pgMagic](https://pgmagic.app) - A PostgreSQL client that lets you talk to your database in SQL or natural language.
