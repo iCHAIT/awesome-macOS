@@ -60,6 +60,7 @@
 - [Fader](https://fader.pantafive.dev) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 - [krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
 - [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices, voice cloning, and four AI models running entirely on Apple Silicon via MLX.
+- [Nod](https://hellonod.app/) - Automatically records, transcribes and summarizes meetings, calls and voice notes across Zoom, Meet, Teams and more, in 13 languages.
 - [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon]
 - [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut.
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
