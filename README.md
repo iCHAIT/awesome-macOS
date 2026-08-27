@@ -293,6 +293,7 @@
 - [Finicky](https://johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 - [Flotato](https://flotato.com/) - Use any web site as a beautiful Mac app.
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
+- [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation for HTTP, FTP, BitTorrent, eD2K, HLS and DASH. [![Open-Source Software][OSS Icon]](https://github.com/zerx-lab/FluxDown) ![Freeware][Freeware Icon]
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus) ![Freeware][Freeware Icon]
 - [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray) ![Freeware][Freeware Icon]
 - [Helium](https://github.com/JadenGeller/Helium) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ![Freeware][Freeware Icon]
