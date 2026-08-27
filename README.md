@@ -61,6 +61,7 @@
 - [krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
 - [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices, voice cloning, and four AI models running entirely on Apple Silicon via MLX.
 - [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon]
+- [Qwen Scribe](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation running Qwen3-ASR entirely on Apple Silicon via MLX. [![Open-Source Software][OSS Icon]](https://github.com/VladUZH/qwen-scribe) ![Freeware][Freeware Icon]
 - [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut.
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
