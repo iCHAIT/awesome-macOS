@@ -372,6 +372,7 @@
 - [ShiftPlus](https://shiftplus.app/) - macOS workspace manager to switch workspaces, restore apps and windows across Spaces, monitors, and Macs in one click.
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
 - [Swish](https://highlyopinionated.co/swish/) - Control windows and applications with trackpad gestures.
+- [Waindow](https://www.waindow.app/) - Arrange windows with linked resizing, notes, capture, and Keep Awake. ![Freeware][Freeware Icon]
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ![Freeware][Freeware Icon]
 
 ### Others
