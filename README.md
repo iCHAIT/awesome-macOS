@@ -368,6 +368,7 @@
 - [Hummingbird](https://hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
+- [Plonk](https://ostapondo.github.io/Plonk/) - Snap zones you draw yourself, hotkeys, and workspaces that reopen your apps on the right monitor. [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 - [Rectangle](https://rectangleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 - [ShiftPlus](https://shiftplus.app/) - macOS workspace manager to switch workspaces, restore apps and windows across Spaces, monitors, and Macs in one click.
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
