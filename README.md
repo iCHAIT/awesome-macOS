@@ -283,6 +283,7 @@
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner) - Automatically removes text formatting from the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/Zuehlke/Clipboard_Cleaner) ![Freeware][Freeware Icon]
 - [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
+- [Core-Monitor](https://offyotto.github.io/Core-Monitor/) - A system monitor for Apple Silicon Macs with menu bar stats, SMC sensor readings, and fan control. [![Open-Source Software][OSS Icon]](https://github.com/offyotto/Core-Monitor) ![Freeware][Freeware Icon]
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Eun/DisableMonitor) ![Freeware][Freeware Icon]
