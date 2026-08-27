@@ -257,6 +257,7 @@
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
 - [Monosnap](https://monosnap.com) - Annotate and upload images and screenshots, supports many backends like S3, SFTP, WebDAV, Dropbox, etc. ![Freeware][Freeware Icon]
+- [OneTake](https://chromewebstore.google.com/detail/onetake-screen-recording/khmkeidanahmnggpgepdlflpokipdbih) - Chrome extension that records a browser tab and copies a share link to the clipboard once the upload finishes. No account; recordings are capped at 5 minutes on the free tier, CA$6/mo lifts it to 10 minutes and 1080p.
 - [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 
 
