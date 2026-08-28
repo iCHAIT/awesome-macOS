@@ -177,6 +177,7 @@
 - [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ![Freeware][Freeware Icon]
 - [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 - [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. [![Open-Source Software][OSS Icon]](https://github.com/AaronRandall/Screentendo) ![Freeware][Freeware Icon]
+- [Soju](https://github.com/BCD1210/soju) - Run Battle.net, Diablo II: Resurrected and Steam games with free GPL Wine and Apple’s Game Porting Toolkit. [![Open-Source Software][OSS Icon]](https://github.com/BCD1210/soju) ![Freeware][Freeware Icon]
 - [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. [![Open-Source Software][OSS Icon]](https://github.com/daylen/stockfish-mac) ![Freeware][Freeware Icon]
 
 
