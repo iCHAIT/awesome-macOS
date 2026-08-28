@@ -468,6 +468,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]
 * [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/paretoSecurity/pareto-mac/)
 * [Raccoon](https://github.com/thousandflowers/Raccoon) - CLI to audit Mac security, system info and manage an SSH fleet of Macs from one machine. [![Open-Source Software][OSS Icon]](https://github.com/thousandflowers/Raccoon)
+* [runlock](https://github.com/mcbbugu/runlock) - Audit a local command, lock what it touched, rerun under a macOS seatbelt. [![Open-Source Software][OSS Icon]](https://github.com/mcbbugu/runlock) ![Freeware][Freeware Icon]
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com) - Fully-featured VPN client for Mac.
 * [SimpleumSafe](https://simpleum.com/) - Encrypt, organize and sync files with macOS or iOS.
