@@ -85,6 +85,7 @@
 
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
+- [Burnrate](https://ccburnrate.com) - Menu bar app that tracks Claude Code usage — session and weekly limits, reset countdowns, and burn rate, all read locally with no telemetry.
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 - [Cork](https://corkmac.app) - A fast, intuitive Homebrew GUI [![Open-Source Software][OSS Icon]](https://github.com/buresdv/Cork)
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
