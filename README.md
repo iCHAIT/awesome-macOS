@@ -17,6 +17,7 @@
     - [E-Book Utilities](#e-book-utilities)
     - [Editors](#editors)
     - [Email Utilities](#email-utilities)
+    - [Finance](#finance)
     - [Finder](#finder)
     - [Games](#games)
     - [Graphics](#graphics)
@@ -158,6 +159,11 @@
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Mailplane](https://mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calender, and Contacts.
+
+
+### Finance
+
+- [Recurred](https://gozman.space/apps/recurred) - Track subscriptions and recurring bills with renewal reminders, yearly cost breakdowns, and a cancel-suggesting Optimizer, synced privately through iCloud. ![Freeware][Freeware Icon]
 
 
 ### Finder
