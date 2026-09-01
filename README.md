@@ -167,6 +167,7 @@
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
+- [Tr4wl](https://tr4wl.com/) - Filename search for the files Spotlight does not index, including dotfiles, caches, and the contents of app bundles.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
 
 
