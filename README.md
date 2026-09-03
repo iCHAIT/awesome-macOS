@@ -394,6 +394,7 @@
 - [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 - [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from the terminal. No jailbreak required. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
+- [TendKit](https://github.com/eoctet/tendkit) - Discover, track, and safely update developer tools across macOS and Linux workstations. [![Open-Source Software][OSS Icon]](https://github.com/eoctet/tendkit) ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
