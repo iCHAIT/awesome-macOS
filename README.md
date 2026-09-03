@@ -216,6 +216,7 @@
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
 - [Fantastical](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
+- [Focuh](https://www.focuh.com) - ADHD-friendly to-do list and week planner with a focus timer and system-wide website and app blocking. ![Freeware][Freeware Icon]
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HazeOver](https://hazeover.com/) - Turn distractions down and focus on your current task.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
