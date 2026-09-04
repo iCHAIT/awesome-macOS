@@ -89,6 +89,7 @@
 - [Cork](https://corkmac.app) - A fast, intuitive Homebrew GUI [![Open-Source Software][OSS Icon]](https://github.com/buresdv/Cork)
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Decode](https://microcodingapps.com/products/decode.html) - Converts Xcode Interface Builder files (Xib and Storyboard files) to Swift source code.
+- [DevPeek](https://devpeek.ypgao.com/) - A free HTTP(S) debugging proxy with request mock, automatic parameter decryption, and WebSocket inspection. ![Freeware][Freeware Icon]
 - [Fork](https://git-fork.com/) - a fast and friendly git client for Mac.
 - [DevUtils](https://devutils.com) - All-in-one toolbox for developers. 42+ beautifully crafted useful developer tools, native macOS app, work offline.
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager which allows editing of host files and switching between them. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
