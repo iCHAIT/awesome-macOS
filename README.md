@@ -327,6 +327,7 @@
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
+- [Pelmet](https://pelmet.fif7y.com) - Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do. [![Open-Source Software][OSS Icon]](https://github.com/fif7y/pelmet) ![Freeware][Freeware Icon]
 - [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 - [PureMac](https://github.com/momenbasel/PureMac) - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 - [Radio Silence](https://radiosilenceapp.com) - Simple to use firewall and network monitor.
