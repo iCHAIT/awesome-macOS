@@ -408,6 +408,12 @@
 
 ## Setup
 
+### mac-guide
+
+Modern full-spectrum macOS configuration & power-user guide, covering everyday optimizations, Apple Silicon tuning, GPU terminals, tiling window management (AeroSpace), and UNIX internals without disabling SIP.
+
+* https://github.com/yxxbc/mac-guide
+
 ### DevMyMac
 
 * https://github.com/adamisntdead/DevMyMac
