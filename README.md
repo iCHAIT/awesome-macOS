@@ -352,6 +352,7 @@
 
 ### Video
 
+- [DropShift](https://dropshift.yoquai.com/en/) - Native video, audio, and image converter with trimming, compression, and Finder drag-and-drop workflows.
 - [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [IINA](https://lhc70000.github.io/iina/) - Media player with a minimalist design. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
 - [Mac Classic Player](https://mcp.kkweb.io/) - Media player driven by the keyboard, in the spirit of Media Player Classic. [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mac-classic-player) ![Freeware][Freeware Icon]
