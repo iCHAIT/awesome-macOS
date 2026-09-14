@@ -263,6 +263,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [terminal-pet](https://github.com/Zezoo123/terminal-pet) - An animated pixel-art pet that lives on your terminal window and reacts to your commands. [![Open-Source Software][OSS Icon]](https://github.com/Zezoo123/terminal-pet) ![Freeware][Freeware Icon]
 
 
 ### Utilities
