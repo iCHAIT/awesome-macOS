@@ -213,6 +213,7 @@
 - [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
+- [Compact Contacts](https://compactcontacts.com/) - Dense, searchable table for the contacts already in macOS Contacts, with previewed bulk edit and duplicate merge.
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
 - [Fantastical](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
