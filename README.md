@@ -270,6 +270,7 @@
 - [1Password](https://1password.com) - Password Manager and Secure Wallet.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
+- [ApolloShell](https://silvertree2010.github.io/ApolloShell/) - Desktop shell for macOS 26 with a sidebar, its own dock, a launcher, a dashboard and a control centre. [![Open-Source Software][OSS Icon]](https://github.com/Silvertree2010/ApolloShell) ![Freeware][Freeware Icon]
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
 - [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS X application for bringing dedicatedly 18th century Arts to everyone. [![Open-Source Software][OSS Icon]](https://github.com/NghiaTranUIT/artify-macos) ![Freeware][Freeware Icon]
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar apps.
