@@ -215,6 +215,7 @@
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
+- [Earnote](https://earnote.dev/) - Records lectures, meetings and calls, transcribes them with Whisper and writes structured notes — everything runs locally on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/louiskl/Earnote) ![Freeware][Freeware Icon]
 - [Fantastical](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HazeOver](https://hazeover.com/) - Turn distractions down and focus on your current task.
