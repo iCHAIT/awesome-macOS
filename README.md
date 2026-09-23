@@ -254,6 +254,7 @@
 ### Sharing Files
 
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [JuiceMount](https://juicemount.com) - Mount your own NAS as a Finder volume and edit video off it through a local SSD cache. [![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/juicemount) ![Freeware][Freeware Icon]
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
 - [Monosnap](https://monosnap.com) - Annotate and upload images and screenshots, supports many backends like S3, SFTP, WebDAV, Dropbox, etc. ![Freeware][Freeware Icon]
