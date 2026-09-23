@@ -383,6 +383,7 @@
 - [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
 - [Transmit](https://panic.com/transmit/) - A FTP client.
+- [Qwen3.8 Local Deployment Guide](https://github.com/xiaoxianxian/qwen3.8-deployment) - Step-by-step guide to run Qwen3.8-27B locally on Apple Silicon Macs via Ollama, with MTP speedups and real benchmarks. [![Open-Source Software][OSS Icon]](https://github.com/xiaoxianxian/qwen3.8-deployment) ![Freeware][Freeware Icon]
 
 
 ## Command Line Utilities
