@@ -233,6 +233,7 @@
 - [NoteGen](https://notegen.top/) - Local-first Markdown notes app with capture, editing, file management, canvas, and optional sync. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen)
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - Perfect for collecting information, outlining ideas, adding structure to any sort of writing, and much more.
+- [Orca One](https://orcaone.com/) - Private on-device AI dictation and meeting transcription with a one-time purchase.
 - [Pandan](https://apps.apple.com/app/id1569600264) - Time awareness in your menu bar. ![Freeware][Freeware Icon]
 - [Paste](http://pasteapp.me) - The new way to copy & paste for Mac.
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - A nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver)
