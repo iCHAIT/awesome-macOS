@@ -253,6 +253,7 @@
 
 ### Sharing Files
 
+- [Bucketree](https://bucketree.app/download/) - Manage a whole Backblaze B2 account, from files and buckets to application keys.
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
