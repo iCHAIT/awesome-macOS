@@ -218,6 +218,7 @@
 - [Fantastical](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HazeOver](https://hazeover.com/) - Turn distractions down and focus on your current task.
+- [horita](https://horita.app) - Shows your next meeting in the menu bar with a countdown and joins Zoom, Meet or Teams calls in one click. [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/horita) ![Freeware][Freeware Icon]
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [iCMD](https://icmd.app) - Fuzzy menubar search and vim emulation.
 - [Instant Translate](https://insttranslate.com/mac) - Translate speech and text between 100+ languages from the menu bar.
