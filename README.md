@@ -372,6 +372,7 @@
 - [ShiftPlus](https://shiftplus.app/) - macOS workspace manager to switch workspaces, restore apps and windows across Spaces, monitors, and Macs in one click.
 - [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
 - [Swish](https://highlyopinionated.co/swish/) - Control windows and applications with trackpad gestures.
+- [Tungsten Edge](https://tungstenedge.app/en/) - A per-window taskbar for macOS — a Dock replacement that organizes by window, not app. [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge)
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ![Freeware][Freeware Icon]
 
 ### Others
