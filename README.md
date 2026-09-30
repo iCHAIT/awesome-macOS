@@ -359,6 +359,7 @@
 - [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 - [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home) ![Freeware][Freeware Icon]
 - [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility. [![Open-Source Software][OSS Icon]](https://github.com/spilja/Subtitlr/tree/master)
+- [TBD](https://tbd.yt/) - Download YouTube video and audio with yt-dlp, and drive it from a phone on the same Wi-Fi. [![Open-Source Software][OSS Icon]](https://github.com/eliorpom-cmd/to-be-downloaded) ![Freeware][Freeware Icon]
 
 ### Window Management
 
