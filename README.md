@@ -162,6 +162,7 @@
 
 ### Finder
 
+- [Cmdr](https://getcmdr.com) - Damn fast and feature-rich two-pane file manager in the spirit of Total Commander, with _optional_ AI features. Free for personal use. Source available.
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
