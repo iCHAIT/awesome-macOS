@@ -162,6 +162,7 @@
 
 ### Finder
 
+- [Folia Files](https://foliafiles.com/) - File manager with side-by-side panes, search inside files, and servers and clouds mounted as disks.
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
