@@ -325,6 +325,7 @@
 - [Noti](https://noti.center/) - Receive Android notifications on your mac (with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
+- [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - Remap the 12 side buttons of the Razer Naga V2 HyperSpeed, save profiles to the mouse, and set DPI and polling rate. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
 - [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
