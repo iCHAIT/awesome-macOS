@@ -354,6 +354,7 @@
 
 - [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [IINA](https://lhc70000.github.io/iina/) - Media player with a minimalist design. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
+- [IPTVMac](https://goelir.github.io/IPTVMac/) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up. [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
 - [Mac Classic Player](https://mcp.kkweb.io/) - Media player driven by the keyboard, in the spirit of Media Player Classic. [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mac-classic-player) ![Freeware][Freeware Icon]
 - [mpv](https://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 - [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
