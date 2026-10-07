@@ -139,6 +139,7 @@
 ### E-Book Utilities
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
+- [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - RSVP speed reader for EPUB, PDF and web articles with a full-text view. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 
 
 ### Editors
