@@ -383,6 +383,7 @@
 - [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
 - [Transmit](https://panic.com/transmit/) - A FTP client.
+- [Vane](https://notnaki.github.io/vane/) - Native WebKit browser with sidebar tabs and Spaces (early development; macOS 26+). [![Open-Source Software][OSS Icon]](https://github.com/notnaki/vane) ![Freeware][Freeware Icon]
 
 
 ## Command Line Utilities
