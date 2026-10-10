@@ -222,6 +222,7 @@
 - [iCMD](https://icmd.app) - Fuzzy menubar search and vim emulation.
 - [Instant Translate](https://insttranslate.com/mac) - Translate speech and text between 100+ languages from the menu bar.
 - [ItsyCal](https://www.mowglii.com/itsycal/) - A tiny menubar calendar to display your Mac Calendar app events. [![Open-Source Software][OSS Icon]](https://github.com/sfsam/Itsycal) ![Freeware][Freeware Icon]
+- [Kaho](https://kaho.utsava.xyz/) - Hold-to-talk dictation that transcribes speech on your Mac and types it into any app. [![Open-Source Software][OSS Icon]](https://github.com/utsavanand/kaho) ![Freeware][Freeware Icon]
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 - [Keyty](https://keyty.app) - Keystroke and mouse-click visualizer for demos, screen recordings, presentations, and livestreams. [![Open-Source Software][OSS Icon]](https://github.com/keytyapp/Keyty) ![Freeware][Freeware Icon]
