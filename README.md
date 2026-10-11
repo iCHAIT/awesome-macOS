@@ -60,7 +60,6 @@
 - [Fader](https://fader.pantafive.dev) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 - [krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
 - [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices, voice cloning, and four AI models running entirely on Apple Silicon via MLX.
-- [Plainsay](https://plainsay.app/) - Dictation that transcribes on-device with Whisper or Parakeet, with an optional cleanup pass using a key you control. [![Open-Source Software][OSS Icon]](https://github.com/conrader/plainsay) ![Freeware][Freeware Icon]
 - [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon]
 - [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut.
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
@@ -237,6 +236,7 @@
 - [Pandan](https://apps.apple.com/app/id1569600264) - Time awareness in your menu bar. ![Freeware][Freeware Icon]
 - [Paste](http://pasteapp.me) - The new way to copy & paste for Mac.
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - A nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver)
+- [Plainsay](https://plainsay.app/) - Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+). [![Open-Source Software][OSS Icon]](https://github.com/conrader/plainsay)
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Presentify](https://presentify.compzets.com) - Annotate anything on screen, be it, images, pdfs, videos, code, etc.
 - [Qbserve](https://qotoqot.com/qbserve/) - Automatic time and project tracking, timesheets, invoicing, and real-time productivity feedback.
