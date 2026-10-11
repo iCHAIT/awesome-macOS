@@ -298,6 +298,7 @@
 - [Helium](https://github.com/JadenGeller/Helium) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ![Freeware][Freeware Icon]
 - [Holeberry](https://github.com/pedrovieira/Holeberry) - A native macOS menu bar app to monitor and control your Pi-hole instances. [![Open-Source Software][OSS Icon]](https://github.com/pedrovieira/Holeberry) ![Freeware][Freeware Icon]
 - [Irvue](http://irvue.tumblr.com) - Thousands of stunning photos and wallpapers from Unsplash on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/leonspok/Irvue-Screensaver) ![Freeware][Freeware Icon]
+- [Isle](https://islenotch.com) - Turns the MacBook notch into a Dynamic Island with media controls, timers, a file shelf, and screenshot sharing.
 - [Itsyhome](https://itsyhome.app) - Control HomeKit and Home Assistant smart home devices from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) ![Freeware][Freeware Icon]
 - [Itsytv](https://itsytv.app) - Control your Apple TV from the menu bar with remote, now playing widget, and app launcher. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
