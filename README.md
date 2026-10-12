@@ -263,6 +263,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [tern](https://tern.carrot-soft.tech) - Native SSH client with an encrypted vault, password-manager logins and sync to your own Git repo. [![Open-Source Software][OSS Icon]](https://github.com/your-moon/tern) ![Freeware][Freeware Icon]
 
 
 ### Utilities
