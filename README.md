@@ -156,6 +156,7 @@
 ### Email Utilities
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
+- [Aster Mail](https://astermail.org) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. [![Open-Source Software][OSS Icon]](https://github.com/Aster-Privacy/Aster-Mail)
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Mailplane](https://mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calender, and Contacts.
 
