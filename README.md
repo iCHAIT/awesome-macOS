@@ -475,6 +475,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ![Freeware][Freeware Icon]
 * [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software. [![Open-Source Software][OSS Icon]](https://veracrypt.codeplex.com/SourceControl/latest) ![Freeware][Freeware Icon]
 * [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
+* [Wardlume](https://wardlume.github.io) - Locks the keyboard, mouse, and trackpad while the screen stays visible, so builds, renders, and AI agents keep running. Lives in the menu bar; unlocks with Touch ID or Apple Watch.
 
 
 ## Miscellaneous
