@@ -263,6 +263,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [Termstead](https://khorenyan.com/termstead/) - Native SSH client with a session tree, jump hosts, split panes and SFTP beside the terminal. [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
 
 
 ### Utilities
