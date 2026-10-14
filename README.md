@@ -231,6 +231,7 @@
 - [MeetingBar](https://meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ![Freeware][Freeware Icon]
 - [MenubarX](https://MenubarX.app) - A powerful menu bar browser.
 - [NoteGen](https://notegen.top/) - Local-first Markdown notes app with capture, editing, file management, canvas, and optional sync. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen)
+- [Nogrammerly](https://github.com/gaurabh-pei/nogrammerly) - Checks spelling, grammar and style in the text field you are typing in, in almost any app, with optional on-device rewrites. [![Open-Source Software][OSS Icon]](https://github.com/gaurabh-pei/nogrammerly) ![Freeware][Freeware Icon]
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - Perfect for collecting information, outlining ideas, adding structure to any sort of writing, and much more.
 - [Pandan](https://apps.apple.com/app/id1569600264) - Time awareness in your menu bar. ![Freeware][Freeware Icon]
