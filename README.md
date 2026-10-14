@@ -364,6 +364,7 @@
 
 - [Amethyst](http://ianyh.com/amethyst/) - Window manager (automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
+- [Dockaroo](https://dockaroo.com) - A dock for every display and every desktop, showing only the apps with windows there.
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [Hummingbird](https://hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
