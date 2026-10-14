@@ -330,6 +330,7 @@
 - [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 - [PureMac](https://github.com/momenbasel/PureMac) - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 - [Radio Silence](https://radiosilenceapp.com) - Simple to use firewall and network monitor.
+- [RAM Folder](https://less-software.sh/ram-folder/) - Seamlessly transform any folder into a tmpfs RAM disk with transparent data synchronization.
 - [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions. [![Open-Source Software][OSS Icon]](https://github.com/avibrazil/RDM)
 - [SaneBar](https://sanebar.com) - Native menu bar manager with quick reveal controls and Touch ID lock.
