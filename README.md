@@ -359,6 +359,7 @@
 - [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 - [Subler](https://bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home) ![Freeware][Freeware Icon]
 - [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility. [![Open-Source Software][OSS Icon]](https://github.com/spilja/Subtitlr/tree/master)
+- [Toma](https://toma.felipebasurto.com/) - Record a region of the screen and save it as MP4, HEVC or GIF. [![Open-Source Software][OSS Icon]](https://github.com/felipebasurto/toma) ![Freeware][Freeware Icon]
 
 ### Window Management
 
