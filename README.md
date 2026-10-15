@@ -263,6 +263,7 @@
 ### Terminal
 
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [Trinidad Head](https://nicedreamzwholesale.com/software/trinidad-head/) - Terminal emulator written in Rust that gives each window its own glowing color and sets your own prompts apart in long AI chat sessions. [![Open-Source Software][OSS Icon]](https://github.com/nicedreamzapp/trinidad-head) ![Freeware][Freeware Icon]
 
 
 ### Utilities
