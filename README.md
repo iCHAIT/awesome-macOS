@@ -192,6 +192,7 @@
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixea](https://www.imagetasks.com/pixea/) - An image viewer for macOS with a nice minimal modern user interface. ![Freeware][Freeware Icon]
 - [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
+- [Snip](https://sniperaser.com/mac/) - Remove backgrounds, erase objects, upscale images and copy text from the screen, all on-device.
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
 - [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
