@@ -68,6 +68,7 @@
 ### Backup
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
 - [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
+- [ShotGrab](https://shotgrab.net) - Import photos and videos from SD cards, verifying every file with SHA-256 and organizing them by metadata.
 
 ### Chat Clients
 
