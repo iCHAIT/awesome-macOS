@@ -394,7 +394,7 @@
 - [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 - [mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 - [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from the terminal. No jailbreak required. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
-- [RowSafe CLI](https://rowsafe.sh) - PostgreSQL health checks, query diagnostics and tuning from the terminal, using database credentials without a RowSafe account. [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
+- [RowSafe CLI](https://rowsafe.sh) - Apache-2.0 CLI for PostgreSQL health checks, query diagnostics and tuning through a direct database connection. [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
 
 ## macOS Utilities
 
