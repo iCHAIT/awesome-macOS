@@ -268,6 +268,7 @@
 ### Utilities
 
 - [1Password](https://1password.com) - Password Manager and Secure Wallet.
+- [Animi](https://turhe123.github.io/animi/) - Ultra-lightweight 4K/8K video live wallpaper and idle screensaver engine. [![Open-Source Software][OSS Icon]](https://github.com/turhe123/animi) ![Freeware][Freeware Icon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
