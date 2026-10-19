@@ -352,7 +352,7 @@
 
 ### Video
 
-- [Emby Companion](https://github.com/ffinly/emby-companion) - Native SwiftUI companion for Emby, with TMDB browsing and search, library availability checks, optional MoviePilot subscriptions, external playback with progress sync, and Liquid Glass support on macOS 26+. ![Freeware][Freeware Icon]
+- [Emby Companion](https://github.com/ffinly/emby-companion) - Native SwiftUI movie and TV discovery app with curated lists, studio catalogs, TMDB search, optional Emby library checks, external playback with progress sync, and MoviePilot subscriptions. ![Freeware][Freeware Icon]
 - [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [IINA](https://lhc70000.github.io/iina/) - Media player with a minimalist design. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
 - [Mac Classic Player](https://mcp.kkweb.io/) - Media player driven by the keyboard, in the spirit of Media Player Classic. [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mac-classic-player) ![Freeware][Freeware Icon]
