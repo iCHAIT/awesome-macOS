@@ -162,6 +162,7 @@
 
 ### Finder
 
+- [FinderRight](https://finderright.erhuerhu.dpdns.org/) - Adds New File, Copy Path, Open in Terminal/Editor and Cut & Paste (⌘X/⌘V) to the Finder context menu. [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
