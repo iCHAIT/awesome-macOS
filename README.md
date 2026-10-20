@@ -209,6 +209,7 @@
 ### Productivity
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [BetterPad](https://novasynapse.com/products/betterpad/) - Independent mouse and trackpad scroll direction, smooth inertia, and per-app profiles. ![Freeware][Freeware Icon]
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
@@ -230,6 +231,7 @@
 - [Mac Mouse Fixer](https://www.macfix.click/) - Fixes accidental double-clicks and adds smooth scrolling, horizontal scrolling, and wheel zoom for external mice.
 - [MeetingBar](https://meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ![Freeware][Freeware Icon]
 - [MenubarX](https://MenubarX.app) - A powerful menu bar browser.
+- [MultiMac](https://novasynapse.com/products/multimac/) - Share keyboard, mouse, clipboard, and screen across multiple Macs on different Apple IDs. ![Freeware][Freeware Icon]
 - [NoteGen](https://notegen.top/) - Local-first Markdown notes app with capture, editing, file management, canvas, and optional sync. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen)
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - Perfect for collecting information, outlining ideas, adding structure to any sort of writing, and much more.
