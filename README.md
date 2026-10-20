@@ -303,6 +303,7 @@
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Jiffy](https://sindresorhus.com/jiffy) - Discover and share the best GIFs on GIPHY. ![Freeware][Freeware Icon]
 - [Juicy](https://getjuicy.app) - Custom battery alerts and battery health monitoring your Mac.
+- [KarmaDisk](https://www.karmadisk.eu/) - Visualize disk usage, find duplicate files, and losslessly compress supported images with verification.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa) ![Freeware][Freeware Icon]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Menu bar utility that prevents Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake) ![Freeware][Freeware Icon]
 - [Keka](https://www.keka.io/) - Compress to and extract from many archive file formats. ![Freeware][Freeware Icon]
