@@ -268,6 +268,7 @@
 ### Utilities
 
 - [1Password](https://1password.com) - Password Manager and Secure Wallet.
+- [Aide](https://aide.tinyapps.space) - Menu bar load indicator that lists only the apps over your CPU or memory limit, with Pause, Restart and Kill.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
